@@ -1,4 +1,4 @@
-# XenoNer
+# XenoMet
 XenoNer corpus materials
 
 In this repository four files of XenoNer corpus ("corpus" folder)  are provided:
