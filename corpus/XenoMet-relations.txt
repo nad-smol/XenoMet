@@ -1,0 +1,4246 @@
+10024724	T2:T3	Substrate and its metabolite	NA	NA
+10024724	T2:T4	Substrate and its metabolite	NA	NA
+10024724	T3:T4	Synonyms	NA	NA
+10024724	T3:T5	Substrate and its metabolite	NA	NA
+10024724	T4:T5	Substrate and its metabolite	NA	NA
+10024724	T9:T10	Substrate and its metabolite	NA	NA
+10024724	T9:T11	Substrate and its metabolite	NA	NA
+10024724	T9:T12	Substrate and its metabolite	NA	NA
+10024724	T15:T16	Substrate and its metabolite	NA	NA
+10024724	T16:T17	Substrate and its metabolite	NA	NA
+10024724	T18:T19	Substrate and its metabolite	NA	NA
+10027632	T5:T9	Substrate and its metabolite	7-hydroxylation	T6
+10027632	T5:T10	Substrate and its metabolite	7-hydroxylation	T7
+10027632	T7:T9	Substrate and its metabolite	O-deethylation	T8
+10027632	T7:T10	Substrate and its metabolite	O-deethylation	T8
+10027632	T9:T11	Substrate and its metabolite	7-hydroxylation	T12
+10027632	T10:T11	Substrate and its metabolite	7-hydroxylation	T12
+10027632	T9:T13	Substrate and its metabolite	O-deethylation	T14
+10027632	T10:T13	Substrate and its metabolite	O-deethylation	T14
+10027632	T9:T10	Synonyms	NA	NA
+10051064	T3:T4	Synonyms	NA	NA
+10051064	T5:T6	Synonyms	NA	NA
+10051064	T11: T13	Substrate and its metabolite	NA	NA
+10051064	T11:T14	Substrate and its metabolite	NA	NA
+10051064	T11:T15	Substrate and its metabolite	NA	NA
+10051064	T11:T16	Substrate and its metabolite	NA	NA
+10051064	T17:T18	Substrate and its metabolite	NA	NA
+1006719	T2:T3	Synonyms	NA	NA
+1006719	T2:T4	Synonyms	NA	NA
+1006719	T3:T4	Synonyms	NA	NA
+1006719	T2:T6	Substrate and its metabolite	NA	NA
+1006719	T3:T6	Substrate and its metabolite	NA	NA
+1006719	T4:T6	Substrate and its metabolite	NA	NA
+10068153	T4:T5	Substrate and its metabolite	NA	NA
+10068153	T7:T9	Substrate and its metabolite	NA	NA
+10075405	T2:T4	Substrate and its metabolite	NA	NA
+10075405	T3:T4	Substrate and its metabolite	NA	NA
+10075405	T2:T3	Synonyms	NA	NA
+10075405	T19:T20	Substrate and its metabolite	NA	NA
+10077437	T5:T7	Substrate and its metabolite	NA	NA
+10077437	T5:T8	Substrate and its metabolite	NA	NA
+10077437	T6:T7	Substrate and its metabolite	NA	NA
+10077437	T6:T8	Substrate and its metabolite	NA	NA
+10077437	T5:T6	Synonyms	NA	NA
+10077437	T7:T8	Synonyms	NA	NA
+10077437	T28:T29	Substrate and its metabolite	NA	NA
+10078836	T2:T3	Synonyms	NA	NA
+10078836	T2:T4	Synonyms	NA	NA
+10078836	T3:T4	Synonyms	NA	NA
+10078836	T7:T8	Substrate and its metabolite	NA	NA
+10078842	T6:T8	Substrate and its metabolite	oxidation	T7
+10078842	T4:T8	Substrate and its metabolite	oxidation	T7
+10079307	T2:T3	Synonyms	NA	NA
+10094790	T1:T2	Synonyms	NA	NA
+10094790	T3:T5	Substrate and its metabolite	NA	NA
+10094790	T3:T6	Substrate and its metabolite	NA	NA
+10094790	T4:T5	Substrate and its metabolite	NA	NA
+10094790	T4:T6	Substrate and its metabolite	NA	NA
+10094790	T3:T4	Synonyms	NA	NA
+10094790	T5:T6	Synonyms	NA	NA
+10096261	T1:T2	Substrate and its metabolite	NA	NA
+10096261	T3:T4	Substrate and its metabolite	NA	NA
+10096261	T6:T7	Substrate and its metabolite	NA	NA
+10096261	T8:T9	Substrate and its metabolite	NA	NA
+10096261	T10:T11	Substrate and its metabolite	NA	NA
+1012347	T1:T9	Substrate and its metabolite	NA	NA
+1012347	T2:T9	Substrate and its metabolite	NA	NA
+1012347	T3:T9	Substrate and its metabolite	NA	NA
+1012347	T4:T9	Substrate and its metabolite	NA	NA
+1012347	T1:T10	Substrate and its metabolite	NA	NA
+1012347	T2:T10	Substrate and its metabolite	NA	NA
+1012347	T3:T10	Substrate and its metabolite	NA	NA
+1012347	T4:T10	Substrate and its metabolite	NA	NA
+10192756	T9:T10	Substrate and its metabolite	4-methylhydroxylation	T6
+10192756	T11:T12	Substrate and its metabolite	7-hydroxylation	T8
+10197418	T7:T10	Substrate and its metabolite	NA	NA
+10197418	T8:T10	Substrate and its metabolite	NA	NA
+10197418	T9:T10	Substrate and its metabolite	NA	NA
+10197480	T4:T6	Substrate and its metabolite	NA	NA
+10197480	T5:T6	Substrate and its metabolite	NA	NA
+10197480	T4:T5	Synonyms	NA	NA
+10197480	T18:T19	Substrate and its metabolite	NA	NA
+10197480	T20:T21	Substrate and its metabolite	NA	NA
+10197480	T26:T28	Substrate and its metabolite	NA	NA
+10197480	T27:T28	Substrate and its metabolite	NA	NA
+10197480	T32:T33	Substrate and its metabolite	NA	NA
+10197480	T38:T39	Substrate and its metabolite	NA	NA
+10201824	T2:T3	Substrate and its metabolite	NA	NA
+10201824	T4:T6	Substrate and its metabolite	NA	NA
+10201824	T5:T6	Substrate and its metabolite	NA	NA
+10202964	T3:T4	Substrate and its metabolite	NA	NA
+10207612	T24:T25	Substrate and its metabolite	NA	NA
+10217337	T5:T6	Synonyms	NA	NA
+10217337	T7:T8	Synonyms	NA	NA
+10217337	T9:T10	Synonyms	NA	NA
+10219970	T6:T8	Substrate and its metabolite	hydroxylation	T7
+10219970	T13:T14	Substrate and its metabolite	NA	NA
+10223205	T1:T2	Substrate and its metabolite	NA	NA
+10223205	T1:T3	Substrate and its metabolite	NA	NA
+10223205	T4:T5	Substrate and its metabolite	NA	NA
+10223205	T4:T6	Substrate and its metabolite	NA	NA
+10223205	T4:T7	Substrate and its metabolite	NA	NA
+10223205	T4:T8	Substrate and its metabolite	NA	NA
+10223205	T5:T6	Synonyms	NA	NA
+10223205	T7:T8	Synonyms	NA	NA
+10223723	T1:T2	Synonyms	NA	NA
+10223723	T3:T4	Synonyms	NA	NA
+10223723	T5:T6	Substrate and its metabolite	NA	NA
+10223723	T5:T7	Substrate and its metabolite	NA	NA
+10223723	T6:T7	Synonyms	NA	NA
+10231150	T2:T3	Synonyms	NA	NA
+10232828	T6:T7	Substrate and its metabolite	NA	NA
+10232828	T16:T18	Substrate and its metabolite	NA	NA
+10232828	T17:T18	Substrate and its metabolite	NA	NA
+10232828	T21:T24	Substrate and its metabolite	NA	NA
+10232828	T25:T26	Substrate and its metabolite	NA	NA
+10232828	T26:T27	Substrate and its metabolite	NA	NA
+103331	T3:T5	Substrate and its metabolite	NA	NA
+103331	T3:T6	Substrate and its metabolite	NA	NA
+103331	T3:T7	Substrate and its metabolite	NA	NA
+103331	T4:T5	Substrate and its metabolite	NA	NA
+103331	T4:T6	Substrate and its metabolite	NA	NA
+103331	T4:T7	Substrate and its metabolite	NA	NA
+10333318	T10:T11	Substrate and its metabolite	NA	NA
+10340724	T2:T4	Substrate and its metabolite	NA	NA
+10340724	T3:T4	Substrate and its metabolite	NA	NA
+10340724	T2:T3	Synonyms	NA	NA
+10340724	T5:T7	Substrate and its metabolite	NA	NA
+10340724	T6:T7	Substrate and its metabolite	NA	NA
+10340724	T5:T6	Synonyms	NA	NA
+10340724	T8:T9	Substrate and its metabolite	NA	NA
+10340724	T13:T14	Substrate and its metabolite	NA	NA
+10340724	T13:T15	Substrate and its metabolite	NA	NA
+10340724	T22:T23	Substrate and its metabolite	NA	NA
+10340724	T24:T25	Substrate and its metabolite	NA	NA
+10340724	T27:T28	Substrate and its metabolite	NA	NA
+10341740	T8:T9	Substrate and its metabolite	NA	NA
+10341740	T8:T10	Substrate and its metabolite	NA	NA
+10344638	T7:T8	Substrate and its metabolite	NA	NA
+10344638	T9:T11	Substrate and its metabolite	NA	NA
+10344638	T9:T13	Substrate and its metabolite	NA	NA
+10348176	T1:T2	Substrate and its metabolite	NA	NA
+10348176	T3:T4	Synonyms	NA	NA
+10348180	T2:T3	Synonyms	NA	NA
+10348185	T7:T8	Synonyms	NA	NA
+10348185	T9:T10	Substrate and its metabolite	NA	NA
+10354960	T5:T10	Substrate and its metabolite	10-hydroxylation	T4
+10365644	T2:T3	Synonyms	NA	NA
+10365644	T4:T5	Substrate and its metabolite	NA	NA
+10365644	T4:T6	Substrate and its metabolite	NA	NA
+10365644	T5:T6	Synonyms	NA	NA
+10369328	T8:T9	Substrate and its metabolite	NA	NA
+10403533	T3:T4	Substrate and its metabolite	NA	NA
+10406210	T2:T3	Substrate and its metabolite	NA	NA
+10406210	T2:T4	Substrate and its metabolite	NA	NA
+10406210	T2:T5	Substrate and its metabolite	NA	NA
+10406210	T2:T6	Substrate and its metabolite	NA	NA
+10406210	T2:T7	Substrate and its metabolite	NA	NA
+10406210	T2:T8	Substrate and its metabolite	NA	NA
+10406210	T2:T9	Substrate and its metabolite	NA	NA
+10406210	T2:T10	Substrate and its metabolite	NA	NA
+10406210	T25:T26	Substrate and its metabolite	NA	NA
+10406210	T25:T27	Substrate and its metabolite	NA	NA
+10408839	T2:T3	Substrate and its metabolite	NA	NA
+10410955	T2:T3	Substrate and its metabolite	NA	NA
+10410955	T2:T4	Substrate and its metabolite	NA	NA
+10410955	T2:T5	Substrate and its metabolite	NA	NA
+10410955	T2:T6	Substrate and its metabolite	NA	NA
+10410955	T2:T7	Substrate and its metabolite	NA	NA
+10410955	T3:T4	Synonyms	NA	NA
+10414794	T2:T3	Synonyms	NA	NA
+10414794	T2:T4	Substrate and its metabolite	NA	NA
+10414794	T3:T4	Substrate and its metabolite	NA	NA
+10414794	T2:T5	Substrate and its metabolite	NA	NA
+10414794	T3:T5	Substrate and its metabolite	NA	NA
+10414794	T21:T22	Substrate and its metabolite	NA	NA
+10414794	T25:T26	Substrate and its metabolite	NA	NA
+10424321	T2:T3	Synonyms	NA	NA
+10424321	T4:T5	Synonyms	NA	NA
+10424321	T8:T9	Synonyms	NA	NA
+10429839	T21:T22	Synonyms	NA	NA
+10429839	T23:T24	Synonyms	NA	NA
+10429839	T29:T30	Synonyms	NA	NA
+10437670	T11:T12	Substrate and its metabolite	NA	NA
+10437670	T11:T13	Substrate and its metabolite	NA	NA
+10440465	T1:T2	Substrate and its metabolite	NA	NA
+10440465	T5:T6	Substrate and its metabolite	NA	NA
+10440465	T5:T7	Substrate and its metabolite	NA	NA
+10440465	T5:T8	Substrate and its metabolite	NA	NA
+10440465	T9:T11	Substrate and its metabolite	NA	NA
+10440465	T13:T14	Substrate and its metabolite	NA	NA
+10456490	T6:T7	Substrate and its metabolite	NA	NA
+10456690	T3:T4	Synonyms	NA	NA
+10456690	T5:T6	Substrate and its metabolite	NA	NA
+10456690	T5:T7	Substrate and its metabolite	NA	NA
+10456690	T6:T7	Synonyms	NA	NA
+10456690	T5:T8	Substrate and its metabolite	NA	NA
+10456690	T5:T9	Substrate and its metabolite	NA	NA
+10456690	T8:T9	Synonyms	NA	NA
+10456690	T5:T10	Substrate and its metabolite	NA	NA
+10456690	T5:T11	Substrate and its metabolite	NA	NA
+10456690	T10:T11	Synonyms	NA	NA
+10456690	T5:T12	Substrate and its metabolite	NA	NA
+10456690	T5:T13	Substrate and its metabolite	NA	NA
+10456690	T12:T13	Synonyms	NA	NA
+10456690	T5:T15	Substrate and its metabolite	NA	NA
+10456690	T5:T16	Substrate and its metabolite	NA	NA
+10456690	T15:T16	Synonyms	NA	NA
+10460069	T6:T7	Substrate and its metabolite	NA	NA
+10460069	T8:T9	Substrate and its metabolite	NA	NA
+10468218	T5:T6	Substrate and its metabolite	NA	NA
+10472315	T15:T17	Substrate and its metabolite	NA	NA
+10492058	T17:T20	Substrate and its metabolite	NA	NA
+10492058	T18:T20	Substrate and its metabolite	NA	NA
+10503898	T12:T13	Synonyms	NA	NA
+10503898	T17:T18	Synonyms	NA	NA
+10503898	T20:T21	Synonyms	NA	NA
+10503898	T22:T23	Synonyms	NA	NA
+10503898	T24:T25	Synonyms	NA	NA
+10503898	T26:T27	Synonyms	NA	NA
+10503898	T28:T29	Substrate and its metabolite	NA	NA
+10510156	T7:T8	Substrate and its metabolite	NA	NA
+10510747	T3:T4	Substrate and its metabolite	NA	NA
+10510747	T3:T5	Substrate and its metabolite	NA	NA
+10510747	T4:T5	Synonyms	NA	NA
+10510747	T6:T7	Substrate and its metabolite	NA	NA
+10510769	T1:T2	Synonyms	NA	NA
+10510769	T1:T4	Substrate and its metabolite	NA	NA
+10510769	T2:T4	Substrate and its metabolite	NA	NA
+10510769	T5:T6	Synonyms	NA	NA
+10510769	T7:T8	Synonyms	NA	NA
+10511268	T16:T17	Substrate and its metabolite	NA	NA
+10511279	T1:T2	Substrate and its metabolite	NA	NA
+10511279	T3:T4	Synonyms	NA	NA
+10511279	T3:T5	Substrate and its metabolite	NA	NA
+10511279	T4:T5	Substrate and its metabolite	NA	NA
+10511279	T9:T10	Substrate and its metabolite	NA	NA
+10511279	T14:T15	Substrate and its metabolite	NA	NA
+10511279	T19:T20	Substrate and its metabolite	NA	NA
+10517224	T1:T2	Substrate and its metabolite	NA	NA
+10517224	T4:T5	Synonyms	NA	NA
+10517224	T6:T7	Substrate and its metabolite	NA	NA
+10517234	T1:T2	Synonyms	NA	NA
+10517234	T4:T5	Synonyms	NA	NA
+10517350	T2:T3	Synonyms	NA	NA
+10517544	T3:T4	Synonyms	NA	NA
+10517544	T5:T6	Synonyms	NA	NA
+10517544	T14:T15	Substrate and its metabolite	NA	NA
+10517562	T1:T2	Substrate and its metabolite	NA	NA
+10517562	T4:T5	Substrate and its metabolite	NA	NA
+10517562	T11:T12	Substrate and its metabolite	NA	NA
+10529003	T1:T3	Substrate and its metabolite	NA	NA
+10529003	T2:T3	Substrate and its metabolite	NA	NA
+10529003	T5:T6	Substrate and its metabolite	NA	NA
+10552081	T3:T4	Synonyms	NA	NA
+10552081	T12:T13	Substrate and its metabolite	NA	NA
+10552081	T20:T21	Substrate and its metabolite	NA	NA
+10563869	T2:T3	Synonyms	NA	NA
+10563869	T2:T4	Substrate and its metabolite	NA	NA
+10563869	T2:T5	Substrate and its metabolite	NA	NA
+10563869	T2:T6	Substrate and its metabolite	NA	NA
+10563869	T3:T4	Substrate and its metabolite	NA	NA
+10563869	T3:T5	Substrate and its metabolite	NA	NA
+10563869	T3:T6	Substrate and its metabolite	NA	NA
+10579472	T11:T12	Substrate and its metabolite	NA	NA
+10594468	T2:T3	Synonyms	NA	NA
+10594468	T2:T4	Substrate and its metabolite	NA	NA
+10594468	T2:T5	Substrate and its metabolite	NA	NA
+10594468	T3:T4	Substrate and its metabolite	NA	NA
+10594468	T3:T5	Substrate and its metabolite	NA	NA
+10594468	T4:T5	Synonyms	NA	NA
+10594468	T12:T13	Substrate and its metabolite	NA	NA
+10594487	T7:T8	Substrate and its metabolite	oxidation	T6
+10594487	T40:T41	Substrate and its metabolite	oxidation	T39
+10604819	T3:T4	Synonyms	NA	NA
+10604819	T5:T6	Synonyms	NA	NA
+10604819	T5:T8	Substrate and its metabolite	NA	NA
+10604819	T5:T9	Substrate and its metabolite	NA	NA
+10604819	T6:T8	Substrate and its metabolite	NA	NA
+10604819	T6:T9	Substrate and its metabolite	NA	NA
+10604819	T14:T15	Synonyms	NA	NA
+10604819	T16:T17	Synonyms	NA	NA
+10608481	T10:T11	Synonyms	NA	NA
+10608481	T10:T13	Substrate and its metabolite	N-deethylation	T9
+10608481	T11:T13	Substrate and its metabolite	N-deethylation	T9
+10608481	T13:T16	Substrate and its metabolite	3-hydroxylation	T12
+10608481	T25:T28	Synonyms	NA	NA
+10616189	T2:T3	Synonyms	NA	NA
+10616189	T13:T14	Substrate and its metabolite	NA	NA
+10616189	T13:T15	Substrate and its metabolite	NA	NA
+10616189	T13:T16	Substrate and its metabolite	NA	NA
+10647495	T1:T2	Substrate and its metabolite	NA	NA
+10647495	T3:T4	Synonyms	NA	NA
+10647495	T5:T6	Synonyms	NA	NA
+10647495	T11:T12	Substrate and its metabolite	NA	NA
+10647921	T4:T5	Substrate and its metabolite	NA	NA
+10647921	T4:T6	Substrate and its metabolite	NA	NA
+10647921	T4:T7	Substrate and its metabolite	NA	NA
+10647921	T13:T14	Substrate and its metabolite	NA	NA
+10663643	T3:T4	Substrate and its metabolite	NA	NA
+10663643	T5:T6	Synonyms	NA	NA
+10676997	T1:T2	Synonyms	NA	NA
+10676997	T1:T3	Substrate and its metabolite	NA	NA
+10676997	T2:T3	Substrate and its metabolite	NA	NA
+10676997	T4:T5	Substrate and its metabolite	NA	NA
+10682228	T7:T8	Synonyms	NA	NA
+10682228	T12:T13	Substrate and its metabolite	NA	NA
+10682228	T14:T15	Substrate and its metabolite	NA	NA
+10692561	T4:T5	Synonyms	NA	NA
+10692561	T6:T7	Synonyms	NA	NA
+10696794	T3:T4	Synonyms	NA	NA
+10696794	T6:T7	Substrate and its metabolite	NA	NA
+10696794	T6:T8	Substrate and its metabolite	NA	NA
+10696794	T7:T8	Synonyms	NA	NA
+10696794	T12:T14	Substrate and its metabolite	NA	NA
+10696794	T12:T15	Substrate and its metabolite	NA	NA
+10696794	T14:T15	Synonyms	NA	NA
+10696794	T16:T19	Substrate and its metabolite	NA	NA
+10696794	T16:T17	Synonyms	NA	NA
+10696794	T17:T19	Substrate and its metabolite	NA	NA
+10702251	T2:T3	Synonyms	NA	NA
+10702251	T6:T7	Synonyms	NA	NA
+10702251	T6:T11	Substrate and its metabolite	oxidation	T12
+10702251	T7:T11	Substrate and its metabolite	oxidation	T12
+10702251	T8:T9	Synonyms	NA	NA
+10702251	T8:T11	Substrate and its metabolite	oxidation	T12
+10702251	T9:T11	Substrate and its metabolite	oxidation	T12
+10702251	T10:T11	Substrate and its metabolite	oxidation	T12
+10718645	T1:T2	Substrate and its metabolite	NA	NA
+10718645	T1:T3	Substrate and its metabolite	NA	NA
+10718645	T1:T4	Substrate and its metabolite	NA	NA
+10718645	T1:T5	Substrate and its metabolite	NA	NA
+10718645	T6:T7	Substrate and its metabolite	NA	NA
+10718645	T6:T8	Substrate and its metabolite	NA	NA
+10718645	T6:T9	Substrate and its metabolite	NA	NA
+10718645	T6:T10	Substrate and its metabolite	NA	NA
+10718645	T11:T12	Substrate and its metabolite	NA	NA
+10718645	T11:T13	Substrate and its metabolite	NA	NA
+10718645	T11:T14	Substrate and its metabolite	NA	NA
+10718645	T11:T15	Substrate and its metabolite	NA	NA
+10718660	T1:T2	Substrate and its metabolite	NA	NA
+10718660	T3:T4	Substrate and its metabolite	NA	NA
+10718660	T3:T5	Substrate and its metabolite	NA	NA
+10718660	T3:T6	Substrate and its metabolite	NA	NA
+10718660	T3:T7	Substrate and its metabolite	NA	NA
+10718660	T4:T5	Synonyms	NA	NA
+10718660	T6:T7	Synonyms	NA	NA
+10741474	T2:T3	Synonyms	NA	NA
+10741474	T5:T6	Synonyms	NA	NA
+10741474	T7:T8	Synonyms	NA	NA
+10741474	T9:T10	Substrate and its metabolite	NA	NA
+10741474	T9:T11	Substrate and its metabolite	NA	NA
+10741474	T9:T12	Substrate and its metabolite	NA	NA
+10741474	T9:T13	Substrate and its metabolite	NA	NA
+10741474	T10:T11	Synonyms	NA	NA
+10741474	T12:T13	Synonyms	NA	NA
+10752640	T4:T5	Synonyms	NA	NA
+10752640	T7:T8	Synonyms	NA	NA
+10752640	T9:T10	Synonyms	NA	NA
+10752640	T9:T11	Substrate and its metabolite	NA	NA
+10752640	T10:T11	Substrate and its metabolite	NA	NA
+10755376	T3:T4	Substrate and its metabolite	NA	NA
+10755376	T3:T5	Substrate and its metabolite	NA	NA
+10755376	T4:T5	Synonyms	NA	NA
+10759686	T3:T4	Synonyms	NA	NA
+10759686	T3:T5	Synonyms	NA	NA
+10759686	T3:T7	Substrate and its metabolite	NA	NA
+10759686	T4:T5	Synonyms	NA	NA
+10759686	T4:T7	Substrate and its metabolite	NA	NA
+10759686	T5:T7	Substrate and its metabolite	NA	NA
+10759686	T12:T15	Substrate and its metabolite	sulphoxidation	T11
+10759686	T13:T15	Substrate and its metabolite	sulphoxidation	T14
+10759686	T16:T17	Substrate and its metabolite	NA	NA
+10760502	T13:T15	Substrate and its metabolite	glucuronidation	T7
+10761165	T1:T2	Synonyms	NA	NA
+10761165	T4:T5	Synonyms	NA	NA
+10761165	T6:T7	Synonyms	NA	NA
+10761165	T10:T12	Substrate and its metabolite	NA	NA
+10761165	T10:T11	Synonyms	NA	NA
+10761165	T11:T12	Substrate and its metabolite	NA	NA
+10761165	T15:T16	Substrate and its metabolite	NA	NA
+10761165	T15:T17	Substrate and its metabolite	NA	NA
+10761165	T16:T17	Synonyms	NA	NA
+10761165	T16:T18	Substrate and its metabolite	NA	NA
+10761165	T17:T18	Substrate and its metabolite	NA	NA
+10761165	T19:T21	Substrate and its metabolite	NA	NA
+10761165	T19:T22	Substrate and its metabolite	NA	NA
+10761165	T20:T21	Substrate and its metabolite	NA	NA
+10761165	T20:T22	Substrate and its metabolite	NA	NA
+10761165	T21:T22	Synonyms	NA	NA
+10761165	T23:T24	Substrate and its metabolite	NA	NA
+10761165	T23:T25	Substrate and its metabolite	NA	NA
+10761165	T24:T25	Synonyms	NA	NA
+10770451	T4:T5	Synonyms	NA	NA
+10770451	T4:T6	Substrate and its metabolite	NA	NA
+10770451	T4:T7	Substrate and its metabolite	NA	NA
+10770451	T4:T8	Substrate and its metabolite	NA	NA
+10770451	T5:T6	Substrate and its metabolite	NA	NA
+10770451	T5:T7	Substrate and its metabolite	NA	NA
+10770451	T5:T8	Substrate and its metabolite	NA	NA
+10770451	T6:T7	Synonyms	NA	NA
+10770451	T11:T12	Substrate and its metabolite	hydroxylation	T13
+10770451	T12:T14	Substrate and its metabolite	hydroxylation	T13
+10770456	T3:T4	Substrate and its metabolite	NA	NA
+10770456	T3:T5	Substrate and its metabolite	NA	NA
+10770456	T4:T5	Synonyms	NA	NA
+10770456	T17:T18	Substrate and its metabolite	NA	NA
+10770456	T18:T20	Substrate and its metabolite	NA	NA
+10770456	T22:T23	Substrate and its metabolite	NA	NA
+10770456	T24:T25	Substrate and its metabolite	NA	NA
+10774535	T2:T3	Substrate and its metabolite	NA	NA
+10774632	T2:T4	Substrate and its metabolite	NA	NA
+10778932	T3:T4	Synonyms	NA	NA
+10778932	T3:T5	Synonyms	NA	NA
+10778932	T4:T5	Synonyms	NA	NA
+10778932	T7:T8	Substrate and its metabolite	NA	NA
+10778932	T7:T12	Substrate and its metabolite	aromatic hydroxylation	T9
+10778932	T7:T12	Substrate and its metabolite	methylation	T10
+10778932	T7:T12	Substrate and its metabolite	N-dealkylation	T11
+10778932	T7:T13	Substrate and its metabolite	aromatic hydroxylation	T9
+10778932	T7:T14	Substrate and its metabolite	methylation	T10
+10778932	T7:T15	Substrate and its metabolite	N-dealkylation	T11
+10778932	T15:T16	Substrate and its metabolite	beta-hydroxylation	T14
+10798213	T13:T14	Substrate and its metabolite	NA	NA
+10798213	T21:T22	Synonyms	NA	NA
+10798213	T26:T27	Substrate and its metabolite	NA	NA
+10799653	T2:T3	Substrate and its metabolite	NA	NA
+10799653	T2:T4	Substrate and its metabolite	NA	NA
+10799653	T2:T5	Substrate and its metabolite	NA	NA
+10799653	T2:T6	Substrate and its metabolite	NA	NA
+10799653	T2:T7	Substrate and its metabolite	NA	NA
+10799653	T2:T8	Substrate and its metabolite	NA	NA
+10799653	T2:T9	Substrate and its metabolite	NA	NA
+10799653	T2:T10	Substrate and its metabolite	NA	NA
+10799653	T3:T4	Synonyms	NA	NA
+10799653	T3:T5	Synonyms	NA	NA
+10799653	T4:T5	Synonyms	NA	NA
+10799653	T6:T7	Synonyms	NA	NA
+10799653	T6:T8	Synonyms	NA	NA
+10799653	T7:T8	Synonyms	NA	NA
+10799653	T9:T10	Synonyms	NA	NA
+10800057	T4:T6	Synonyms	NA	NA
+10800057	T5:T7	Synonyms	NA	NA
+10800057	T13:T14	Substrate and its metabolite	NA	NA
+10800057	T13:T15	Substrate and its metabolite	NA	NA
+10800057	T13:T14	Synonyms	NA	NA
+10805064	T16:T17	Substrate and its metabolite	NA	NA
+10805064	T16:T18	Substrate and its metabolite	NA	NA
+10805064	T16:T19	Substrate and its metabolite	NA	NA
+10805064	T16:T20	Substrate and its metabolite	NA	NA
+10805064	T16:T21	Substrate and its metabolite	NA	NA
+10821401	T1:T2	Substrate and its metabolite	NA	NA
+10821401	T3:T4	Synonyms	NA	NA
+10821401	T5:T6	Substrate and its metabolite	NA	NA
+10821401	T29:T30	Substrate and its metabolite	NA	NA
+10831022	T2:T3	Synonyms	NA	NA
+10831022	T6:T7	Substrate and its metabolite	NA	NA
+10839494	T2:T3	Substrate and its metabolite	NA	NA
+10839494	T4:T5	Substrate and its metabolite	NA	NA
+10839494	T6:T7	Substrate and its metabolite	NA	NA
+10839494	T8:T9	Substrate and its metabolite	NA	NA
+10839494	T5:T6	Substrate and its metabolite	NA	NA
+10866914	T5:T7	Substrate and its metabolite	NA	NA
+10866914	T6:T7	Synonyms	NA	NA
+10866914	T18:T19	Substrate and its metabolite	NA	NA
+10870985	T7:T8	Substrate and its metabolite	NA	NA
+10872592	T7:T8	Substrate and its metabolite	NA	NA
+10872592	T7:T9	Substrate and its metabolite	NA	NA
+10872643	T9:T10	Substrate and its metabolite	NA	NA
+10872643	T18:T19	Substrate and its metabolite	NA	NA
+10874125	T1:T4	Substrate and its metabolite	transesterification	T3
+10874125	T6:T7	Substrate and its metabolite	NA	NA
+10874125	T10:T11	Substrate and its metabolite	esterification	T9
+10874125	T18:T20	Substrate and its metabolite	transesterification	T19
+10874125	T21:T27	Substrate and its metabolite	NA	NA
+10874125	T22:T27	Substrate and its metabolite	NA	NA
+10874125	T23:T27	Substrate and its metabolite	NA	NA
+10874125	T24:T27	Substrate and its metabolite	NA	NA
+10874125	T25:T27	Substrate and its metabolite	NA	NA
+10874125	T28:T29	Substrate and its metabolite	NA	NA
+10874125	T45:T46	Substrate and its metabolite	esterification	T44
+10874125	T45:T47	Substrate and its metabolite	NA	NA
+10874125	T46:T47	Substrate and its metabolite	NA	NA
+10901138	T3:T4	Substrate and its metabolite	NA	NA
+10901138	T5:T7	Substrate and its metabolite	NA	NA
+10901138	T5:T8	Substrate and its metabolite	NA	NA
+10901138	T6:T7	Substrate and its metabolite	NA	NA
+10901138	T6:T8	Substrate and its metabolite	NA	NA
+10901138	T7:T8	Synonyms	NA	NA
+10901138	T9:T10	Substrate and its metabolite	NA	NA
+10907965	T13:T14	Substrate and its metabolite	NA	NA
+10934669	T8:T9	Substrate and its metabolite	decarboxylation	T7
+10934671	T2:T4	Substrate and its metabolite	NA	NA
+10934671	T7:T8	Synonyms	NA	NA
+10954350	T5:T6	Synonyms	NA	NA
+10954350	T7:T8	Synonyms	NA	NA
+10954350	T10:T12	Substrate and its metabolite	NA	NA
+10954350	T11:T13	Substrate and its metabolite	NA	NA
+10954350	T14:T15	Substrate and its metabolite	NA	NA
+10954350	T16:T17	Substrate and its metabolite	NA	NA
+10956067	T3:T4	Synonyms	NA	NA
+10956067	T3:T5	Substrate and its metabolite	NA	NA
+10956067	T4:T5	Substrate and its metabolite	NA	NA
+10956067	T7:T8	Synonyms	NA	NA
+10956067	T9:T10	Synonyms	NA	NA
+10956067	T24:T25	Substrate and its metabolite	oxidation	T23
+10956067	T24:T26	Substrate and its metabolite	oxidation	T23
+10956067	T28:T30	Substrate and its metabolite	hydrolysis	T29
+10956067	T35:T36	Synonyms	NA	NA
+10972481	T5:T6	Substrate and its metabolite	NA	NA
+10976551	T2:T3	Substrate and its metabolite	NA	NA
+10976551	T10:T12	Substrate and its metabolite	NA	NA
+10976551	T11:T12	Substrate and its metabolite	NA	NA
+10976551	T19:T20	Substrate and its metabolite	NA	NA
+10985967	T27:T28	Substrate and its metabolite	NA	NA
+10985967	T27:T29	Substrate and its metabolite	NA	NA
+10993521	T3:T4	Synonyms	NA	NA
+10993521	T3:T6	Substrate and its metabolite	NA	NA
+10993521	T4:T6	Substrate and its metabolite	NA	NA
+11001387	T3:T4	Synonyms	NA	NA
+11001387	T3:T5	Substrate and its metabolite	NA	NA
+11001387	T4:T5	Substrate and its metabolite	NA	NA
+11007345	T1:T3	Substrate and its metabolite	NA	NA
+11007345	T2:T3	Substrate and its metabolite	NA	NA
+11007345	T4:T5	Synonyms	NA	NA
+11007345	T4:T8	Substrate and its metabolite	NA	NA
+11007345	T4:T9	Substrate and its metabolite	NA	NA
+11007345	T5:T8	Substrate and its metabolite	NA	NA
+11007345	T5:T9	Substrate and its metabolite	NA	NA
+11007345	T6:T7	Synonyms	NA	NA
+11007345	T6:T8	Substrate and its metabolite	NA	NA
+11007345	T6:T9	Substrate and its metabolite	NA	NA
+11007345	T7:T8	Substrate and its metabolite	NA	NA
+11007345	T7:T9	Substrate and its metabolite	NA	NA
+11007345	T8:T9	Synonyms	NA	NA
+11007345	T11:T12	Substrate and its metabolite	NA	NA
+11007345	T11:T13	Substrate and its metabolite	NA	NA
+11007345	T14:T15	Substrate and its metabolite	NA	NA
+11007345	T21:T22	Substrate and its metabolite	NA	NA
+11007345	T28:T29	Substrate and its metabolite	NA	NA
+11007345	T33:T34	Substrate and its metabolite	NA	NA
+1101753	T2:T3	Synonyms	NA	NA
+1101753	T5:T6	Substrate and its metabolite	NA	NA
+1101753	T5:T7	Substrate and its metabolite	NA	NA
+1101753	T5:T8	Substrate and its metabolite	NA	NA
+11026737	T2:T3	Substrate and its metabolite	NA	NA
+11030450	T1:T2	Synonyms	NA	NA
+11030450	T5:T7	Substrate and its metabolite	NA	NA
+11030450	T13:T14	Substrate and its metabolite	NA	NA
+11034785	T2:T3	Substrate and its metabolite	NA	NA
+11034785	T4:T5	Synonyms	NA	NA
+11043672	T3:T5	Substrate and its metabolite	demethylation	T4
+11043753	T1:T2	Substrate and its metabolite	NA	NA
+11043753	T3:T4	Substrate and its metabolite	NA	NA
+11043753	T3:T5	Substrate and its metabolite	NA	NA
+11043753	T4:T5	Synonyms	NA	NA
+11043753	T8:T9	Synonyms	NA	NA
+11069439	T17:T18	Substrate and its metabolite	NA	NA
+11069439	T17:T19	Substrate and its metabolite	NA	NA
+11069439	T17:T20	Substrate and its metabolite	NA	NA
+11069439	T24:T25	Substrate and its metabolite	NA	NA
+11069439	T25:T26	Substrate and its metabolite	NA	NA
+11100951	T1:T2	Synonyms	NA	NA
+11100951	T3:T4	Synonyms	NA	NA
+11100951	T5:T6	Synonyms	NA	NA
+11100951	T7:T8	Synonyms	NA	NA
+11100951	T22:T23	Substrate and its metabolite	NA	NA
+11100951	T22:T24	Substrate and its metabolite	NA	NA
+11100951	T22:T25	Substrate and its metabolite	NA	NA
+11100951	T22:T26	Substrate and its metabolite	NA	NA
+11100951	T22:T27	Substrate and its metabolite	NA	NA
+11100951	T22:T28	Substrate and its metabolite	NA	NA
+11100951	T22:T29	Substrate and its metabolite	NA	NA
+11100951	T22:T30	Substrate and its metabolite	NA	NA
+11100951	T23:T24	Synonyms	NA	NA
+11100951	T25:T26	Synonyms	NA	NA
+11100951	T27:T28	Synonyms	NA	NA
+11100951	T29:T30	Synonyms	NA	NA
+11115505	T5:T6	Synonyms	NA	NA
+11115505	T7:T8	Synonyms	NA	NA
+11115505	T14:T15	Substrate and its metabolite	NA	NA
+11115505	T16:T17	Substrate and its metabolite	NA	NA
+11115505	T25:T26	Substrate and its metabolite	NA	NA
+11118747	T2:T3	Substrate and its metabolite	NA	NA
+11128238	T4:T6	Substrate and its metabolite	NA	NA
+11128238	T4:T7	Substrate and its metabolite	NA	NA
+11128238	T4:T8	Substrate and its metabolite	NA	NA
+11128238	T4:T9	Substrate and its metabolite	NA	NA
+11128238	T4:T10	Substrate and its metabolite	NA	NA
+11128238	T4:T11	Substrate and its metabolite	NA	NA
+11128238	T5:T6	Substrate and its metabolite	NA	NA
+11128238	T5:T7	Substrate and its metabolite	NA	NA
+11128238	T5:T8	Substrate and its metabolite	NA	NA
+11128238	T5:T9	Substrate and its metabolite	NA	NA
+11128238	T5:T10	Substrate and its metabolite	NA	NA
+11128238	T5:T11	Substrate and its metabolite	NA	NA
+11128238	T6:T7	Synonyms	NA	NA
+11128238	T8:T9	Synonyms	NA	NA
+11128238	T10:T11	Synonyms	NA	NA
+14738594	T2:T3	Substrate and its metabolite	NA	NA
+14738594	T6:T7	Synonyms	NA	NA
+12383485	T2:T3	Synonyms	NA	NA
+12383485	T5:T6	Synonyms	NA	NA
+12383485	T8:T11	Substrate and its metabolite	NA	NA
+12383485	T8:T13	Substrate and its metabolite	NA	NA
+12383485	T8:T18	Substrate and its metabolite	NA	NA
+11765029	T1:T2	Substrate and its metabolite	NA	NA
+11765029	T3:T4	Synonyms	NA	NA
+11765029	T3:T5	Synonyms	NA	NA
+11765029	T4:T5	Synonyms	NA	NA
+11765029	T6:T7	Substrate and its metabolite	NA	NA
+11765029	T6:T8	Substrate and its metabolite	NA	NA
+11765029	T17:T18	Substrate and its metabolite	NA	NA
+11325575	T2:T5	Substrate and its metabolite	NA	NA
+11325575	T3:T5	Substrate and its metabolite	NA	NA
+11325575	T5:T6	Substrate and its metabolite	NA	NA
+11325575	T5:T7	Substrate and its metabolite	NA	NA
+11325575	T6:T7	Synonyms	NA	NA
+11325575	T11:T12	Substrate and its metabolite	NA	NA
+11325575	T13:T14	Substrate and its metabolite	NA	NA
+11325575	T16:T18	Substrate and its metabolite	NA	NA
+11325575	T16:T19	Substrate and its metabolite	NA	NA
+11325575	T20:T23	Substrate and its metabolite	NA	NA
+11325575	T21:T23	Substrate and its metabolite	NA	NA
+11325575	T23:T24	Substrate and its metabolite	NA	NA
+12606777	T2:T3	Synonyms	NA	NA
+12606777	T6:T7	Synonyms	NA	NA
+12606777	T5:T8	Substrate and its metabolite	NA	NA
+12606777	T5:T9	Substrate and its metabolite	NA	NA
+12606777	T6:T10	Substrate and its metabolite	NA	NA
+12606777	T6:T11	Substrate and its metabolite	NA	NA
+12606777	T7:T10	Substrate and its metabolite	NA	NA
+12606777	T7:T11	Substrate and its metabolite	NA	NA
+12606777	T8:T9	Synonyms	NA	NA
+12606777	T10:T11	Synonyms	NA	NA
+12606777	T16:T19	Substrate and its metabolite	NA	NA
+12606777	T17:T20	Substrate and its metabolite	NA	NA
+12606777	T25:T26	Synonyms	NA	NA
+12606777	T25:T27	Substrate and its metabolite	NA	NA
+12606777	T25:T28	Substrate and its metabolite	NA	NA
+12606777	T26:T27	Substrate and its metabolite	NA	NA
+12606777	T26:T28	Substrate and its metabolite	NA	NA
+12606777	T29:T30	Substrate and its metabolite	NA	NA
+12606777	T30:T31	Substrate and its metabolite	NA	NA
+11238192	T1:T2	Substrate and its metabolite	NA	NA
+11238192	T1:T3	Substrate and its metabolite	NA	NA
+11238192	T4:T5	Synonyms	NA	NA
+11238192	T4:T7	Substrate and its metabolite	hydroxylation	T6
+11238192	T4:T8	Substrate and its metabolite	hydroxylation	T6
+11238192	T5:T7	Substrate and its metabolite	hydroxylation	T6
+11238192	T5:T8	Substrate and its metabolite	hydroxylation	T6
+11238192	T7:T8	Synonyms	NA	NA
+11238192	T7:T9	Substrate and its metabolite	NA	NA
+11238192	T7:T10	Substrate and its metabolite	NA	NA
+11238192	T8:T9	Substrate and its metabolite	NA	NA
+11238192	T8:T10	Substrate and its metabolite	NA	NA
+11238192	T9:T10	Synonyms	NA	NA
+11238192	T9:T12	Substrate and its metabolite	depropylation	T11
+11238192	T10:T12	Substrate and its metabolite	depropylation	T11
+11238192	T14:T15	Synonyms	NA	NA
+11238192	T17:T18	Synonyms	NA	NA
+11238192	T24:T25	Substrate and its metabolite	NA	NA
+11238192	T24:T26	Substrate and its metabolite	NA	NA
+11238192	T28:T29	Substrate and its metabolite	NA	NA
+11238192	T30:T31	Substrate and its metabolite	oxidation	T32
+11238192	T35:T36	Substrate and its metabolite	oxidation	T34
+11765026	T1:T2	Synonyms	NA	NA
+11765026	T3:T4	Substrate and its metabolite	NA	NA
+11765026	T3:T5	Substrate and its metabolite	NA	NA
+11765026	T4:T5	Synonyms	NA	NA
+11765026	T4:T6	Substrate and its metabolite	NA	NA
+11765026	T5:T6	Substrate and its metabolite	NA	NA
+12018998	T2:T3	Synonyms	NA	NA
+12018998	T9:T10	Synonyms	NA	NA
+12018998	T11:T12	Synonyms	NA	NA
+12018998	T13:T14	Synonyms	NA	NA
+12018998	T26:T28	Substrate and its metabolite	reduction	T25
+12018998	T29:T31	Substrate and its metabolite	reduction	T25
+11750100	T4:T5	Substrate and its metabolite	NA	NA
+11750100	T13:T14	Substrate and its metabolite	NA	NA
+12054360	T1:T2	Substrate and its metabolite	NA	NA
+12054360	T3:T4	Substrate and its metabolite	NA	NA
+12054360	T3:T5	Substrate and its metabolite	NA	NA
+12054360	T4:T5	Synonyms	NA	NA
+12054360	T11:T12	Substrate and its metabolite	NA	NA
+14570767	T24:T25	Substrate and its metabolite	NA	NA
+14570767	T24:T26	Substrate and its metabolite	NA	NA
+11802099	T3:T4	Substrate and its metabolite	NA	NA
+12493578	T5:T6	Substrate and its metabolite	NA	NA
+12765874	T2:T3	Substrate and its metabolite	NA	NA
+12765874	T2:T4	Substrate and its metabolite	NA	NA
+12765874	T3:T4	Synonyms	NA	NA
+12765874	T8:T9	Substrate and its metabolite	NA	NA
+12185557	T1:T2	Synonyms	NA	NA
+12185557	T1:T3	Substrate and its metabolite	NA	NA
+12185557	T2:T3	Substrate and its metabolite	NA	NA
+14667942	T2:T3	Synonyms	NA	NA
+14667942	T4:T5	Synonyms	NA	NA
+14667942	T11:T12	Synonyms	NA	NA
+14667942	T16:T17	Synonyms	NA	NA
+14667942	T24:T25	Synonyms	NA	NA
+14608613	T2:T3	Substrate and its metabolite	NA	NA
+12920163	T2:T3	Synonyms	NA	NA
+12920163	T6:T8	Substrate and its metabolite	NA	NA
+11835190	T6:T9	Substrate and its metabolite	NA	NA
+11835190	T10:T16	Substrate and its metabolite	NA	NA
+11167666	T1:T2	Substrate and its metabolite	NA	NA
+11167666	T3:T4	Substrate and its metabolite	NA	NA
+12111109	T3:T4	Synonyms	NA	NA
+12111109	T3:T5	Substrate and its metabolite	NA	NA
+12111109	T3:T6	Substrate and its metabolite	NA	NA
+12111109	T3:T7	Substrate and its metabolite	NA	NA
+12111109	T3:T8	Substrate and its metabolite	NA	NA
+12111109	T4:T5	Substrate and its metabolite	NA	NA
+12111109	T4:T6	Substrate and its metabolite	NA	NA
+12111109	T4:T7	Substrate and its metabolite	NA	NA
+12111109	T4:T8	Substrate and its metabolite	NA	NA
+12111109	T5:T6	Synonyms	NA	NA
+12111109	T7:T8	Synonyms	NA	NA
+11129502	T2:T3	Substrate and its metabolite	NA	NA
+11854151	T18:T19	Substrate and its metabolite	NA	NA
+11854151	T18:T20	Substrate and its metabolite	NA	NA
+11854151	T18:T21	Substrate and its metabolite	NA	NA
+11854151	T18:T22	Substrate and its metabolite	NA	NA
+11854151	T18:T23	Substrate and its metabolite	NA	NA
+11854155	T7:T8	Substrate and its metabolite	NA	NA
+12149304	T2:T3	Synonyms	NA	NA
+12149304	T8:T9	Synonyms	NA	NA
+12149304	T8:T10	Substrate and its metabolite	NA	NA
+12149304	T8:T11	Substrate and its metabolite	NA	NA
+12149304	T9:T10	Substrate and its metabolite	NA	NA
+12149304	T9:T11	Substrate and its metabolite	NA	NA
+12149304	T10:T12	Substrate and its metabolite	NA	NA
+12149304	T10:T13	Substrate and its metabolite	NA	NA
+12149304	T10:T14	Substrate and its metabolite	NA	NA
+12149304	T10:T15	Substrate and its metabolite	NA	NA
+12149304	T11:T12	Substrate and its metabolite	NA	NA
+12149304	T11:T13	Substrate and its metabolite	NA	NA
+12149304	T11:T14	Substrate and its metabolite	NA	NA
+12149304	T11:T15	Substrate and its metabolite	NA	NA
+12149304	T12:T13	Synonyms	NA	NA
+12149304	T14:T15	Synonyms	NA	NA
+12149304	T18:T21	Substrate and its metabolite	NA	NA
+12149304	T18:T23	Substrate and its metabolite	NA	NA
+12149304	T21:T26	Substrate and its metabolite	NA	NA
+12149304	T21:T27	Substrate and its metabolite	NA	NA
+12149304	T30:T31	Substrate and its metabolite	NA	NA
+12698986	T2:T3	Synonyms	NA	NA
+12698986	T2:T4	Substrate and its metabolite	NA	NA
+12698986	T2:T5	Substrate and its metabolite	NA	NA
+12698986	T2:T6	Substrate and its metabolite	NA	NA
+12698986	T2:T7	Substrate and its metabolite	NA	NA
+12698986	T3:T4	Substrate and its metabolite	NA	NA
+12698986	T3:T5	Substrate and its metabolite	NA	NA
+12698986	T3:T6	Substrate and its metabolite	NA	NA
+12698986	T3:T7	Substrate and its metabolite	NA	NA
+12698986	T4:T5	Synonyms	NA	NA
+12698986	T6:T7	Synonyms	NA	NA
+12699742	T3:T4	Synonyms	NA	NA
+12699742	T3:T5	Substrate and its metabolite	NA	NA
+12699742	T3:T6	Substrate and its metabolite	NA	NA
+12699742	T4:T5	Substrate and its metabolite	NA	NA
+12699742	T4:T6	Substrate and its metabolite	NA	NA
+12699742	T7:T8	Substrate and its metabolite	NA	NA
+12112383	T1:T2	Substrate and its metabolite	NA	NA
+12112383	T3:T4	Synonyms	NA	NA
+12112383	T3:T5	Substrate and its metabolite	NA	NA
+12112383	T3:T6	Substrate and its metabolite	NA	NA
+12112383	T3:T8	Substrate and its metabolite	NA	NA
+12112383	T3:T9	Substrate and its metabolite	NA	NA
+12112383	T3:T10	Substrate and its metabolite	NA	NA
+12112383	T3:T11	Substrate and its metabolite	NA	NA
+12112383	T3:T18	Substrate and its metabolite	NA	NA
+12112383	T3:T19	Substrate and its metabolite	NA	NA
+12112383	T4:T5	Substrate and its metabolite	NA	NA
+12112383	T4:T6	Substrate and its metabolite	NA	NA
+12112383	T4:T8	Substrate and its metabolite	NA	NA
+12112383	T4:T9	Substrate and its metabolite	NA	NA
+12112383	T4:T10	Substrate and its metabolite	NA	NA
+12112383	T4:T11	Substrate and its metabolite	NA	NA
+12112383	T4:T18	Substrate and its metabolite	NA	NA
+12112383	T4:T19	Substrate and its metabolite	NA	NA
+12112383	T5:T6	Synonyms	NA	NA
+12112383	T8:T9	Synonyms	NA	NA
+12112383	T10:T11	Synonyms	NA	NA
+12112383	T15:T16	Synonyms	NA	NA
+12112383	T18:T19	Synonyms	NA	NA
+12112383	T20:T23	Substrate and its metabolite	NA	NA
+12112383	T21:T22	Synonyms	NA	NA
+12112383	T21:T23	Substrate and its metabolite	NA	NA
+12112383	T22:T23	Substrate and its metabolite	NA	NA
+12112383	T23:T24	Substrate and its metabolite	NA	NA
+12112383	T23:T26	Substrate and its metabolite	NA	NA
+12659714	T3:T4	Synonyms	NA	NA
+12659714	T3:T5	Substrate and its metabolite	NA	NA
+12659714	T4:T5	Substrate and its metabolite	NA	NA
+12401345	T3:T4	Substrate and its metabolite	NA	NA
+12401345	T5:T6	Substrate and its metabolite	NA	NA
+12401345	T7:T8	Substrate and its metabolite	NA	NA
+12401345	T9:T10	Substrate and its metabolite	NA	NA
+12401345	T11:T12	Substrate and its metabolite	NA	NA
+12401345	T13:T14	Substrate and its metabolite	NA	NA
+12401345	T15:T16	Substrate and its metabolite	NA	NA
+12401345	T17:T18	Substrate and its metabolite	NA	NA
+12401345	T19:T20	Substrate and its metabolite	NA	NA
+12906896	T3:T4	Synonyms	NA	NA
+12906896	T3:T5	Substrate and its metabolite	NA	NA
+12906896	T3:T6	Substrate and its metabolite	NA	NA
+12906896	T3:T7	Substrate and its metabolite	NA	NA
+12906896	T3:T8	Substrate and its metabolite	NA	NA
+12906896	T4:T5	Substrate and its metabolite	NA	NA
+12906896	T4:T6	Substrate and its metabolite	NA	NA
+12906896	T4:T7	Substrate and its metabolite	NA	NA
+12906896	T4:T8	Substrate and its metabolite	NA	NA
+12906896	T5:T6	Synonyms	NA	NA
+12906896	T7:T8	Synonyms	NA	NA
+12906896	T29:T30	Substrate and its metabolite	NA	NA
+12906896	T29:T31	Substrate and its metabolite	NA	NA
+14522044	T4:T5	Synonyms	NA	NA
+14522044	T4:T6	Substrate and its metabolite	NA	NA
+14522044	T5:T6	Substrate and its metabolite	NA	NA
+14622957	T8:T9	Substrate and its metabolite	NA	NA
+12520632	T10:T11	Substrate and its metabolite	NA	NA
+12520632	T10:T12	Substrate and its metabolite	NA	NA
+12520632	T16:T19	Substrate and its metabolite	NA	NA
+12520632	T16:T20	Substrate and its metabolite	NA	NA
+11829671	T2:T3	Synonyms	NA	NA
+11829671	T7:T8	Substrate and its metabolite	NA	NA
+11829671	T8:T9	Substrate and its metabolite	NA	NA
+11829671	T10:T11	Synonyms	NA	NA
+11317702	T4:T5	Synonyms	NA	NA
+11317702	T8:T9	Substrate and its metabolite	NA	NA
+11317702	T8:T10	Substrate and its metabolite	NA	NA
+11317702	T8:T11	Substrate and its metabolite	NA	NA
+11317702	T8:T12	Substrate and its metabolite	NA	NA
+11317702	T8:T14	Substrate and its metabolite	NA	NA
+11317702	T8:T15	Substrate and its metabolite	NA	NA
+11317702	T8:T16	Substrate and its metabolite	NA	NA
+11317702	T8:T17	Substrate and its metabolite	NA	NA
+11317702	T9:T10	Synonyms	NA	NA
+11317702	T11:T12	Synonyms	NA	NA
+11317702	T13:T14	Substrate and its metabolite	NA	NA
+11317702	T13:T15	Substrate and its metabolite	NA	NA
+11317702	T13:T16	Substrate and its metabolite	NA	NA
+11317702	T13:T17	Substrate and its metabolite	NA	NA
+11317702	T14:T15	Synonyms	NA	NA
+11317702	T16:T17	Synonyms	NA	NA
+11317702	T20:T22	Substrate and its metabolite	deamination	T21
+11317702	T20:T23	Substrate and its metabolite	deamination	T22
+11317702	T20:T24	Substrate and its metabolite	deamination	T23
+11317702	T22:T23	Substrate and its metabolite	NA	NA
+11317702	T22:T24	Substrate and its metabolite	NA	NA
+11317702	T26:T27	Substrate and its metabolite	NA	NA
+12760896	T2:T3	Synonyms	NA	NA
+12760896	T9:T11	Substrate and its metabolite	NA	NA
+12760896	T10:T11	Substrate and its metabolite	NA	NA
+14581066	T1:T2	Synonyms	NA	NA
+14581066	T4:T5	Synonyms	NA	NA
+14581066	T6:T7	Synonyms	NA	NA
+14581066	T13:T23	Substrate and its metabolite	NA	NA
+14581066	T13:T27	Substrate and its metabolite	NA	NA
+14581066	T23:T27	Substrate and its metabolite	reduction	T24
+14581066	T28:T31	Substrate and its metabolite	NA	NA
+14581066	T29:T31	Substrate and its metabolite	NA	NA
+14581066	T30:T31	Substrate and its metabolite	NA	NA
+1381906	T15:T17	Substrate and its metabolite	7-hydroxylation	T16
+1381906	T17:T18	Substrate and its metabolite	NA	NA
+1381906	T18:T19	Substrate and its metabolite	NA	NA
+12883403	T1:T2	Substrate and its metabolite	NA	NA
+12883403	T3:T4	Substrate and its metabolite	NA	NA
+15722567	T3:T6	Substrate and its metabolite	NA	NA
+15722567	T3:T7	Substrate and its metabolite	NA	NA
+15722567	T3:T8	Substrate and its metabolite	NA	NA
+15722567	T3:T9	Substrate and its metabolite	NA	NA
+15722567	T6:T7	Synonyms	NA	NA
+15722567	T8:T9	Synonyms	NA	NA
+15722567	T18:T19	Substrate and its metabolite	NA	NA
+15722567	T18:T20	Substrate and its metabolite	NA	NA
+15722567	T18:T21	Substrate and its metabolite	NA	NA
+15722567	T18:T22	Substrate and its metabolite	NA	NA
+15722567	T19:T20	Synonyms	NA	NA
+15722567	T21:T22	Synonyms	NA	NA
+12361741	T2:T3	Synonyms	NA	NA
+12361741	T10:T11	Synonyms	NA	NA
+12361741	T13:T16	Substrate and its metabolite	O-demethylation	T15
+12361741	T14:T17	Substrate and its metabolite	O-demethylation	T15
+1505618	T1:T2	Substrate and its metabolite	NA	NA
+1505618	T3:T4	Substrate and its metabolite	NA	NA
+1505618	T3:T5	Substrate and its metabolite	NA	NA
+1505618	T4:T5	Synonyms	NA	NA
+1505618	T8:T9	Substrate and its metabolite	NA	NA
+1505618	T10:T11	Substrate and its metabolite	NA	NA
+21543556	T2:T3	Synonyms	NA	NA
+22867273	T2:T4	Substrate and its metabolite	NA	NA
+22867273	T4:T5	Substrate and its metabolite	NA	NA
+22867273	T4:T6	Substrate and its metabolite	NA	NA
+22867273	T7:T8	Substrate and its metabolite	NA	NA
+22867273	T7:T9	Substrate and its metabolite	NA	NA
+22867273	T13:T14	Substrate and its metabolite	NA	NA
+22867273	T23:T24	Substrate and its metabolite	hydrolysis	T19
+16979892	T5:T9	Substrate and its metabolite	A-ring aromatization	T8
+16979892	T6:T7	Synonyms	NA	NA
+21515093	T2:T3	Synonyms	NA	NA
+21515093	T2:T4	Substrate and its metabolite	NA	NA
+21515093	T2:T5	Substrate and its metabolite	NA	NA
+21515093	T3:T4	Substrate and its metabolite	NA	NA
+21515093	T3:T5	Substrate and its metabolite	NA	NA
+21515093	T4:T5	Synonyms	NA	NA
+15257075	T2:T3	Synonyms	NA	NA
+15257075	T2:T4	Synonyms	NA	NA
+15257075	T3:T4	Synonyms	NA	NA
+15257075	T15:T16	Substrate and its metabolite	NA	NA
+12407434	T4:T5	Synonyms	NA	NA
+12407434	T7:T8	Synonyms	NA	NA
+12407434	T11:T12	Substrate and its metabolite	NA	NA
+12407434	T13:T14	Substrate and its metabolite	NA	NA
+17484521	T4:T5	Substrate and its metabolite	NA	NA
+17484521	T4:T6	Substrate and its metabolite	NA	NA
+17484521	T4:T7	Substrate and its metabolite	NA	NA
+17899082	T1:T2	Synonyms	NA	NA
+17899082	T4:T5	Synonyms	NA	NA
+17899082	T6:T7	Synonyms	NA	NA
+17899082	T8:T9	Synonyms	NA	NA
+17899082	T10:T11	Substrate and its metabolite	NA	NA
+17899082	T10:T12	Substrate and its metabolite	NA	NA
+17899082	T10:T13	Substrate and its metabolite	NA	NA
+17899082	T10:T14	Substrate and its metabolite	NA	NA
+17899082	T10:T15	Substrate and its metabolite	NA	NA
+17899082	T10:T16	Substrate and its metabolite	NA	NA
+17899082	T11:T12	Synonyms	NA	NA
+17899082	T13:T14	Synonyms	NA	NA
+17899082	T15:T16	Synonyms	NA	NA
+15716476	T8:T9	Substrate and its metabolite	NA	NA
+15716476	T8:T10	Substrate and its metabolite	NA	NA
+2333717	T2:T3	Synonyms	NA	NA
+2333717	T5:T7	Substrate and its metabolite	NA	NA
+2333717	T5:T8	Substrate and its metabolite	NA	NA
+2333717	T5:T9	Substrate and its metabolite	NA	NA
+2333717	T5:T10	Substrate and its metabolite	NA	NA
+2333717	T5:T11	Substrate and its metabolite	NA	NA
+2333717	T5:T12	Substrate and its metabolite	NA	NA
+2333717	T5:T13	Substrate and its metabolite	NA	NA
+2333717	T5:T14	Substrate and its metabolite	NA	NA
+2333717	T5:T16	Substrate and its metabolite	NA	NA
+7858703	T1:T3	Substrate and its metabolite	NA	NA
+7858703	T4:T5	Substrate and its metabolite	NA	NA
+7858703	T1:T2	Substrate and its metabolite	NA	NA
+8585111	T3:T4	Synonyms	NA	NA
+8585111	T6:T7	Substrate and its metabolite	NA	NA
+8585111	T6:T14	Substrate and its metabolite	NA	NA
+8585111	T6:T15	Substrate and its metabolite	NA	NA
+8585111	T6:T16	Substrate and its metabolite	NA	NA
+8585111	T6:T17	Substrate and its metabolite	NA	NA
+8585111	T6:T18	Substrate and its metabolite	NA	NA
+8585111	T20:T21	Synonyms	NA	NA
+20026321	T2:T3	Substrate and its metabolite	NA	NA
+20026321	T2:T4	Substrate and its metabolite	NA	NA
+20026321	T2:T5	Substrate and its metabolite	NA	NA
+20026321	T2:T6	Substrate and its metabolite	NA	NA
+20026321	T2:T7	Substrate and its metabolite	NA	NA
+20026321	T2:T8	Substrate and its metabolite	NA	NA
+20026321	T2:T9	Substrate and its metabolite	NA	NA
+20026321	T2:T10	Substrate and its metabolite	NA	NA
+20026321	T2:T11	Substrate and its metabolite	NA	NA
+20026321	T2:T12	Substrate and its metabolite	NA	NA
+20026321	T3:T4	Synonyms	NA	NA
+20026321	T3:T13	Substrate and its metabolite	NA	NA
+20026321	T4:T13	Substrate and its metabolite	NA	NA
+20026321	T5:T6	Synonyms	NA	NA
+20026321	T5:T13	Substrate and its metabolite	NA	NA
+20026321	T6:T13	Substrate and its metabolite	NA	NA
+20026321	T7:T8	Synonyms	NA	NA
+20026321	T7:T13	Substrate and its metabolite	NA	NA
+20026321	T8:T13	Substrate and its metabolite	NA	NA
+20026321	T9:T10	Synonyms	NA	NA
+20026321	T9:T13	Substrate and its metabolite	NA	NA
+20026321	T10:T13	Substrate and its metabolite	NA	NA
+20026321	T11:T12	Synonyms	NA	NA
+20026321	T11:T13	Substrate and its metabolite	NA	NA
+20026321	T12:T13	Substrate and its metabolite	NA	NA
+20026321	T14:T18	Substrate and its metabolite	NA	NA
+20026321	T15:T18	Substrate and its metabolite	NA	NA
+20026321	T16:T18	Substrate and its metabolite	NA	NA
+20026321	T17:T18	Substrate and its metabolite	NA	NA
+20026321	T38:T39	Substrate and its metabolite	NA	NA
+20026321	T38:T40	Substrate and its metabolite	NA	NA
+14962724	T6:T7	Synonyms	NA	NA
+15286088	T3:T4	Substrate and its metabolite	NA	NA
+17596106	T4:T5	Substrate and its metabolite	NA	NA
+17596106	T25:T26	Substrate and its metabolite	NA	NA
+15363588	T1:T2	Substrate and its metabolite	NA	NA
+15363588	T4:T5	Synonyms	NA	NA
+15363588	T4:T7	Substrate and its metabolite	NA	NA
+15363588	T4:T8	Substrate and its metabolite	NA	NA
+15363588	T5:T7	Substrate and its metabolite	NA	NA
+15363588	T5:T8	Substrate and its metabolite	NA	NA
+15363588	T7:T8	Synonyms	NA	NA
+15363588	T13:T14	Synonyms	NA	NA
+15256747	T1:T2	Substrate and its metabolite	NA	NA
+15256747	T3:T4	Substrate and its metabolite	NA	NA
+15256747	T6:T7	Substrate and its metabolite	hydrolysis	T8
+15256747	T10:T11	Substrate and its metabolite	NA	NA
+21726172	T5:T6	Substrate and its metabolite	NA	NA
+21726172	T5:T7	Substrate and its metabolite	NA	NA
+21726172	T6:T7	Synonyms	NA	NA
+16510126	T1:T2	Synonyms	NA	NA
+16510126	T3:T4	Synonyms	NA	NA
+16510126	T3:T5	Synonyms	NA	NA
+16510126	T4:T5	Synonyms	NA	NA
+16510126	T7:T8	Substrate and its metabolite	NA	NA
+16510126	T7:T9	Substrate and its metabolite	NA	NA
+18356270	T2:T3	Synonyms	NA	NA
+18356270	T4:T5	Synonyms	NA	NA
+18356270	T6:T7	Synonyms	NA	NA
+19797000	T1:T2	Substrate and its metabolite	NA	NA
+19797000	T4:T5	Substrate and its metabolite	NA	NA
+6777107	T5:T6	Substrate and its metabolite	NA	NA
+6777107	T5:T7	Substrate and its metabolite	NA	NA
+6777107	T6:T7	Synonyms	NA	NA
+6777107	T29:T30	Substrate and its metabolite	NA	NA
+22568631	T5:T7	Substrate and its metabolite	NA	NA
+22568631	T5:T8	Substrate and its metabolite	NA	NA
+22568631	T10:T11	Synonyms	NA	NA
+22543979	T3:T4	Substrate and its metabolite	NA	NA
+22543979	T5:T6	Synonyms	NA	NA
+16755044	T2:T3	Synonyms	NA	NA
+16755044	T3:T6	Substrate and its metabolite	NA	NA
+16755044	T3:T7	Substrate and its metabolite	NA	NA
+16755044	T6:T7	Synonyms	NA	NA
+20665528	T1:T2	Substrate and its metabolite	NA	NA
+20665528	T3:T4	Substrate and its metabolite	NA	NA
+20665528	T14:T15	Synonyms	NA	NA
+20665528	T14:T16	Synonyms	NA	NA
+20665528	T15:T16	Synonyms	NA	NA
+18606399	T1:T3	Substrate and its metabolite	NA	NA
+18606399	T1:T4	Substrate and its metabolite	NA	NA
+18606399	T5:T6	Synonyms	NA	NA
+17521300	T2:T4	Substrate and its metabolite	NA	NA
+17521300	T2:T5	Substrate and its metabolite	NA	NA
+17521300	T2:T6	Substrate and its metabolite	NA	NA
+17521300	T2:T7	Substrate and its metabolite	NA	NA
+17521300	T15:T16	Substrate and its metabolite	NA	NA
+17521300	T20:T21	Substrate and its metabolite	NA	NA
+17521300	T24:T25	Substrate and its metabolite	NA	NA
+17521300	T29:T30	Substrate and its metabolite	NA	NA
+11977110	T6:T7	Synonyms	NA	NA
+11977110	T6:T8	Substrate and its metabolite	NA	NA
+11977110	T7:T8	Substrate and its metabolite	NA	NA
+22100559	T8:T9	Substrate and its metabolite	NA	NA
+845795	T2:T3	Substrate and its metabolite	NA	NA
+845795	T5:T6	Substrate and its metabolite	NA	NA
+845795	T5:T7	Substrate and its metabolite	NA	NA
+845795	T11:T12	Substrate and its metabolite	NA	NA
+15640381	T4:T6	Substrate and its metabolite	N-dealkylation	T5
+15640381	T4:T7	Substrate and its metabolite	N-dealkylation	T5
+15640381	T4:T10	Substrate and its metabolite	N-oxidation	T8
+15640381	T4:T11	Substrate and its metabolite	N-oxidation	T8
+15640381	T4:T13	Substrate and its metabolite	hydroxylation	T12
+15640381	T4:T14	Substrate and its metabolite	hydroxylation	T12
+15640381	T4:T15	Substrate and its metabolite	hydroxylation	T12
+15640381	T4:T16	Substrate and its metabolite	hydroxylation	T12
+15640381	T4:T17	Substrate and its metabolite	hydroxylation	T12
+15640381	T4:T18	Substrate and its metabolite	hydroxylation	T12
+15640381	T6:T7	Synonyms	NA	NA
+15640381	T10:T11	Synonyms	NA	NA
+15640381	T13:T14	Synonyms	NA	NA
+15640381	T15:T16	Synonyms	NA	NA
+15640381	T17:T18	Synonyms	NA	NA
+15640381	T19:T20	Substrate and its metabolite	NA	NA
+15640381	T19:T21	Substrate and its metabolite	NA	NA
+15640381	T19:T22	Substrate and its metabolite	NA	NA
+15640381	T19:T23	Substrate and its metabolite	NA	NA
+15640381	T19:T24	Substrate and its metabolite	NA	NA
+12451292	T4:T5	Substrate and its metabolite	NA	NA
+8857570	T3:T4	Synonyms	NA	NA
+8857570	T5:T6	Synonyms	NA	NA
+8857570	T7:T8	Synonyms	NA	NA
+8857570	T9:T10	Synonyms	NA	NA
+8857570	T11:T12	Synonyms	NA	NA
+8857570	T23:T27	Substrate and its metabolite	NA	NA
+8857570	T24:T27	Substrate and its metabolite	NA	NA
+8857570	T25:T27	Substrate and its metabolite	NA	NA
+11471772	T3:T4	Synonyms	NA	NA
+16497679	T2:T4	Substrate and its metabolite	NA	NA
+16497679	T2:T5	Substrate and its metabolite	NA	NA
+16497679	T3:T4	Substrate and its metabolite	NA	NA
+16497679	T3:T5	Substrate and its metabolite	NA	NA
+16497679	T4:T5	Synonyms	NA	NA
+17505827	T5:T6	Substrate and its metabolite	NA	NA
+16611861	T3:T4	Synonyms	NA	NA
+16611861	T7:T8	Synonyms	NA	NA
+16611861	T9:T10	Substrate and its metabolite	O-demethylation	T11
+16611861	T26:T27	Substrate and its metabolite	O-demethylation	T25
+19666078	T10:T12	Substrate and its metabolite	NA	NA
+19666078	T11:T13	Substrate and its metabolite	NA	NA
+19666078	T23:T24	Substrate and its metabolite	NA	NA
+19666078	T25:T26	Substrate and its metabolite	NA	NA
+2291877	T4:T6	Substrate and its metabolite	NA	NA
+690998	T2:T3	Synonyms	NA	NA
+690998	T2:T4	Substrate and its metabolite	NA	NA
+690998	T3:T4	Substrate and its metabolite	NA	NA
+690998	T6:T7	Substrate and its metabolite	NA	NA
+690998	T6:T8	Substrate and its metabolite	NA	NA
+690998	T6:T9	Substrate and its metabolite	NA	NA
+690998	T6:T10	Substrate and its metabolite	NA	NA
+11453890	T1:T2	Synonyms	NA	NA
+11453890	T9:T11	Substrate and its metabolite	8-hydroxylation	T10
+17576805	T7:T8	Substrate and its metabolite	N-demethylation	T9
+16131524	T5:T6	Substrate and its metabolite	NA	NA
+16131524	T5:T7	Substrate and its metabolite	NA	NA
+16131524	T6:T7	Synonyms	NA	NA
+16131524	T8:T9	Substrate and its metabolite	O-demethylation	T10
+16131524	T8:T15	Substrate and its metabolite	N-dehydroxylation	T14
+16131524	T8:T16	Substrate and its metabolite	N-dehydroxylation	T14
+16131524	T22:T23	Substrate and its metabolite	NA	NA
+2872296	T1:T2	Substrate and its metabolite	NA	NA
+2872296	T1:T3	Substrate and its metabolite	NA	NA
+2872296	T4:T5	Synonyms	NA	NA
+2872296	T10:T11	Substrate and its metabolite	keto reduction	T15
+2872296	T12:T13	Substrate and its metabolite	keto reduction	T15
+12394264	T4:T5	Substrate and its metabolite	NA	NA
+15601807	T5:T6	Substrate and its metabolite	NA	NA
+15601807	T8:T10	Substrate and its metabolite	NA	NA
+15601807	T3:T4	Substrate and its metabolite	3-reduction	T5
+16717432	T3:T6	Substrate and its metabolite	NA	NA
+16717432	T7:T8	Substrate and its metabolite	NA	NA
+16717432	T7:T9	Substrate and its metabolite	NA	NA
+17064080	T1:T2	Synonyms	NA	NA
+17064080	T1:T3	Substrate and its metabolite	NA	NA
+17064080	T2:T3	Substrate and its metabolite	NA	NA
+17064080	T9:T10	Synonyms	NA	NA
+17064080	T9:T11	Substrate and its metabolite	NA	NA
+17064080	T10:T11	Substrate and its metabolite	NA	NA
+18393453	T1:T2	Substrate and its metabolite	NA	NA
+18393453	T3:T5	Substrate and its metabolite	NA	NA
+18393453	T3:T6	Substrate and its metabolite	NA	NA
+18393453	T5:T6	Synonyms	NA	NA
+18393453	T5:T10	Substrate and its metabolite	NA	NA
+18393453	T5:T11	Substrate and its metabolite	NA	NA
+18393453	T6:T10	Substrate and its metabolite	NA	NA
+18393453	T6:T11	Substrate and its metabolite	NA	NA
+18393453	T10:T11	Synonyms	NA	NA
+18393453	T21:T22	Substrate and its metabolite	NA	NA
+17163483	T9:T10	Synonyms	NA	NA
+17163483	T9:T13	Substrate and its metabolite	NA	NA
+17163483	T10:T13	Substrate and its metabolite	NA	NA
+17163483	T11:T13	Substrate and its metabolite	NA	NA
+17163483	T12:T13	Substrate and its metabolite	NA	NA
+17163483	T14:T15	Substrate and its metabolite	NA	NA
+21903155	T2:T3	Substrate and its metabolite	NA	NA
+11204222	T2:T3	Substrate and its metabolite	NA	NA
+20352613	T3:T10	Substrate and its metabolite	NA	NA
+20352613	T3:T11	Substrate and its metabolite	NA	NA
+20352613	T3:T12	Substrate and its metabolite	NA	NA
+20352613	T3:T13	Substrate and its metabolite	NA	NA
+19053182	T5:T6	Substrate and its metabolite	NA	NA
+19053182	T6:T8	Substrate and its metabolite	oxidation	T7
+19053182	T6:T13	Substrate and its metabolite	NA	NA
+19053182	T13:T14	Substrate and its metabolite	NA	NA
+19053182	T24:T25	Synonyms	NA	NA
+8055632	T8:T9	Synonyms	NA	NA
+8055632	T8:T10	Synonyms	NA	NA
+8055632	T11:T12	Synonyms	NA	NA
+18191932	T2:T3	Synonyms	NA	NA
+18191932	T2:T4	Substrate and its metabolite	NA	NA
+18191932	T2:T5	Substrate and its metabolite	NA	NA
+18191932	T2:T6	Substrate and its metabolite	NA	NA
+18191932	T2:T7	Substrate and its metabolite	NA	NA
+18191932	T3:T4	Substrate and its metabolite	NA	NA
+18191932	T3:T5	Substrate and its metabolite	NA	NA
+18191932	T3:T6	Substrate and its metabolite	NA	NA
+18191932	T3:T7	Substrate and its metabolite	NA	NA
+18191932	T4:T5	Synonyms	NA	NA
+18191932	T6:T7	Synonyms	NA	NA
+18191932	T8:T9	Synonyms	NA	NA
+17827338	T2:T3	Synonyms	NA	NA
+23575872	T2:T3	Synonyms	NA	NA
+23575872	T2:T5	Substrate and its metabolite	hydrolysis	T4
+23575872	T2:T6	Substrate and its metabolite	hydrolysis	T4
+23575872	T3:T5	Substrate and its metabolite	hydrolysis	T4
+23575872	T3:T6	Substrate and its metabolite	hydrolysis	T4
+23575872	T5:T6	Synonyms	NA	NA
+16419413	T3:T4	Synonyms	NA	NA
+16419413	T8:T9	Substrate and its metabolite	NA	NA
+7859374	T3:T4	Synonyms	NA	NA
+7859374	T5:T6	Synonyms	NA	NA
+7859374	T5:T7	Substrate and its metabolite	NA	NA
+7859374	T5:T8	Substrate and its metabolite	NA	NA
+7859374	T6:T7	Substrate and its metabolite	NA	NA
+7859374	T6:T8	Substrate and its metabolite	NA	NA
+12485949	T2:T3	Substrate and its metabolite	NA	NA
+12485949	T2:T4	Substrate and its metabolite	NA	NA
+12485949	T3:T4	Synonyms	NA	NA
+19015855	T5:T6	Substrate and its metabolite	NA	NA
+19015855	T12:T13	Substrate and its metabolite	NA	NA
+17944539	T2:T3	Substrate and its metabolite	NA	NA
+17944539	T4:T5	Synonyms	NA	NA
+17944539	T4:T6	Substrate and its metabolite	NA	NA
+17944539	T5:T6	Substrate and its metabolite	NA	NA
+19147417	T7:T8	Synonyms	NA	NA
+19147417	T9:T10	Synonyms	NA	NA
+19147417	T15:T16	Substrate and its metabolite	NA	NA
+19147417	T15:T17	Substrate and its metabolite	NA	NA
+19147417	T16:T17	Synonyms	NA	NA
+19147417	T18:T19	Synonyms	NA	NA
+19147417	T20:T21	Substrate and its metabolite	NA	NA
+19147417	T20:T22	Substrate and its metabolite	NA	NA
+19147417	T21:T22	Synonyms	NA	NA
+21482104	T4:T5	Substrate and its metabolite	NA	NA
+21482104	T4:T6	Substrate and its metabolite	NA	NA
+21482104	T4:T7	Substrate and its metabolite	NA	NA
+16565170	T2:T3	Synonyms	NA	NA
+16565170	T4:T5	Synonyms	NA	NA
+16565170	T9:T11	Substrate and its metabolite	NA	NA
+1812984	T3:T4	Synonyms	NA	NA
+1812984	T3:T5	Substrate and its metabolite	NA	NA
+1812984	T4:T5	Substrate and its metabolite	NA	NA
+12975337	T5:T6	Synonyms	NA	NA
+12975337	T5:T7	Substrate and its metabolite	NA	NA
+12975337	T6:T7	Substrate and its metabolite	NA	NA
+19833844	T2:T3	Synonyms	NA	NA
+20484614	T7:T8	Substrate and its metabolite	NA	NA
+2333716	T2:T3	Synonyms	NA	NA
+2333716	T2:T4	Synonyms	NA	NA
+2333716	T2:T5	Synonyms	NA	NA
+2333716	T3:T4	Synonyms	NA	NA
+2333716	T3:T5	Synonyms	NA	NA
+2333716	T4:T5	Synonyms	NA	NA
+2333716	T2:T7	Substrate and its metabolite	NA	NA
+2333716	T2:T8	Substrate and its metabolite	NA	NA
+2333716	T2:T11	Substrate and its metabolite	NA	NA
+2333716	T3:T7	Substrate and its metabolite	NA	NA
+2333716	T3:T8	Substrate and its metabolite	NA	NA
+2333716	T3:T11	Substrate and its metabolite	NA	NA
+2333716	T4:T7	Substrate and its metabolite	NA	NA
+2333716	T4:T8	Substrate and its metabolite	NA	NA
+2333716	T4:T11	Substrate and its metabolite	NA	NA
+2333716	T5:T7	Substrate and its metabolite	NA	NA
+0	T5:T8	Substrate and its metabolite	NA	NA
+0	T5:T11	Substrate and its metabolite	NA	NA
+0	T14:T15	Substrate and its metabolite	NA	NA
+23314398	T2:T3	Synonyms	NA	NA
+23314398	T2:T6	Substrate and its metabolite	NA	NA
+23314398	T2:T7	Substrate and its metabolite	NA	NA
+23314398	T3:T6	Substrate and its metabolite	NA	NA
+23314398	T3:T7	Substrate and its metabolite	NA	NA
+23314398	T6:T7	Synonyms	NA	NA
+23314398	T11:T12	Synonyms	NA	NA
+18056281	T3:T6	Substrate and its metabolite	NA	NA
+18056281	T17:T19	Substrate and its metabolite	NA	NA
+18056281	T31:T32	Substrate and its metabolite	NA	NA
+14742144	T3:T4	Substrate and its metabolite	NA	NA
+14742144	T3:T5	Substrate and its metabolite	NA	NA
+14742144	T4:T5	Synonyms	NA	NA
+14997211	T6:T11	Substrate and its metabolite	NA	NA
+18952506	T1:T2	Synonyms	NA	NA
+18952506	T3:T4	Substrate and its metabolite	NA	NA
+18952506	T3:T5	Substrate and its metabolite	NA	NA
+18952506	T3:T6	Substrate and its metabolite	NA	NA
+18952506	T3:T7	Substrate and its metabolite	NA	NA
+18952506	T4:T5	Synonyms	NA	NA
+18952506	T6:T7	Synonyms	NA	NA
+15902980	T6:T7	Substrate and its metabolite	NA	NA
+15902980	T11:T12	Synonyms	NA	NA
+15902980	T16:T17	Substrate and its metabolite	NA	NA
+16381669	T2:T3	Substrate and its metabolite	NA	NA
+16381669	T2:T4	Substrate and its metabolite	hydroxylation	T6
+16381669	T2:T5	Substrate and its metabolite	NA	NA
+16381669	T3:T5	Substrate and its metabolite	hydroxylation	T6
+16381669	T8:T9	Substrate and its metabolite	NA	NA
+16381669	T13:T14	Substrate and its metabolite	NA	NA
+21045200	T2:T3	Synonyms	NA	NA
+21045200	T4:T5	Synonyms	NA	NA
+21045200	T4:T6	Synonyms	NA	NA
+21045200	T4:T7	Synonyms	NA	NA
+21045200	T5:T6	Synonyms	NA	NA
+21045200	T5:T7	Synonyms	NA	NA
+21045200	T6:T7	Synonyms	NA	NA
+21045200	T13:T15	Substrate and its metabolite	phosphorylation	T14
+21045200	T13:T21	Substrate and its metabolite	NA	NA
+14742135	T8:T9	Substrate and its metabolite	NA	NA
+14742135	T10:T11	Substrate and its metabolite	NA	NA
+14742135	T12:T13	Substrate and its metabolite	NA	NA
+14742135	T19:T20	Substrate and its metabolite	NA	NA
+14742135	T21:T22	Substrate and its metabolite	NA	NA
+22472641	T2:T3	Substrate and its metabolite	NA	NA
+12235447	T2:T3	Synonyms	NA	NA
+12235447	T2:T4	Substrate and its metabolite	NA	NA
+12235447	T2:T5	Substrate and its metabolite	NA	NA
+12235447	T2:T6	Substrate and its metabolite	NA	NA
+12235447	T2:T7	Substrate and its metabolite	NA	NA
+12235447	T3:T4	Substrate and its metabolite	NA	NA
+12235447	T3:T5	Substrate and its metabolite	NA	NA
+12235447	T3:T6	Substrate and its metabolite	NA	NA
+12235447	T3:T7	Substrate and its metabolite	NA	NA
+12235447	T4:T5	Synonyms	NA	NA
+12235447	T6:T7	Synonyms	NA	NA
+8971957	T2:T3	Synonyms	NA	NA
+20200232	T2:T3	Synonyms	NA	NA
+20200232	T13:T15	Substrate and its metabolite	NA	NA
+20200232	T23:T24	Substrate and its metabolite	NA	NA
+12433805	T1:T2	Substrate and its metabolite	3-hydroxylation	T3
+12433805	T2:T4	Substrate and its metabolite	NA	NA
+12433805	T2:T5	Substrate and its metabolite	NA	NA
+12433805	T2:T6	Substrate and its metabolite	NA	NA
+12433805	T2:T7	Substrate and its metabolite	NA	NA
+12433805	T24:T25	Substrate and its metabolite	NA	NA
+14634046	T2:T3	Synonyms	NA	NA
+14634046	T3:T4	Substrate and its metabolite	NA	NA
+14634046	T3:T5	Substrate and its metabolite	NA	NA
+14634046	T3:T6	Substrate and its metabolite	NA	NA
+14634046	T3:T7	Substrate and its metabolite	NA	NA
+14634046	T4:T5	Synonyms	NA	NA
+14634046	T6:T7	Synonyms	NA	NA
+14634046	T9:T10	Synonyms	NA	NA
+21060109	T3:T6	Substrate and its metabolite	NA	NA
+21060109	T3:T7	Substrate and its metabolite	NA	NA
+21060109	T6:T7	Synonyms	NA	NA
+21060109	T9:T10	Substrate and its metabolite	NA	NA
+21060109	T17:T18	Substrate and its metabolite	NA	NA
+12505783	T1:T2	Synonyms	NA	NA
+12505783	T3:T4	Substrate and its metabolite	oxidation	T5
+12505783	T6:T7	Synonyms	NA	NA
+12505783	T6:T10	Substrate and its metabolite	NA	NA
+12505783	T7:T10	Substrate and its metabolite	NA	NA
+12505783	T6:T11	Substrate and its metabolite	NA	NA
+12505783	T7:T11	Substrate and its metabolite	NA	NA
+12505783	T10:T11	Synonyms	NA	NA
+12505783	T15:T16	Substrate and its metabolite	NA	NA
+12505783	T18:T19	Substrate and its metabolite	NA	NA
+12505783	T18:T20	Substrate and its metabolite	NA	NA
+12505783	T19:T20	Synonyms	NA	NA
+12505783	T24:T25	Substrate and its metabolite	NA	NA
+12505783	T26:T27	Substrate and its metabolite	NA	NA
+12505783	T36:T37	Substrate and its metabolite	NA	NA
+9070593	T3:T4	Synonyms	NA	NA
+9070593	T5:T6	Synonyms	NA	NA
+9070593	T7:T8	Synonyms	NA	NA
+9070593	T9:T10	Substrate and its metabolite	NA	NA
+9070593	T11:T12	Substrate and its metabolite	NA	NA
+9070593	T11:T13	Substrate and its metabolite	NA	NA
+9070593	T12:T13	Synonyms	NA	NA
+9070593	T23:T24	Substrate and its metabolite	NA	NA
+22538270	T2:T3	Synonyms	NA	NA
+22538270	T5:T6	Substrate and its metabolite	hydroxylation	T4
+22538270	T5:T9	Substrate and its metabolite	hydrolysis	T7
+22538270	T9:T11	Substrate and its metabolite	NA	NA
+22538270	T24:T25	Substrate and its metabolite	hydroxylation	T23
+22538270	T29:T31	Substrate and its metabolite	hydroxylation	T30
+22538270	T35:T36	Substrate and its metabolite	hydroxylation	T34
+19095720	T2:T3	Synonyms	NA	NA
+19095720	T14:T15	Substrate and its metabolite	NA	NA
+21176727	T2:T3	Synonyms	NA	NA
+21176727	T2:T4	Substrate and its metabolite	NA	NA
+21176727	T2:T5	Substrate and its metabolite	NA	NA
+21176727	T4:T5	Synonyms	NA	NA
+21176727	T10:T11	Substrate and its metabolite	NA	NA
+21176727	T14:T15	Substrate and its metabolite	NA	NA
+21300142	T1:T2	Substrate and its metabolite	NA	NA
+21300142	T1:T3	Substrate and its metabolite	NA	NA
+21300142	T4:T5	Substrate and its metabolite	NA	NA
+21300142	T4:T6	Substrate and its metabolite	NA	NA
+21300142	T4:T7	Substrate and its metabolite	NA	NA
+21300142	T4:T8	Substrate and its metabolite	NA	NA
+21300142	T5:T6	Synonyms	NA	NA
+21300142	T7:T8	Synonyms	NA	NA
+21300142	T9:T10	Substrate and its metabolite	NA	NA
+21300142	T15:T16	Substrate and its metabolite	NA	NA
+21300142	T15:T17	Substrate and its metabolite	NA	NA
+21300142	T16:T18	Substrate and its metabolite	NA	NA
+21300142	T17:T18	Substrate and its metabolite	NA	NA
+12712459	T5:T6	Substrate and its metabolite	NA	NA
+12712459	T5:T7	Substrate and its metabolite	NA	NA
+12712459	T5:T8	Substrate and its metabolite	NA	NA
+12712459	T5:T9	Substrate and its metabolite	NA	NA
+12712459	T5:T10	Substrate and its metabolite	NA	NA
+12712459	T6:T7	Synonyms	NA	NA
+12712459	T9:T10	Synonyms	NA	NA
+12811361	T4:T5	Synonyms	NA	NA
+12811361	T4:T6	Synonyms	NA	NA
+12811361	T5:T6	Synonyms	NA	NA
+12811361	T14:T15	Substrate and its metabolite	NA	NA
+12811361	T16:T17	Substrate and its metabolite	NA	NA
+12811361	T17:T18	Substrate and its metabolite	NA	NA
+12811361	T19:T20	Substrate and its metabolite	NA	NA
+12811361	T21:T22	Substrate and its metabolite	NA	NA
+12811361	T27:T28	Substrate and its metabolite	NA	NA
+16678548	T4:T5	Substrate and its metabolite	NA	NA
+16678548	T15:T16	Substrate and its metabolite	N-demethylation	T14
+16678548	T15:T17	Substrate and its metabolite	N-demethylation	T14
+16678548	T15:T18	Substrate and its metabolite	N-demethylation	T14
+16678548	T15:T20	Substrate and its metabolite	O-demethylation	T19
+16678548	T15:T21	Substrate and its metabolite	O-demethylation	T19
+16678548	T15:T23	Substrate and its metabolite	6-keto-reduction	T22
+16678548	T24:T26	Substrate and its metabolite	NA	NA
+16678548	T25:T26	Substrate and its metabolite	NA	NA
+16506809	T1:T2	Substrate and its metabolite	NA	NA
+16506809	T3:T4	Substrate and its metabolite	NA	NA
+16506809	T3:T5	Substrate and its metabolite	NA	NA
+16506809	T27:T28	Substrate and its metabolite	NA	NA
+16506809	T29:T30	Substrate and its metabolite	NA	NA
+19063590	T4:T5	Synonyms	NA	NA
+19063590	T8:T9	Synonyms	NA	NA
+19063590	T11:T12	Substrate and its metabolite	NA	NA
+20001672	T4:T5	Substrate and its metabolite	NA	NA
+20001672	T4:T6	Substrate and its metabolite	NA	NA
+20001672	T4:T7	Substrate and its metabolite	NA	NA
+20940093	T3:T4	Synonyms	NA	NA
+20940093	T3:T5	Substrate and its metabolite	NA	NA
+20940093	T3:T6	Substrate and its metabolite	NA	NA
+20940093	T4:T5	Substrate and its metabolite	NA	NA
+20940093	T4:T6	Substrate and its metabolite	NA	NA
+20940093	T5:T6	Synonyms	NA	NA
+15327972	T1:T2	Synonyms	NA	NA
+15327972	T3:T4	Synonyms	NA	NA
+15327972	T3:T5	Substrate and its metabolite	NA	NA
+15327972	T4:T5	Substrate and its metabolite	NA	NA
+15327972	T6:T7	Synonyms	NA	NA
+15327972	T6:T8	Synonyms	NA	NA
+15327972	T7:T8	Synonyms	NA	NA
+15327972	T10:T11	Substrate and its metabolite	NA	NA
+15327972	T14:T15	Substrate and its metabolite	NA	NA
+15327972	T17:T18	Synonyms	NA	NA
+15327972	T17:T19	Substrate and its metabolite	NA	NA
+15327972	T18:T19	Substrate and its metabolite	NA	NA
+15327972	T23:T24	Substrate and its metabolite	NA	NA
+17268056	T4:T5	Substrate and its metabolite	NA	NA
+17200836	T4:T5	Synonyms	NA	NA
+17200836	T11:T14	Substrate and its metabolite	NA	NA
+17200836	T11:T17	Substrate and its metabolite	NA	NA
+17200836	T11:T18	Substrate and its metabolite	NA	NA
+17200836	T12:T13	Substrate and its metabolite	NA	NA
+17200836	T13:T15	Substrate and its metabolite	3-hydroxylation	T16
+3770018	T1:T2	Synonyms	NA	NA
+3770018	T3:T4	Substrate and its metabolite	NA	NA
+3770018	T3:T5	Substrate and its metabolite	NA	NA
+3770018	T4:T5	Synonyms	NA	NA
+21189331	T2:T3	Synonyms	NA	NA
+21189331	T2:T7	Substrate and its metabolite	hydrolysis	T5
+21189331	T2:T8	Substrate and its metabolite	hydrolysis	T5
+21189331	T3:T7	Substrate and its metabolite	hydrolysis	T5
+21189331	T3:T8	Substrate and its metabolite	hydrolysis	T5
+21189331	T7:T8	Synonyms	NA	NA
+21189331	T7:T9	Substrate and its metabolite	oxidation	T11
+21189331	T7:T10	Substrate and its metabolite	oxidation	T11
+21189331	T8:T9	Substrate and its metabolite	oxidation	T11
+21189331	T8:T10	Substrate and its metabolite	oxidation	T11
+21189331	T9:T10	Synonyms	NA	NA
+21189331	T12:T14	Substrate and its metabolite	NA	NA
+21189331	T13:T14	Substrate and its metabolite	NA	NA
+21189331	T17:T18	Substrate and its metabolite	NA	NA
+21189331	T17:T19	Substrate and its metabolite	NA	NA
+21189331	T20:T21	Substrate and its metabolite	NA	NA
+21189331	T22:T23	Substrate and its metabolite	NA	NA
+11376561	T2:T3	Synonyms	NA	NA
+11376561	T4:T5	Substrate and its metabolite	NA	NA
+11376561	T4:T6	Substrate and its metabolite	NA	NA
+11376561	T5:T6	Synonyms	NA	NA
+11376561	T10:T11	Substrate and its metabolite	NA	NA
+15831782	T1:T3	Substrate and its metabolite	NA	NA
+15831782	T4:T6	Substrate and its metabolite	NA	NA
+15769123	T9:T10	Synonyms	NA	NA
+15769123	T17:T30	Substrate and its metabolite	NA	NA
+15769123	T18:T30	Substrate and its metabolite	NA	NA
+15769123	T19:T30	Substrate and its metabolite	NA	NA
+15769123	T20:T30	Substrate and its metabolite	NA	NA
+15769123	T21:T30	Substrate and its metabolite	NA	NA
+15769123	T26:T27	Substrate and its metabolite	NA	NA
+15769123	T28:T30	Substrate and its metabolite	NA	NA
+19761716	T2:T4	Substrate and its metabolite	hydrolysis	T3
+19761716	T2:T5	Substrate and its metabolite	hydrolysis	T3
+19761716	T4:T5	Synonyms	NA	NA
+17062777	T8:T9	Substrate and its metabolite	NA	NA
+6684541	T2:T3	Synonyms	NA	NA
+6684541	T4:T5	Synonyms	NA	NA
+6684541	T8:T10	Substrate and its metabolite	NA	NA
+15355884	T3:T4	Synonyms	NA	NA
+15355884	T3:T5	Synonyms	NA	NA
+15355884	T4:T5	Synonyms	NA	NA
+15355884	T11:T12	Synonyms	NA	NA
+15355884	T11:T13	Synonyms	NA	NA
+15355884	T12:T13	Synonyms	NA	NA
+7214799	T2:T3	Synonyms	NA	NA
+7214799	T2:T4	Substrate and its metabolite	NA	NA
+7214799	T2:T5	Substrate and its metabolite	NA	NA
+7214799	T2:T6	Substrate and its metabolite	NA	NA
+7214799	T2:T7	Substrate and its metabolite	NA	NA
+7214799	T3:T4	Substrate and its metabolite	NA	NA
+7214799	T3:T5	Substrate and its metabolite	NA	NA
+7214799	T3:T6	Substrate and its metabolite	NA	NA
+7214799	T3:T7	Substrate and its metabolite	NA	NA
+7214799	T4:T5	Synonyms	NA	NA
+7214799	T6:T7	Synonyms	NA	NA
+7214799	T11:T12	Substrate and its metabolite	NA	NA
+7214799	T13:T14	Substrate and its metabolite	NA	NA
+8535411	T3:T7	Substrate and its metabolite	NA	NA
+8535411	T4:T8	Substrate and its metabolite	NA	NA
+18431571	T7:T8	Substrate and its metabolite	NA	NA
+18431571	T9:T10	Substrate and its metabolite	NA	NA
+19460943	T3:T4	Substrate and its metabolite	NA	NA
+19460943	T3:T5	Substrate and its metabolite	NA	NA
+19460943	T3:T6	Substrate and its metabolite	NA	NA
+19460943	T7:T9	Substrate and its metabolite	NA	NA
+7325647	T1:T3	Substrate and its metabolite	NA	NA
+7325647	T2:T3	Substrate and its metabolite	NA	NA
+19131519	T3:T4	Substrate and its metabolite	NA	NA
+19131519	T6:T8	Substrate and its metabolite	O-demethylation	T7
+19131519	T8:T9	Substrate and its metabolite	NA	NA
+16782768	T1:T2	Substrate and its metabolite	NA	NA
+16782768	T1:T3	Substrate and its metabolite	NA	NA
+16782768	T4:T6	Substrate and its metabolite	NA	NA
+16782768	T5:T6	Substrate and its metabolite	NA	NA
+16782768	T10:T11	Substrate and its metabolite	NA	NA
+16782768	T10:T12	Substrate and its metabolite	NA	NA
+16782768	T13:T14	Substrate and its metabolite	NA	NA
+16782768	T8:T15	Substrate and its metabolite	NA	NA
+16782768	T8:T16	Substrate and its metabolite	NA	NA
+16782768	T8:T17	Substrate and its metabolite	NA	NA
+16782768	T19:T20	Substrate and its metabolite	NA	NA
+21602311	T1:T2	Synonyms	NA	NA
+21602311	T3:T4	Synonyms	NA	NA
+17403996	T4:T5	Synonyms	NA	NA
+17403996	T4:T6	Synonyms	NA	NA
+17403996	T4:T7	Synonyms	NA	NA
+17403996	T4:T8	Synonyms	NA	NA
+17403996	T5:T6	Synonyms	NA	NA
+17403996	T5:T7	Synonyms	NA	NA
+17403996	T5:T8	Synonyms	NA	NA
+17403996	T6:T7	Synonyms	NA	NA
+17403996	T6:T8	Synonyms	NA	NA
+17403996	T7:T8	Synonyms	NA	NA
+17403996	T9:T10	Synonyms	NA	NA
+17403996	T21:T23	Substrate and its metabolite	NA	NA
+15129551	T3:T4	Synonyms	NA	NA
+15129551	T5:T7	Substrate and its metabolite	oxidation	T6
+15129551	T12:T13	Substrate and its metabolite	NA	NA
+15129551	T12:T14	Substrate and its metabolite	NA	NA
+15129551	T13:T14	Synonyms	NA	NA
+23777616	T2:T3	Synonyms	NA	NA
+9302	T7:T9	Substrate and its metabolite	NA	NA
+9302	T8:T9	Substrate and its metabolite	NA	NA
+21443919	T1:T2	Substrate and its metabolite	NA	NA
+21443919	T3:T4	Synonyms	NA	NA
+21443919	T3:T5	Substrate and its metabolite	NA	NA
+21443919	T3:T6	Substrate and its metabolite	NA	NA
+21443919	T4:T5	Substrate and its metabolite	NA	NA
+21443919	T4:T6	Substrate and its metabolite	NA	NA
+21443919	T5:T6	Synonyms	NA	NA
+18571483	T3:T4	Substrate and its metabolite	NA	NA
+18571483	T3:T5	Substrate and its metabolite	NA	NA
+18571483	T4:T5	Synonyms	NA	NA
+12846597	T3:T4	Substrate and its metabolite	NA	NA
+12846597	T3:T5	Substrate and its metabolite	NA	NA
+12846597	T3:T6	Substrate and its metabolite	NA	NA
+12846597	T4:T6	Substrate and its metabolite	NA	NA
+12846597	T5:T6	Substrate and its metabolite	NA	NA
+12846597	T8:T9	Substrate and its metabolite	NA	NA
+12846597	T8:T10	Substrate and its metabolite	NA	NA
+12846597	T8:T11	Substrate and its metabolite	NA	NA
+12846597	T9:T11	Substrate and its metabolite	NA	NA
+12846597	T10:T11	Substrate and its metabolite	NA	NA
+12846597	T13:T14	Substrate and its metabolite	NA	NA
+12846597	T29:T30	Substrate and its metabolite	NA	NA
+17620343	T15:T16	Substrate and its metabolite	NA	NA
+20073472	T3:T7	Substrate and its metabolite	NA	NA
+20073472	T3:T8	Substrate and its metabolite	NA	NA
+20073472	T3:T9	Substrate and its metabolite	NA	NA
+20073472	T3:T10	Substrate and its metabolite	NA	NA
+20073472	T3:T11	Substrate and its metabolite	NA	NA
+20073472	T4:T7	Substrate and its metabolite	NA	NA
+20073472	T4:T8	Substrate and its metabolite	NA	NA
+20073472	T4:T9	Substrate and its metabolite	NA	NA
+20073472	T4:T10	Substrate and its metabolite	NA	NA
+20073472	T4:T11	Substrate and its metabolite	NA	NA
+20073472	T5:T7	Substrate and its metabolite	NA	NA
+20073472	T5:T8	Substrate and its metabolite	NA	NA
+20073472	T5:T9	Substrate and its metabolite	NA	NA
+20073472	T5:T10	Substrate and its metabolite	NA	NA
+20073472	T5:T11	Substrate and its metabolite	NA	NA
+20073472	T6:T7	Substrate and its metabolite	NA	NA
+20073472	T6:T8	Substrate and its metabolite	NA	NA
+20073472	T6:T9	Substrate and its metabolite	NA	NA
+20073472	T6:T10	Substrate and its metabolite	NA	NA
+20073472	T6:T11	Substrate and its metabolite	NA	NA
+20073472	T18:T20	Substrate and its metabolite	NA	NA
+20073472	T19:T20	Substrate and its metabolite	NA	NA
+17219606	T2:T3	Synonyms	NA	NA
+17219606	T2:T4	Substrate and its metabolite	NA	NA
+17219606	T2:T5	Substrate and its metabolite	NA	NA
+17219606	T3:T4	Substrate and its metabolite	NA	NA
+17219606	T3:T5	Substrate and its metabolite	NA	NA
+17219606	T4:T5	Synonyms	NA	NA
+17219606	T6:T7	Substrate and its metabolite	NA	NA
+17219606	T9:T10	Substrate and its metabolite	decarboxylation	T8
+7875181	T1:T4	Substrate and its metabolite	7-hydroxylation	T2
+7875181	T1:T5	Substrate and its metabolite	7-hydroxylation	T2
+7875181	T3:T4	Substrate and its metabolite	NA	NA
+7875181	T3:T5	Substrate and its metabolite	NA	NA
+7875181	T4:T5	Synonyms	NA	NA
+11504277	T5:T6	Substrate and its metabolite	NA	NA
+11504277	T5:T7	Substrate and its metabolite	NA	NA
+11504277	T6:T7	Synonyms	NA	NA
+15637092	T5:T7	Substrate and its metabolite	NA	NA
+15637092	T12:T13	Substrate and its metabolite	NA	NA
+12745870	T2:T3	Synonyms	NA	NA
+12745870	T6:T7	Substrate and its metabolite	NA	NA
+12745870	T6:T8	Substrate and its metabolite	NA	NA
+12745870	T6:T9	Substrate and its metabolite	NA	NA
+12745870	T6:T10	Substrate and its metabolite	NA	NA
+12745870	T10:T11	Substrate and its metabolite	NA	NA
+12745870	T19:T20	Substrate and its metabolite	NA	NA
+12745870	T20:T21	Substrate and its metabolite	NA	NA
+12695354	T4:T5	Synonyms	NA	NA
+12695354	T4:T6	Substrate and its metabolite	NA	NA
+12695354	T5:T6	Substrate and its metabolite	NA	NA
+12695354	T14:T15	Substrate and its metabolite	NA	NA
+12695354	T14:T16	Substrate and its metabolite	NA	NA
+12695354	T15:T17	Substrate and its metabolite	NA	NA
+12695354	T16:T17	Substrate and its metabolite	NA	NA
+12695354	T18:T19	Substrate and its metabolite	NA	NA
+19270786	T11:T12	Synonyms	NA	NA
+19270786	T11:T13	Substrate and its metabolite	NA	NA
+19270786	T12:T13	Substrate and its metabolite	NA	NA
+19270786	T19:T20	Synonyms	NA	NA
+19270786	T19:T21	Substrate and its metabolite	NA	NA
+19270786	T20:T21	Substrate and its metabolite	NA	NA
+21859392	T1:T2	Synonyms	NA	NA
+21859392	T3:T4	Synonyms	NA	NA
+21859392	T5:T6	Synonyms	NA	NA
+15193727	T2:T3	Synonyms	NA	NA
+15193727	T2:T4	Substrate and its metabolite	NA	NA
+15193727	T2:T5	Substrate and its metabolite	NA	NA
+15193727	T3:T4	Substrate and its metabolite	NA	NA
+15193727	T3:T5	Substrate and its metabolite	NA	NA
+15193727	T4:T5	Synonyms	NA	NA
+12119000	T7:T8	Synonyms	NA	NA
+18006647	T2:T3	Synonyms	NA	NA
+18006647	T2:T4	Synonyms	NA	NA
+18006647	T2:T5	Synonyms	NA	NA
+18006647	T3:T4	Synonyms	NA	NA
+18006647	T3:T5	Synonyms	NA	NA
+18006647	T4:T5	Synonyms	NA	NA
+18006647	T6:T7	Synonyms	NA	NA
+18006647	T6:T8	Substrate and its metabolite	NA	NA
+18006647	T7:T8	Substrate and its metabolite	NA	NA
+18006647	T10:T11	Substrate and its metabolite	NA	NA
+18006647	T13:T14	Substrate and its metabolite	NA	NA
+18006647	T18:T19	Substrate and its metabolite	hydrolysis	T17
+18006647	T22:T23	Substrate and its metabolite	NA	NA
+20006453	T2:T3	Synonyms	NA	NA
+20006453	T4:T5	Synonyms	NA	NA
+20006453	T6:T7	Synonyms	NA	NA
+20006453	T8:T9	Synonyms	NA	NA
+20006453	T13:T14	Substrate and its metabolite	NA	NA
+20006453	T13:T15	Substrate and its metabolite	NA	NA
+20006453	T13:T16	Substrate and its metabolite	NA	NA
+20006453	T15:T17	Substrate and its metabolite	NA	NA
+20006453	T15:T18	Substrate and its metabolite	NA	NA
+12754096	T5:T6	Substrate and its metabolite	oxidation	T4
+12754096	T5:T7	Substrate and its metabolite	oxidation	T5
+17303175	T3:T4	Synonyms	NA	NA
+17303175	T8:T9	Synonyms	NA	NA
+17303175	T8:T10	Substrate and its metabolite	NA	NA
+17303175	T8:T11	Substrate and its metabolite	NA	NA
+17303175	T9:T10	Substrate and its metabolite	NA	NA
+17303175	T9:T11	Substrate and its metabolite	NA	NA
+17344341	T1:T2	Synonyms	NA	NA
+17344341	T5:T6	Synonyms	NA	NA
+17344341	T5:T9	Substrate and its metabolite	sulfoxidation	T8
+17344341	T5:T10	Substrate and its metabolite	sulfoxidation	T8
+17344341	T5:T11	Substrate and its metabolite	sulfoxidation	T8
+17344341	T5:T12	Substrate and its metabolite	sulfoxidation	T8
+17344341	T6:T9	Substrate and its metabolite	sulfoxidation	T8
+17344341	T6:T10	Substrate and its metabolite	sulfoxidation	T8
+17344341	T6:T11	Substrate and its metabolite	sulfoxidation	T8
+17344341	T6:T12	Substrate and its metabolite	sulfoxidation	T8
+17344341	T9:T10	Synonyms	NA	NA
+17344341	T11:T12	Synonyms	NA	NA
+17344341	T20:T22	Substrate and its metabolite	NA	NA
+22393121	T3:T4	Synonyms	NA	NA
+22393121	T5:T6	Synonyms	NA	NA
+22393121	T10:T11	Substrate and its metabolite	NA	NA
+22393121	T14:T15	Substrate and its metabolite	NA	NA
+22393121	T16:T17	Substrate and its metabolite	NA	NA
+23073735	T2:T3	Synonyms	NA	NA
+23073735	T4:T5	Synonyms	NA	NA
+17404093	T3:T4	Substrate and its metabolite	NA	NA
+17404093	T5:T6	Substrate and its metabolite	NA	NA
+11442279	T7:T8	Synonyms	NA	NA
+19225040	T3:T4	Synonyms	NA	NA
+19225040	T5:T6	Substrate and its metabolite	Hydrolysis	T1
+19225040	T7:T8	Synonyms	NA	NA
+19225040	T11:T12	Synonyms	NA	NA
+19225040	T11:T13	Substrate and its metabolite	Hydrolysis	T1
+19225040	T12:T13	Substrate and its metabolite	Hydrolysis	T1
+15087594	T7:T8	Substrate and its metabolite	NA	NA
+15087594	T7:T9	Substrate and its metabolite	NA	NA
+15087594	T7:T10	Substrate and its metabolite	NA	NA
+15087594	T7:T11	Substrate and its metabolite	NA	NA
+15087594	T13:T14	Substrate and its metabolite	NA	NA
+15087594	T13:T15	Substrate and its metabolite	NA	NA
+15087594	T13:T16	Substrate and its metabolite	NA	NA
+22642721	T4:T5	Synonyms	NA	NA
+22642721	T4:T6	Substrate and its metabolite	NA	NA
+22642721	T4:T7	Substrate and its metabolite	NA	NA
+22642721	T5:T6	Substrate and its metabolite	NA	NA
+22642721	T5:T7	Substrate and its metabolite	NA	NA
+21439153	T2:T3	Substrate and its metabolite	NA	NA
+21439153	T2:T4	Substrate and its metabolite	NA	NA
+21439153	T2:T5	Substrate and its metabolite	NA	NA
+21439153	T2:T6	Substrate and its metabolite	NA	NA
+21439153	T3:T4	Synonyms	NA	NA
+21439153	T5:T6	Synonyms	NA	NA
+22022867	T6:T7	Substrate and its metabolite	NA	NA
+22022867	T8:T10	Substrate and its metabolite	hydrolysis	T9
+11920947	T1:T2	Synonyms	NA	NA
+11920947	T3:T4	Synonyms	NA	NA
+11920947	T3:T5	Synonyms	NA	NA
+11920947	T4:T5	Synonyms	NA	NA
+11920947	T6:T7	Substrate and its metabolite	NA	NA
+11920947	T6:T8	Substrate and its metabolite	NA	NA
+11920947	T6:T10	Substrate and its metabolite	NA	NA
+11920947	T6:T11	Substrate and its metabolite	NA	NA
+11920947	T7:T8	Synonyms	NA	NA
+11920947	T7:T9	Substrate and its metabolite	NA	NA
+11920947	T8:T9	Substrate and its metabolite	NA	NA
+11920947	T10:T11	Synonyms	NA	NA
+2715286	T3:T4	Synonyms	NA	NA
+2715286	T10:T11	Substrate and its metabolite	NA	NA
+21637928	T2:T3	Synonyms	NA	NA
+19214962	T1:T2	Substrate and its metabolite	NA	NA
+19214962	T3:T4	Synonyms	NA	NA
+19214962	T3:T5	Substrate and its metabolite	NA	NA
+19214962	T3:T6	Substrate and its metabolite	NA	NA
+19214962	T4:T5	Substrate and its metabolite	NA	NA
+19214962	T4:T6	Substrate and its metabolite	NA	NA
+19214962	T5:T6	Synonyms	NA	NA
+19214962	T8:T9	Synonyms	NA	NA
+626496	T5:T6	Substrate and its metabolite	NA	NA
+20019910	T3:T4	Substrate and its metabolite	NA	NA
+20019910	T3:T5	Substrate and its metabolite	NA	NA
+20019910	T3:T6	Substrate and its metabolite	NA	NA
+20019910	T3:T7	Substrate and its metabolite	NA	NA
+20019910	T4:T5	Synonyms	NA	NA
+20019910	T6:T7	Synonyms	NA	NA
+20019910	T8:T9	Substrate and its metabolite	NA	NA
+20019910	T8:T10	Substrate and its metabolite	NA	NA
+20019910	T8:T11	Substrate and its metabolite	NA	NA
+20019910	T8:T12	Substrate and its metabolite	NA	NA
+7614690	T1:T3	Substrate and its metabolite	NA	NA
+7614690	T2:T3	Substrate and its metabolite	NA	NA
+7614690	T4:T6	Substrate and its metabolite	NA	NA
+7614690	T5:T6	Substrate and its metabolite	NA	NA
+23588565	T2:T3	Synonyms	NA	NA
+23588565	T2:T4	Substrate and its metabolite	NA	NA
+23588565	T2:T5	Substrate and its metabolite	NA	NA
+23588565	T3:T4	Substrate and its metabolite	NA	NA
+23588565	T3:T5	Substrate and its metabolite	NA	NA
+23588565	T4:T5	Synonyms	NA	NA
+16242387	T6:T7	Substrate and its metabolite	acidic hydrolysis	T8
+21651615	T6:T7	Substrate and its metabolite	NA	NA
+14742145	T1:T2	Substrate and its metabolite	NA	NA
+14742145	T4:T5	Substrate and its metabolite	NA	NA
+14742145	T6:T7	Substrate and its metabolite	NA	NA
+14742145	T8:T9	Substrate and its metabolite	NA	NA
+14742145	T10:T11	Substrate and its metabolite	NA	NA
+14742145	T12:T13	Substrate and its metabolite	NA	NA
+14742145	T14:T15	Substrate and its metabolite	NA	NA
+15838656	T5:T6	Synonyms	NA	NA
+15838656	T19:T20	Substrate and its metabolite	NA	NA
+15838656	T21:T22	Substrate and its metabolite	NA	NA
+654310	T2:T3	Substrate and its metabolite	NA	NA
+16326817	T2:T3	Synonyms	NA	NA
+16326817	T4:T5	Synonyms	NA	NA
+16326817	T22:T23	Synonyms	NA	NA
+16326817	T22:T24	Substrate and its metabolite	NA	NA
+16326817	T23:T24	Substrate and its metabolite	NA	NA
+16326817	T7:T8	Substrate and its metabolite	NA	NA
+16451086	T7:T9	Substrate and its metabolite	NA	NA
+16451086	T8:T9	Synonyms	NA	NA
+19966074	T1:T2	Synonyms	NA	NA
+19966074	T3:T4	Substrate and its metabolite	NA	NA
+19966074	T3:T5	Substrate and its metabolite	NA	NA
+19966074	T4:T5	Synonyms	NA	NA
+19966074	T7:T8	Substrate and its metabolite	NA	NA
+17921187	T3:T4	Synonyms	NA	NA
+17921187	T10:T11	Substrate and its metabolite	NA	NA
+20018470	T2:T3	Synonyms	NA	NA
+17218485	T1:T2	Synonyms	NA	NA
+17218485	T4:T5	Synonyms	NA	NA
+17218485	T4:T6	Substrate and its metabolite	NA	NA
+17218485	T4:T7	Substrate and its metabolite	NA	NA
+17218485	T5:T6	Substrate and its metabolite	NA	NA
+17218485	T5:T7	Substrate and its metabolite	NA	NA
+17218485	T6:T7	Synonyms	NA	NA
+17218485	T9:T10	Substrate and its metabolite	NA	NA
+7389256	T4:T5	Substrate and its metabolite	NA	NA
+19523935	T2:T6	Substrate and its metabolite	oxidation	T4
+19523935	T2:T12	Substrate and its metabolite	NA	NA
+19523935	T2:T13	Substrate and its metabolite	NA	NA
+19523935	T10:T11	Synonyms	NA	NA
+19523935	T15:T16	Substrate and its metabolite	NA	NA
+19523935	T15:T17	Substrate and its metabolite	NA	NA
+19523935	T16:T18	Substrate and its metabolite	NA	NA
+19523935	T17:T19	Substrate and its metabolite	NA	NA
+19523935	T18:T20	Substrate and its metabolite	NA	NA
+19523935	T19:T20	Substrate and its metabolite	NA	NA
+19523935	T21:T22	Substrate and its metabolite	NA	NA
+19523935	T23:T25	Substrate and its metabolite	hydroxylation	T24
+17627976	T6:T9	Substrate and its metabolite	NA	NA
+17627976	T7:T11	Substrate and its metabolite	NA	NA
+17627976	T8:T10	Substrate and its metabolite	NA	NA
+23347001	T2:T3	Synonyms	NA	NA
+23347001	T2:T4	Substrate and its metabolite	NA	NA
+23347001	T2:T5	Substrate and its metabolite	NA	NA
+23347001	T3:T4	Substrate and its metabolite	NA	NA
+23347001	T3:T5	Substrate and its metabolite	NA	NA
+23347001	T4:T5	Synonyms	NA	NA
+23347001	T21:T22	Substrate and its metabolite	NA	NA
+19931354	T1:T3	Substrate and its metabolite	NA	NA
+19931354	T4:T6	Substrate and its metabolite	NA	NA
+18672911	T6:T7	Synonyms	NA	NA
+21319958	T5:T6	Synonyms	NA	NA
+21319958	T5:T8	Substrate and its metabolite	NA	NA
+21319958	T5:T9	Substrate and its metabolite	NA	NA
+21319958	T5:T10	Substrate and its metabolite	NA	NA
+21319958	T5:T11	Substrate and its metabolite	NA	NA
+21319958	T5:T12	Substrate and its metabolite	NA	NA
+21319958	T5:T13	Substrate and its metabolite	NA	NA
+21319958	T5:T14	Substrate and its metabolite	NA	NA
+21319958	T5:T15	Substrate and its metabolite	NA	NA
+21319958	T6:T8	Substrate and its metabolite	NA	NA
+21319958	T6:T9	Substrate and its metabolite	NA	NA
+21319958	T6:T10	Substrate and its metabolite	NA	NA
+21319958	T6:T11	Substrate and its metabolite	NA	NA
+21319958	T6:T12	Substrate and its metabolite	NA	NA
+21319958	T6:T13	Substrate and its metabolite	NA	NA
+21319958	T6:T14	Substrate and its metabolite	NA	NA
+21319958	T6:T15	Substrate and its metabolite	NA	NA
+21319958	T8:T9	Synonyms	NA	NA
+21319958	T10:T11	Synonyms	NA	NA
+21319958	T12:T13	Synonyms	NA	NA
+21319958	T14:T15	Synonyms	NA	NA
+16757081	T7:T8	Substrate and its metabolite	NA	NA
+16757081	T9:T10	Substrate and its metabolite	NA	NA
+16757081	T11:T12	Substrate and its metabolite	NA	NA
+16757081	T13:T14	Synonyms	NA	NA
+16757081	T13:T19	Substrate and its metabolite	NA	NA
+16757081	T14:T19	Substrate and its metabolite	NA	NA
+16757081	T15:T16	Synonyms	NA	NA
+16757081	T15:T19	Substrate and its metabolite	NA	NA
+16757081	T16:T19	Substrate and its metabolite	NA	NA
+16757081	T17:T18	Synonyms	NA	NA
+16757081	T17:T19	Substrate and its metabolite	NA	NA
+16757081	T18:T19	Substrate and its metabolite	NA	NA
+16757081	T22:T23	Substrate and its metabolite	NA	NA
+16757081	T25:T26	Substrate and its metabolite	NA	NA
+16757081	T28:T29	Substrate and its metabolite	NA	NA
+16757081	T31:T33	Substrate and its metabolite	NA	NA
+16757081	T32:T33	Substrate and its metabolite	NA	NA
+16757081	T34:T36	Substrate and its metabolite	NA	NA
+16757081	T35:T36	Substrate and its metabolite	NA	NA
+8695073	T3:T4	Substrate and its metabolite	NA	NA
+8695073	T3:T5	Substrate and its metabolite	NA	NA
+9169076	T3:T4	Synonyms	NA	NA
+9169076	T5:T6	Synonyms	NA	NA
+9169076	T7:T8	Synonyms	NA	NA
+16944149	T2:T3	Synonyms	NA	NA
+16857327	T2:T3	Synonyms	NA	NA
+16857327	T6:T7	Substrate and its metabolite	Hydroxylation	T5
+16857327	T22:T23	Substrate and its metabolite	NA	NA
+12920491	T2:T3	Substrate and its metabolite	NA	NA
+12920491	T2:T4	Substrate and its metabolite	NA	NA
+12920491	T2:T5	Substrate and its metabolite	NA	NA
+12920491	T2:T6	Substrate and its metabolite	NA	NA
+12920491	T2:T7	Substrate and its metabolite	NA	NA
+12920491	T20:T21	Substrate and its metabolite	NA	NA
+12920491	T22:T23	Substrate and its metabolite	NA	NA
+8374050	T2:T3	Synonyms	NA	NA
+8374050	T10:T11	Synonyms	NA	NA
+21229238	T6:T9	Substrate and its metabolite	NA	NA
+21229238	T6:T10	Substrate and its metabolite	NA	NA
+21229238	T8:T11	Substrate and its metabolite	NA	NA
+21229238	T8:T12	Substrate and its metabolite	NA	NA
+21229238	T9:T10	Synonyms	NA	NA
+21229238	T11:T12	Synonyms	NA	NA
+19000552	T1:T2	Substrate and its metabolite	NA	NA
+19000552	T4:T5	Substrate and its metabolite	NA	NA
+19000552	T16:T17	Substrate and its metabolite	NA	NA
+3200856	T2:T3	Substrate and its metabolite	NA	NA
+23831704	T2:T3	Substrate and its metabolite	NA	NA
+23831704	T3:T4	Substrate and its metabolite	NA	NA
+23831704	T4:T5	Substrate and its metabolite	NA	NA
+23831704	T6:T7	Synonyms	NA	NA
+23831704	T6:T9	Substrate and its metabolite	NA	NA
+23831704	T6:T10	Substrate and its metabolite	NA	NA
+23831704	T6:T11	Substrate and its metabolite	NA	NA
+23831704	T7:T9	Substrate and its metabolite	NA	NA
+23831704	T7:T10	Substrate and its metabolite	NA	NA
+23831704	T7:T11	Substrate and its metabolite	NA	NA
+23831704	T9:T10	Synonyms	NA	NA
+23831704	T11:T12	Substrate and its metabolite	NA	NA
+23831704	T11:T13	Substrate and its metabolite	NA	NA
+23831704	T12:T13	Synonyms	NA	NA
+21348538	T2:T3	Substrate and its metabolite	NA	NA
+15257064	T2:T3	Substrate and its metabolite	NA	NA
+15257064	T2:T4	Substrate and its metabolite	NA	NA
+15257064	T3:T4	Synonyms	NA	NA
+15257064	T14:T15	Substrate and its metabolite	NA	NA
+12924926	T10:T11	Substrate and its metabolite	oxidation	T9
+18238857	T7:T8	Synonyms	NA	NA
+18238857	T7:T9	Substrate and its metabolite	NA	NA
+18238857	T7:T10	Substrate and its metabolite	NA	NA
+18238857	T7:T11	Substrate and its metabolite	NA	NA
+18238857	T8:T9	Substrate and its metabolite	NA	NA
+18238857	T8:T10	Substrate and its metabolite	NA	NA
+18238857	T8:T11	Substrate and its metabolite	NA	NA
+18238857	T8:T15	Substrate and its metabolite	NA	NA
+18238857	T9:T16	Substrate and its metabolite	NA	NA
+18238857	T15:T26	Substrate and its metabolite	4'-hydroxylation	T27
+18238857	T15:T31	Substrate and its metabolite	NA	NA
+18238857	T16:T30	Substrate and its metabolite	NA	NA
+18238857	T16:T26	Substrate and its metabolite	4'-hydroxylation	T27
+18238857	T20:T21	Substrate and its metabolite	NA	NA
+20086031	T2:T3	Synonyms	NA	NA
+20086031	T2:T4	Synonyms	NA	NA
+20086031	T3:T4	Synonyms	NA	NA
+20086031	T6:T7	Synonyms	NA	NA
+20086031	T6:T9	Substrate and its metabolite	NA	NA
+20086031	T7:T9	Substrate and its metabolite	NA	NA
+20086031	T9:T10	Substrate and its metabolite	NA	NA
+20086031	T9:T11	Substrate and its metabolite	NA	NA
+20086031	T9:T12	Substrate and its metabolite	NA	NA
+20086031	T10:T11	Substrate and its metabolite	NA	NA
+20086031	T10:T12	Substrate and its metabolite	NA	NA
+20086031	T11:T12	Synonyms	NA	NA
+20086031	T16:T17	Substrate and its metabolite	reduction	T15
+17429625	T1:T2	Synonyms	NA	NA
+17429625	T3:T4	Synonyms	NA	NA
+12576683	T3:T4	Synonyms	NA	NA
+15141102	T2:T4	Substrate and its metabolite	NA	NA
+15141102	T2:T5	Substrate and its metabolite	NA	NA
+15141102	T4:T5	Synonyms	NA	NA
+15141102	T6:T7	Substrate and its metabolite	NA	NA
+15141102	T10:T11	Substrate and its metabolite	NA	NA
+15141102	T10:T12	Substrate and its metabolite	NA	NA
+15141102	T11:T12	Synonyms	NA	NA
+15141102	T13:T14	Synonyms	NA	NA
+15141102	T15:T17	Substrate and its metabolite	oxidation	T16
+15141102	T15:T18	Substrate and its metabolite	oxidation	T16
+15141102	T17:T18	Synonyms	NA	NA
+15141102	T26:T27	Substrate and its metabolite	oxidation	T25
+15141102	T28:T31	Substrate and its metabolite	oxidation	T29
+15141102	T28:T31	Substrate and its metabolite	oxidation	T30
+15141102	T32:T33	Substrate and its metabolite	NA	NA
+15141102	T35:T36	Substrate and its metabolite	NA	NA
+15141102	T35:T37	Substrate and its metabolite	NA	NA
+15141102	T36:T37	Synonyms	NA	NA
+15141102	T43:T44	Substrate and its metabolite	NA	NA
+15141102	T44:T46	Substrate and its metabolite	NA	NA
+15141102	T47:T49	Substrate and its metabolite	oxidation	T48
+17956893	T8:T9	Synonyms	NA	NA
+17956893	T10:T11	Synonyms	NA	NA
+17956893	T28:T29	Substrate and its metabolite	NA	NA
+17956893	T31:T32	Substrate and its metabolite	NA	NA
+14757321	T5:T6	Synonyms	NA	NA
+14757321	T5:T7	Synonyms	NA	NA
+14757321	T6:T7	Synonyms	NA	NA
+14757321	T5:T9	Substrate and its metabolite	NA	NA
+14757321	T6:T9	Substrate and its metabolite	NA	NA
+14757321	T7:T9	Substrate and its metabolite	NA	NA
+14757321	T11:T12	Substrate and its metabolite	NA	NA
+14757321	T11:T13	Substrate and its metabolite	NA	NA
+1780973	T2:T3	Substrate and its metabolite	NA	NA
+1780973	T2:T4	Substrate and its metabolite	NA	NA
+1780973	T2:T5	Substrate and its metabolite	NA	NA
+1780973	T2:T6	Substrate and its metabolite	NA	NA
+1780973	T3:T4	Synonyms	NA	NA
+1780973	T5:T6	Synonyms	NA	NA
+1780973	T7:T8	Substrate and its metabolite	NA	NA
+1780973	T7:T9	Substrate and its metabolite	NA	NA
+20722998	T9:T10	Substrate and its metabolite	NA	NA
+21976622	T2:T3	Synonyms	NA	NA
+21976622	T6:T7	Substrate and its metabolite	NA	NA
+21976622	T6:T8	Substrate and its metabolite	NA	NA
+21976622	T7:T8	Synonyms	NA	NA
+17486328	T6:T7	Substrate and its metabolite	NA	NA
+16788861	T5:T6	Substrate and its metabolite	NA	NA
+14566442	T9:T10	Substrate and its metabolite	NA	NA
+14566442	T9:T11	Substrate and its metabolite	NA	NA
+14566442	T10:T11	Synonyms	NA	NA
+14566442	T17:T18	Substrate and its metabolite	NA	NA
+16780356	T6:T7	Substrate and its metabolite	NA	NA
+16780356	T6:T8	Substrate and its metabolite	NA	NA
+16780356	T7:T8	Synonyms	NA	NA
+21697613	T3:T4	Synonyms	NA	NA
+21697613	T3:T7	Substrate and its metabolite	NA	NA
+21697613	T3:T8	Substrate and its metabolite	NA	NA
+21697613	T4:T7	Substrate and its metabolite	NA	NA
+21697613	T4:T8	Substrate and its metabolite	NA	NA
+21697613	T5:T6	Synonyms	NA	NA
+21697613	T5:T7	Substrate and its metabolite	NA	NA
+21697613	T5:T8	Substrate and its metabolite	NA	NA
+21697613	T6:T7	Substrate and its metabolite	NA	NA
+21697613	T6:T8	Substrate and its metabolite	NA	NA
+8305581	T2:T3	Substrate and its metabolite	NA	NA
+8305581	T2:T4	Substrate and its metabolite	NA	NA
+15113553	T3:T4	Substrate and its metabolite	NA	NA
+15113553	T3:T5	Substrate and its metabolite	NA	NA
+15113553	T3:T6	Substrate and its metabolite	NA	NA
+15113553	T3:T7	Substrate and its metabolite	NA	NA
+15113553	T3:T8	Substrate and its metabolite	NA	NA
+15113553	T6:T7	Synonyms	NA	NA
+15113553	T9:T10	Substrate and its metabolite	NA	NA
+15113553	T9:T11	Substrate and its metabolite	NA	NA
+15113553	T9:T12	Substrate and its metabolite	NA	NA
+15113553	T10:T11	Synonyms	NA	NA
+17907785	T16:T17	Substrate and its metabolite	NA	NA
+17907785	T20:T21	Synonyms	NA	NA
+17907785	T45:T46	Synonyms	NA	NA
+19681099	T3:T6	Substrate and its metabolite	N-dealkylation	T9
+19681099	T3:T7	Substrate and its metabolite	N-dealkylation	T9
+19681099	T3:T8	Substrate and its metabolite	N-dealkylation	T9
+19681099	T3:T10	Substrate and its metabolite	N-dealkylation	T11
+19681099	T3:T14	Substrate and its metabolite	NA	NA
+19681099	T3:T15	Substrate and its metabolite	NA	NA
+19681099	T6:T7	Synonyms	NA	NA
+19681099	T14:T17	Substrate and its metabolite	N-dealkylation	T16
+19681099	T15:T17	Substrate and its metabolite	N-dealkylation	T16
+9252051	T17:T18	Synonyms	NA	NA
+20689019	T2:T3	Synonyms	NA	NA
+239135	T2:T3	Synonyms	NA	NA
+239135	T2:T4	Substrate and its metabolite	NA	NA
+239135	T2:T5	Substrate and its metabolite	NA	NA
+239135	T2:T6	Substrate and its metabolite	NA	NA
+239135	T2:T7	Substrate and its metabolite	NA	NA
+239135	T3:T4	Substrate and its metabolite	NA	NA
+239135	T3:T5	Substrate and its metabolite	NA	NA
+239135	T3:T6	Substrate and its metabolite	NA	NA
+239135	T3:T7	Substrate and its metabolite	NA	NA
+21783735	T6:T12	Substrate and its metabolite	NA	NA
+21783735	T6:T13	Substrate and its metabolite	NA	NA
+21783735	T6:T14	Substrate and its metabolite	NA	NA
+21783735	T6:T15	Substrate and its metabolite	NA	NA
+21783735	T6:T16	Substrate and its metabolite	NA	NA
+15607587	T2:T3	Synonyms	NA	NA
+15607587	T2:T4	Synonyms	NA	NA
+15607587	T3:T4	Synonyms	NA	NA
+15607587	T7:T9	Substrate and its metabolite	deamination	T8
+15607587	T10:T11	Substrate and its metabolite	NA	NA
+15607587	T10:T12	Substrate and its metabolite	NA	NA
+15607587	T10:T13	Substrate and its metabolite	NA	NA
+15607587	T10:T14	Substrate and its metabolite	NA	NA
+15607587	T10:T15	Substrate and its metabolite	NA	NA
+15607587	T10:T16	Substrate and its metabolite	NA	NA
+15607587	T11:T12	Synonyms	NA	NA
+15607587	T13:T14	Synonyms	NA	NA
+15607587	T15:T16	Synonyms	NA	NA
+20864289	T2:T3	Synonyms	NA	NA
+20864289	T2:T4	Substrate and its metabolite	NA	NA
+20864289	T2:T5	Substrate and its metabolite	NA	NA
+20864289	T3:T4	Substrate and its metabolite	NA	NA
+20864289	T3:T5	Substrate and its metabolite	NA	NA
+20864289	T4:T5	Synonyms	NA	NA
+15073108	T3:T8	Substrate and its metabolite	NA	NA
+15073108	T3:T9	Substrate and its metabolite	NA	NA
+15073108	T4:T5	Synonyms	NA	NA
+15073108	T8:T9	Synonyms	NA	NA
+15073108	T13:T14	Substrate and its metabolite	NA	NA
+15073108	T13:T15	Substrate and its metabolite	NA	NA
+15073108	T13:T16	Substrate and its metabolite	NA	NA
+15073108	T13:T17	Substrate and its metabolite	NA	NA
+15073108	T13:T18	Substrate and its metabolite	NA	NA
+15073108	T14:T15	Synonyms	NA	NA
+15073108	T16:T17	Synonyms	NA	NA
+18361508	T18:T20	Substrate and its metabolite	oxidation	T19
+18361508	T18:T20	Substrate and its metabolite	reduction	T21
+21892880	T3:T4	Substrate and its metabolite	NA	NA
+21892880	T9:T10	Substrate and its metabolite	NA	NA
+21892880	T11:T13	Substrate and its metabolite	NA	NA
+3424870	T5:T6	Substrate and its metabolite	NA	NA
+3424870	T5:T7	Substrate and its metabolite	NA	NA
+3424870	T6:T7	Synonyms	NA	NA
+3424870	T8:T12	Substrate and its metabolite	NA	NA
+3424870	T8:T13	Substrate and its metabolite	NA	NA
+3424870	T8:T14	Substrate and its metabolite	NA	NA
+3424870	T8:T15	Substrate and its metabolite	NA	NA
+3424870	T8:T16	Substrate and its metabolite	NA	NA
+3424870	T8:T17	Substrate and its metabolite	NA	NA
+3424870	T8:T18	Substrate and its metabolite	NA	NA
+3424870	T8:T19	Substrate and its metabolite	NA	NA
+3424870	T8:T20	Substrate and its metabolite	NA	NA
+3424870	T8:T22	Substrate and its metabolite	NA	NA
+3424870	T8:T23	Substrate and its metabolite	NA	NA
+3424870	T12:T13	Synonyms	NA	NA
+3424870	T14:T15	Synonyms	NA	NA
+3424870	T16:T17	Synonyms	NA	NA
+3424870	T18:T19	Synonyms	NA	NA
+15996837	T2:T3	Synonyms	NA	NA
+15996837	T4:T5	Substrate and its metabolite	NA	NA
+15996837	T4:T6	Substrate and its metabolite	NA	NA
+15996837	T5:T6	Synonyms	NA	NA
+15996837	T13:T14	Synonyms	NA	NA
+15996837	T18:T20	Substrate and its metabolite	NA	NA
+15996837	T18:T21	Substrate and its metabolite	NA	NA
+15996837	T18:T22	Substrate and its metabolite	NA	NA
+15996837	T18:T23	Substrate and its metabolite	NA	NA
+15996837	T18:T25	Substrate and its metabolite	NA	NA
+15996837	T18:T26	Substrate and its metabolite	NA	NA
+15996837	T18:T29	Substrate and its metabolite	NA	NA
+15996837	T18:T30	Substrate and its metabolite	NA	NA
+15996837	T18:T31	Substrate and its metabolite	NA	NA
+15996837	T18:T32	Substrate and its metabolite	NA	NA
+15996837	T18:T33	Substrate and its metabolite	NA	NA
+15996837	T18:T34	Substrate and its metabolite	NA	NA
+15996837	T25:T26	Substrate and its metabolite	NA	NA
+15996837	T29:T30	Synonyms	NA	NA
+15996837	T31:T32	Synonyms	NA	NA
+15996837	T33:T34	Synonyms	NA	NA
+18927241	T1:T2	Synonyms	NA	NA
+18927241	T3:T4	Synonyms	NA	NA
+18927241	T8:T10	Substrate and its metabolite	4-O-demethylation	T9
+433310	T1:T2	Synonyms	NA	NA
+433310	T3:T4	Substrate and its metabolite	NA	NA
+433310	T3:T5	Substrate and its metabolite	NA	NA
+16376051	T1:T2	Substrate and its metabolite	NA	NA
+15740074	T3:T4	Substrate and its metabolite	NA	NA
+15740074	T3:T5	Substrate and its metabolite	NA	NA
+15740074	T3:T6	Substrate and its metabolite	NA	NA
+15740074	T3:T7	Substrate and its metabolite	NA	NA
+15740074	T8:T9	Substrate and its metabolite	NA	NA
+15740074	T9:T10	Substrate and its metabolite	NA	NA
+15740074	T10:T11	Substrate and its metabolite	NA	NA
+15740074	T10:T12	Substrate and its metabolite	NA	NA
+15740074	T14:T15	Substrate and its metabolite	NA	NA
+15740074	T15:T16	Substrate and its metabolite	NA	NA
+15740074	T17:T18	Substrate and its metabolite	NA	NA
+22846898	T4:T5	Synonyms	NA	NA
+22846898	T4:T6	Substrate and its metabolite	NA	NA
+22846898	T4:T7	Substrate and its metabolite	NA	NA
+22846898	T5:T6	Substrate and its metabolite	NA	NA
+22846898	T5:T7	Substrate and its metabolite	NA	NA
+22846898	T6:T7	Synonyms	NA	NA
+22846898	T8:T9	Substrate and its metabolite	NA	NA
+12021633	T3:T4	Substrate and its metabolite	NA	NA
+17698842	T5:T7	Substrate and its metabolite	NA	NA
+17698842	T9:T10	Substrate and its metabolite	NA	NA
+17698842	T9:T11	Substrate and its metabolite	NA	NA
+17698842	T9:T12	Substrate and its metabolite	NA	NA
+17698842	T10:T11	Synonyms	NA	NA
+17698842	T10:T12	Synonyms	NA	NA
+17698842	T11:T12	Synonyms	NA	NA
+17698842	T15:T16	Substrate and its metabolite	NA	NA
+17698842	T17:T18	Substrate and its metabolite	NA	NA
+17698842	T19:T21	Substrate and its metabolite	NA	NA
+17698842	T20:T21	Substrate and its metabolite	NA	NA
+22004675	T1:T2	Substrate and its metabolite	NA	NA
+22004675	T6:T7	Substrate and its metabolite	NA	NA
+18778087	T3:T4	Synonyms	NA	NA
+18778087	T3:T7	Substrate and its metabolite	NA	NA
+18778087	T3:T8	Substrate and its metabolite	NA	NA
+18778087	T4:T7	Substrate and its metabolite	NA	NA
+18778087	T4:T8	Substrate and its metabolite	NA	NA
+18778087	T5:T6	Synonyms	NA	NA
+18778087	T5:T7	Substrate and its metabolite	NA	NA
+18778087	T5:T8	Substrate and its metabolite	NA	NA
+18778087	T6:T7	Substrate and its metabolite	NA	NA
+18778087	T6:T8	Substrate and its metabolite	NA	NA
+18778087	T7:T8	Synonyms	NA	NA
+18778087	T1:T2	Synonyms	NA	NA
+17591678	T8:T9	Substrate and its metabolite	NA	NA
+891590	T3:T5	Substrate and its metabolite	NA	NA
+891590	T3:T6	Substrate and its metabolite	NA	NA
+2804433	T8:T12	Substrate and its metabolite	NA	NA
+24136086	T8:T15	Substrate and its metabolite	NA	NA
+14570773	T5:T6	Substrate and its metabolite	oxidation	T4
+14570773	T13:T14	Substrate and its metabolite	oxidation	T12
+14570773	T17:T20	Substrate and its metabolite	back reduction	T19
+14570773	T22:T23	Substrate and its metabolite	hydration	T21
+14570773	T26:T27	Substrate and its metabolite	NA	NA
+8788139	T2:T4	Substrate and its metabolite	NA	NA
+8788139	T2:T6	Substrate and its metabolite	NA	NA
+8788139	T2:T7	Substrate and its metabolite	NA	NA
+16939357	T1:T3	Substrate and its metabolite	condensation	T2
+16939357	T1:T4	Substrate and its metabolite	condensation	T2
+16939357	T5:T6	Synonyms	NA	NA
+16939357	T5:T8	Substrate and its metabolite	condensation	T7
+16939357	T5:T9	Substrate and its metabolite	condensation	T7
+16939357	T6:T8	Substrate and its metabolite	condensation	T7
+16939357	T6:T9	Substrate and its metabolite	condensation	T7
+16939357	T19:T20	Substrate and its metabolite	NA	NA
+22406328	T2:T3	Substrate and its metabolite	NA	NA
+24170778	T6:T7	Synonyms	NA	NA
+24170778	T8:T9	Substrate and its metabolite	NA	NA
+24170778	T19:T20	Synonyms	NA	NA
+24170778	T21:T22	Synonyms	NA	NA
+17409034	T1:T2	Substrate and its metabolite	NA	NA
+17409034	T3:T4	Substrate and its metabolite	NA	NA
+17409034	T3:T5	Substrate and its metabolite	NA	NA
+17409034	T4:T5	Synonyms	NA	NA
+11477319	T2:T3	Substrate and its metabolite	NA	NA
+11477319	T2:T4	Substrate and its metabolite	NA	NA
+11477319	T3:T4	Synonyms	NA	NA
+18200575	T2:T3	Substrate and its metabolite	NA	NA
+17709305	T10:T11	Substrate and its metabolite	NA	NA
+17709305	T16:T17	Substrate and its metabolite	N-dealkylation	T14
+16841959	T4:T5	Synonyms	NA	NA
+16841959	T7:T9	Substrate and its metabolite	NA	NA
+16841959	T7:T10	Substrate and its metabolite	NA	NA
+16841959	T7:T15	Substrate and its metabolite	NA	NA
+16841959	T7:T16	Substrate and its metabolite	NA	NA
+16841959	T9:T10	Synonyms	NA	NA
+16841959	T11:T12	Synonyms	NA	NA
+16841959	T11:T13	Substrate and its metabolite	NA	NA
+16841959	T11:T14	Substrate and its metabolite	NA	NA
+16841959	T12:T13	Substrate and its metabolite	NA	NA
+16841959	T12:T14	Substrate and its metabolite	NA	NA
+16841959	T11:T17	Substrate and its metabolite	NA	NA
+16841959	T11:T18	Substrate and its metabolite	NA	NA
+16841959	T12:T17	Substrate and its metabolite	NA	NA
+16841959	T12:T18	Substrate and its metabolite	NA	NA
+16841959	T13:T14	Synonyms	NA	NA
+16841959	T15:T16	Synonyms	NA	NA
+16841959	T17:T18	Synonyms	NA	NA
+16720684	T4:T5	Synonyms	NA	NA
+16720684	T4:T6	Substrate and its metabolite	NA	NA
+16720684	T4:T7	Substrate and its metabolite	NA	NA
+16720684	T5:T6	Substrate and its metabolite	NA	NA
+16720684	T5:T7	Substrate and its metabolite	NA	NA
+16720684	T6:T7	Synonyms	NA	NA
+12088722	T3:T4	Substrate and its metabolite	NA	NA
+8888283	T8:T9	Substrate and its metabolite	NA	NA
+12920162	T4:T7	Substrate and its metabolite	conjugation	T5
+12920162	T4:T8	Substrate and its metabolite	conjugation	T5
+12920162	T4:T9	Substrate and its metabolite	conjugation	T5
+12920162	T7:T8	Synonyms	NA	NA
+12920162	T7:T9	Synonyms	NA	NA
+12920162	T8:T9	Synonyms	NA	NA
+12920162	T10:T12	Substrate and its metabolite	glucuronidation	T11
+12920162	T10:T13	Substrate and its metabolite	glucuronidation	T11
+11719726	T10:T11	Substrate and its metabolite	NA	NA
+8049151	T9:T10	Synonyms	NA	NA
+8049151	T9:T11	Substrate and its metabolite	NA	NA
+8049151	T9:T12	Substrate and its metabolite	NA	NA
+8049151	T9:T13	Substrate and its metabolite	NA	NA
+8049151	T9:T14	Substrate and its metabolite	NA	NA
+8049151	T10:T11	Substrate and its metabolite	NA	NA
+8049151	T10:T12	Substrate and its metabolite	NA	NA
+8049151	T10:T13	Substrate and its metabolite	NA	NA
+8049151	T10:T14	Substrate and its metabolite	NA	NA
+8049151	T11:T12	Synonyms	NA	NA
+8049151	T13:T14	Synonyms	NA	NA
+8049151	T21:T22	Synonyms	NA	NA
+8049151	T21:T23	Substrate and its metabolite	NA	NA
+8049151	T21:T24	Substrate and its metabolite	NA	NA
+8049151	T21:T25	Substrate and its metabolite	NA	NA
+8049151	T21:T26	Substrate and its metabolite	NA	NA
+8049151	T21:T27	Substrate and its metabolite	NA	NA
+8049151	T21:T28	Substrate and its metabolite	NA	NA
+8049151	T22:T23	Substrate and its metabolite	NA	NA
+8049151	T22:T24	Substrate and its metabolite	NA	NA
+8049151	T22:T25	Substrate and its metabolite	NA	NA
+8049151	T22:T26	Substrate and its metabolite	NA	NA
+8049151	T22:T27	Substrate and its metabolite	NA	NA
+8049151	T22:T28	Substrate and its metabolite	NA	NA
+8049151	T23:T24	Synonyms	NA	NA
+8049151	T25:T26	Synonyms	NA	NA
+8049151	T27:T28	Synonyms	NA	NA
+8049151	T30:T31	Synonyms	NA	NA
+18322074	T1:T2	Synonyms	NA	NA
+18322074	T3:T4	Synonyms	NA	NA
+12125001	T1:T3	Substrate and its metabolite	NA	NA
+12125001	T4:T5	Synonyms	NA	NA
+12125001	T6:T8	Substrate and its metabolite	NA	NA
+12125001	T6:T9	Substrate and its metabolite	NA	NA
+12125001	T6:T10	Substrate and its metabolite	NA	NA
+12125001	T8:T9	Synonyms	NA	NA
+12125001	T8:T10	Synonyms	NA	NA
+12125001	T9:T10	Synonyms	NA	NA
+22449546	T2:T3	Substrate and its metabolite	NA	NA
+18506735	T6:T7	Substrate and its metabolite	NA	NA
+14609655	T5:T6	Synonyms	NA	NA
+14609655	T5:T7	Substrate and its metabolite	NA	NA
+14609655	T6:T7	Substrate and its metabolite	NA	NA
+8739811	T6:T7	Substrate and its metabolite	NA	NA
+8739811	T12:T13	Substrate and its metabolite	NA	NA
+8739811	T6:T7	Synonyms	NA	NA
+21783974	T10:T11	Synonyms	NA	NA
+7839702	T3:T4	Substrate and its metabolite	NA	NA
+7839702	T3:T5	Substrate and its metabolite	NA	NA
+7839702	T3:T6	Substrate and its metabolite	NA	NA
+7839702	T3:T7	Substrate and its metabolite	NA	NA
+7839702	T3:T8	Substrate and its metabolite	NA	NA
+7839702	T3:T9	Substrate and its metabolite	NA	NA
+7839702	T3:T10	Substrate and its metabolite	NA	NA
+7839702	T3:T11	Substrate and its metabolite	NA	NA
+7839702	T3:T12	Substrate and its metabolite	NA	NA
+7839702	T3:T13	Substrate and its metabolite	NA	NA
+7839702	T3:T14	Substrate and its metabolite	NA	NA
+7839702	T3:T15	Substrate and its metabolite	NA	NA
+7839702	T3:T16	Substrate and its metabolite	NA	NA
+7839702	T3:T17	Substrate and its metabolite	NA	NA
+7839702	T3:T18	Substrate and its metabolite	NA	NA
+7839702	T3:T19	Substrate and its metabolite	NA	NA
+7839702	T4:T5	Synonyms	NA	NA
+7839702	T4:T6	Synonyms	NA	NA
+7839702	T4:T7	Synonyms	NA	NA
+7839702	T8:T9	Synonyms	NA	NA
+7839702	T10:T11	Synonyms	NA	NA
+7839702	T12:T13	Synonyms	NA	NA
+7839702	T14:T15	Synonyms	NA	NA
+7839702	T16:T17	Synonyms	NA	NA
+7839702	T18:T19	Synonyms	NA	NA
+7839702	T20:T21	Substrate and its metabolite	NA	NA
+7839702	T20:T23	Substrate and its metabolite	3-hydroxylation	T22
+7839702	T20:T24	Substrate and its metabolite	3-hydroxylation	T22
+7839702	T20:T25	Substrate and its metabolite	3-hydroxylation	T22
+7839702	T20:T26	Substrate and its metabolite	3-hydroxylation	T22
+7839702	T20:T27	Substrate and its metabolite	NA	NA
+7839702	T20:T28	Substrate and its metabolite	NA	NA
+7839702	T32:T33	Substrate and its metabolite	NA	NA
+7839702	T32:T34	Substrate and its metabolite	NA	NA
+7839702	T32:T35	Substrate and its metabolite	NA	NA
+17176624	T4:T5	Substrate and its metabolite	NA	NA
+21192313	T6:T10	Substrate and its metabolite	NA	NA
+12642475	T2:T3	Substrate and its metabolite	NA	NA
+18274957	T3:T4	Synonyms	NA	NA
+18274957	T5:T6	Synonyms	NA	NA
+18274957	T8:T11	Substrate and its metabolite	glucuronidation	T9
+22707166	T8:T9	Substrate and its metabolite	N-deallylation	T10
+22707166	T16:T17	Substrate and its metabolite	NA	NA
+22707166	T17:T18	Substrate and its metabolite	NA	NA
+7485872	T2:T3	Substrate and its metabolite	NA	NA
+7485872	T2:T4	Substrate and its metabolite	NA	NA
+7485872	T3:T4	Synonyms	NA	NA
+7485872	T6:T7	Substrate and its metabolite	NA	NA
+23239179	T3:T4	Synonyms	NA	NA
+23239179	T6:T8	Substrate and its metabolite	NA	NA
+15370962	T2:T3	Synonyms	NA	NA
+15370962	T9:T10	Substrate and its metabolite	NA	NA
+15370962	T9:T11	Substrate and its metabolite	NA	NA
+15370962	T9:T12	Substrate and its metabolite	NA	NA
+11763000	T2:T3	Synonyms	NA	NA
+11763000	T6:T7	Substrate and its metabolite	NA	NA
+11763000	T6:T8	Substrate and its metabolite	NA	NA
+11763000	T6:T9	Substrate and its metabolite	NA	NA
+11763000	T6:T10	Substrate and its metabolite	NA	NA
+11763000	T6:T11	Substrate and its metabolite	NA	NA
+11763000	T7:T8	Synonyms	NA	NA
+11763000	T10:T11	Synonyms	NA	NA
+15337432	T3:T4	Substrate and its metabolite	NA	NA
+15337432	T5:T6	Synonyms	NA	NA
+15337432	T12:T13	Substrate and its metabolite	NA	NA
+15337432	T15:T16	Substrate and its metabolite	NA	NA
+16751262	T1:T2	Synonyms	NA	NA
+16751262	T4:T5	Synonyms	NA	NA
+16751262	T9:T12	Substrate and its metabolite	NA	NA
+16751262	T9:T14	Substrate and its metabolite	NA	NA
+16751262	T9:T15	Substrate and its metabolite	NA	NA
+16751262	T16:T18	Substrate and its metabolite	NA	NA
+16751262	T18:T19	Substrate and its metabolite	NA	NA
+16751262	T22:T23	Substrate and its metabolite	NA	NA
+16751262	T22:T24	Substrate and its metabolite	NA	NA
+16751262	T22:T25	Substrate and its metabolite	NA	NA
+11879354	T6:T8	Substrate and its metabolite	NA	NA
+11879354	T6:T9	Substrate and its metabolite	NA	NA
+11879354	T6:T10	Substrate and its metabolite	NA	NA
+11879354	T6:T11	Substrate and its metabolite	NA	NA
+11879354	T8:T9	Synonyms	NA	NA
+11879354	T10:T11	Synonyms	NA	NA
+8889678	T14:T15	Substrate and its metabolite	NA	NA
+8889678	T16:T17	Substrate and its metabolite	NA	NA
+8889678	T16:T18	Substrate and its metabolite	NA	NA
+14578322	T2:T3	Synonyms	NA	NA
+14578322	T2:T4	Substrate and its metabolite	NA	NA
+14578322	T2:T5	Substrate and its metabolite	NA	NA
+14578322	T2:T6	Substrate and its metabolite	NA	NA
+14578322	T2:T7	Substrate and its metabolite	NA	NA
+14578322	T2:T8	Substrate and its metabolite	NA	NA
+14578322	T2:T9	Substrate and its metabolite	NA	NA
+14578322	T3:T4	Substrate and its metabolite	NA	NA
+14578322	T3:T5	Substrate and its metabolite	NA	NA
+14578322	T3:T6	Substrate and its metabolite	NA	NA
+14578322	T3:T7	Substrate and its metabolite	NA	NA
+14578322	T3:T8	Substrate and its metabolite	NA	NA
+14578322	T3:T9	Substrate and its metabolite	NA	NA
+14578322	T6:T7	Synonyms	NA	NA
+14578322	T8:T9	Synonyms	NA	NA
+20516255	T2:T3	Synonyms	NA	NA
+20516255	T8:T10	Substrate and its metabolite	NA	NA
+20516255	T8:T11	Substrate and its metabolite	NA	NA
+20516255	T15:T17	Substrate and its metabolite	glucuronidation	T16
+20516255	T17:T19	Substrate and its metabolite	glucuronidation	T16
+14967000	T3:T5	Substrate and its metabolite	NA	NA
+14967000	T3:T6	Substrate and its metabolite	NA	NA
+14967000	T5:T6	Synonyms	NA	NA
+14967000	T8:T13	Substrate and its metabolite	NA	NA
+14967000	T13:T19	Substrate and its metabolite	NA	NA
+14967000	T13:T20	Substrate and its metabolite	NA	NA
+16280454	T2:T3	Synonyms	NA	NA
+16280454	T5:T9	Substrate and its metabolite	NA	NA
+21194606	T2:T3	Substrate and its metabolite	NA	NA
+21194606	T5:T6	Substrate and its metabolite	NA	NA
+17637185	T4:T5	Substrate and its metabolite	NA	NA
+17637185	T4:T6	Substrate and its metabolite	NA	NA
+17637185	T4:T7	Substrate and its metabolite	NA	NA
+17637185	T4:T8	Substrate and its metabolite	NA	NA
+17637185	T5:T6	Synonyms	NA	NA
+17637185	T7:T8	Synonyms	NA	NA
+22103858	T3:T7	Substrate and its metabolite	monooxygenation	T5
+22103858	T25:T26	Synonyms	NA	NA
+17529889	T1:T2	Substrate and its metabolite	NA	NA
+17529889	T3:T4	Substrate and its metabolite	NA	NA
+17529889	T3:T5	Substrate and its metabolite	NA	NA
+17529889	T4:T5	Synonyms	NA	NA
+17529889	T10:T12	Substrate and its metabolite	NA	NA
+17529889	T11:T12	Substrate and its metabolite	NA	NA
+17624024	T6:T7	Synonyms	NA	NA
+17624024	T8:T9	Synonyms	NA	NA
+17624024	T10:T11	Synonyms	NA	NA
+1989637	T1:T2	Synonyms	NA	NA
+1989637	T5:T6	Substrate and its metabolite	NA	NA
+1989637	T5:T7	Substrate and its metabolite	NA	NA
+1989637	T6:T7	Synonyms	NA	NA
+15450953	T5:T6	Synonyms	NA	NA
+15450953	T5:T7	Substrate and its metabolite	NA	NA
+15450953	T5:T8	Substrate and its metabolite	NA	NA
+15450953	T6:T7	Substrate and its metabolite	NA	NA
+15450953	T6:T8	Substrate and its metabolite	NA	NA
+15450953	T7:T8	Synonyms	NA	NA
+15450953	T14:T16	Substrate and its metabolite	NA	NA
+15450953	T14:T18	Substrate and its metabolite	NA	NA
+16891251	T3:T7	Substrate and its metabolite	N-demethylation	T5
+16891251	T3:T8	Substrate and its metabolite	N-demethylation	T5
+16891251	T3:T12	Substrate and its metabolite	O-methylation	T9
+16891251	T3:T13	Substrate and its metabolite	O-methylation	T9
+16891251	T3:T14	Substrate and its metabolite	O-methylation	T9
+16891251	T3:T15	Substrate and its metabolite	O-methylation	T9
+16891251	T7:T8	Synonyms	NA	NA
+16891251	T12:T13	Synonyms	NA	NA
+16891251	T14:T15	Synonyms	NA	NA
+16891251	T18:T18	Substrate and its metabolite	NA	NA
+8293546	T7:T8	Synonyms	NA	NA
+8293546	T9:T10	Synonyms	NA	NA
+8293546	T11:T12	Synonyms	NA	NA
+8293546	T14:T15	Synonyms	NA	NA
+8293546	T16:T17	Synonyms	NA	NA
+8293546	T18:T19	Synonyms	NA	NA
+8293546	T20:T21	Synonyms	NA	NA
+7788866	T6:T7	Synonyms	NA	NA
+7788866	T8:T9	Synonyms	NA	NA
+7788866	T11:T12	Synonyms	NA	NA
+15770075	T4:T5	Synonyms	NA	NA
+15770075	T10:T11	Substrate and its metabolite	NA	NA
+15770075	T22:T23	Substrate and its metabolite	NA	NA
+24900270	T2:T3	Synonyms	NA	NA
+24900270	T5:T6	Synonyms	NA	NA
+24900270	T5:T13	Substrate and its metabolite	NA	NA
+12944173	T5:T14	Substrate and its metabolite	NA	NA
+12944173	T6:T13	Substrate and its metabolite	NA	NA
+12944173	T6:T14	Substrate and its metabolite	NA	NA
+12944173	T7:T8	Synonyms	NA	NA
+12944173	T7:T15	Substrate and its metabolite	NA	NA
+12944173	T7:T16	Substrate and its metabolite	NA	NA
+12944173	T8:T15	Substrate and its metabolite	NA	NA
+12944173	T8:T16	Substrate and its metabolite	NA	NA
+12944173	T9:T10	Synonyms	NA	NA
+12944173	T9:T17	Substrate and its metabolite	NA	NA
+12944173	T9:T18	Substrate and its metabolite	NA	NA
+12944173	T10:T17	Substrate and its metabolite	NA	NA
+12944173	T10:T18	Substrate and its metabolite	NA	NA
+12944173	T11:T12	Synonyms	NA	NA
+12944173	T11:T19	Substrate and its metabolite	NA	NA
+12944173	T11:T20	Substrate and its metabolite	NA	NA
+12944173	T12:T19	Substrate and its metabolite	NA	NA
+12944173	T12:T20	Substrate and its metabolite	NA	NA
+12944173	T13:T14	Synonyms	NA	NA
+12944173	T15:T16	Synonyms	NA	NA
+12944173	T17:T18	Synonyms	NA	NA
+12944173	T19:T20	Synonyms	NA	NA
+12142643	T1:T2	Substrate and its metabolite	NA	NA
+12142643	T3:T4	Substrate and its metabolite	NA	NA
+12142643	T3:T5	Substrate and its metabolite	NA	NA
+12142643	T4:T5	Synonyms	NA	NA
+21819790	T1:T2	Substrate and its metabolite	NA	NA
+21819790	T3:T4	Substrate and its metabolite	NA	NA
+21819790	T3:T5	Substrate and its metabolite	NA	NA
+21819790	T4:T5	Synonyms	NA	NA
+19353999	T4:T5	Substrate and its metabolite	NA	NA
+21673127	T5:T6	Synonyms	NA	NA
+21673127	T8:T9	Substrate and its metabolite	NA	NA
+19405998	T1:T2	Substrate and its metabolite	NA	NA
+19405998	T1:T3	Substrate and its metabolite	NA	NA
+19405998	T1:T4	Substrate and its metabolite	NA	NA
+19405998	T1:T5	Substrate and its metabolite	NA	NA
+19405998	T3:T4	Synonyms	NA	NA
+19405998	T5:T6	Synonyms	NA	NA
+18757786	T5:T6	Substrate and its metabolite	NA	NA
+17890446	T2:T3	Synonyms	NA	NA
+12163135	T1:T2	Synonyms	NA	NA
+12163135	T3:T4	Synonyms	NA	NA
+12163135	T7:T8	Substrate and its metabolite	NA	NA
+12163135	T7:T9	Substrate and its metabolite	NA	NA
+12163135	T7:T10	Substrate and its metabolite	NA	NA
+21367676	T1:T2	Synonyms	NA	NA
+21367676	T1:T3	Substrate and its metabolite	NA	NA
+21367676	T1:T4	Substrate and its metabolite	NA	NA
+21367676	T2:T3	Substrate and its metabolite	NA	NA
+21367676	T2:T4	Substrate and its metabolite	NA	NA
+21367676	T3:T4	Synonyms	NA	NA
+12433826	T9:T10	Substrate and its metabolite	NA	NA
+12433826	T9:T11	Substrate and its metabolite	NA	NA
+12433826	T2:T3	Substrate and its metabolite	NA	NA
+23849326	T2:T5	Substrate and its metabolite	NA	NA
+23849326	T3:T5	Synonyms	NA	NA
+20053817	T2:T3	Synonyms	NA	NA
+20053817	T7:T10	Substrate and its metabolite	sulfation	T8
+20053817	T7:T14	Substrate and its metabolite	reduction	T11
+20053817	T7:T15	Substrate and its metabolite	reduction	T11
+20053817	T16:T17	Substrate and its metabolite	NA	NA
+20053817	T20:T21	Substrate and its metabolite	NA	NA
+20053817	T20:T22	Substrate and its metabolite	NA	NA
+20053817	T24:T25	Substrate and its metabolite	NA	NA
+760598	T2:T3	Substrate and its metabolite	NA	NA
+760598	T2:T4	Substrate and its metabolite	NA	NA
+760598	T2:T5	Substrate and its metabolite	NA	NA
+760598	T2:T6	Substrate and its metabolite	NA	NA
+760598	T2:T7	Substrate and its metabolite	NA	NA
+760598	T2:T8	Substrate and its metabolite	NA	NA
+760598	T3:T4	Synonyms	NA	NA
+760598	T5:T6	Synonyms	NA	NA
+760598	T7:T8	Synonyms	NA	NA
+19661559	T2:T3	Synonyms	NA	NA
+19661559	T2:T4	Synonyms	NA	NA
+19661559	T2:T5	Substrate and its metabolite	NA	NA
+19661559	T2:T6	Substrate and its metabolite	NA	NA
+19661559	T3:T5	Substrate and its metabolite	NA	NA
+19661559	T3:T6	Substrate and its metabolite	NA	NA
+19661559	T4:T5	Substrate and its metabolite	NA	NA
+19661559	T4:T6	Substrate and its metabolite	NA	NA
+19661559	T3:T4	Synonyms	NA	NA
+19661559	T7:T8	Substrate and its metabolite	NA	NA
+19661559	T6:T9	Substrate and its metabolite	NA	NA
+17427179	T4:T5	Synonyms	NA	NA
+23268924	T4:T5	Synonyms	NA	NA
+8329293	T6:T7	Substrate and its metabolite	NA	NA
+19258444	T1:T2	Synonyms	NA	NA
+19258444	T1:T3	Substrate and its metabolite	NA	NA
+19258444	T2:T3	Substrate and its metabolite	NA	NA
+19258444	T7:T8	Substrate and its metabolite	NA	NA
+19371322	T1:T2	Synonyms	NA	NA
+19371322	T1:T3	Synonyms	NA	NA
+19371322	T2:T3	Synonyms	NA	NA
+19371322	T5:T6	Synonyms	NA	NA
+19371322	T5:T7	Synonyms	NA	NA
+19371322	T6:T7	Synonyms	NA	NA
+17676709	T1:T2	Substrate and its metabolite	NA	NA
+17676709	T3:T4	Substrate and its metabolite	NA	NA
+11805197	T1:T2	Substrate and its metabolite	NA	NA
+11805197	T3:T4	Synonyms	NA	NA
+11805197	T3:T5	Substrate and its metabolite	NA	NA
+11805197	T3:T6	Substrate and its metabolite	NA	NA
+11805197	T4:T5	Substrate and its metabolite	NA	NA
+11805197	T4:T6	Substrate and its metabolite	NA	NA
+11805197	T5:T6	Synonyms	NA	NA
+11805197	T8:T9	Substrate and its metabolite	NA	NA
+17011523	T2:T3	Synonyms	NA	NA
+17011523	T5:T6	Substrate and its metabolite	NA	NA
+17011523	T5:T7	Substrate and its metabolite	NA	NA
+17011523	T11:T14	Substrate and its metabolite	NA	NA
+17011523	T12:T14	Substrate and its metabolite	NA	NA
+17011523	T13:T14	Substrate and its metabolite	NA	NA
+19439489	T1:T2	Synonyms	NA	NA
+19439489	T3:T4	Synonyms	NA	NA
+19439489	T5:T6	Substrate and its metabolite	NA	NA
+19439489	T5:T7	Substrate and its metabolite	NA	NA
+19439489	T5:T8	Substrate and its metabolite	NA	NA
+19439489	T5:T9	Substrate and its metabolite	NA	NA
+19439489	T5:T10	Substrate and its metabolite	NA	NA
+19439489	T5:T11	Substrate and its metabolite	NA	NA
+19439489	T5:T12	Substrate and its metabolite	NA	NA
+19439489	T5:T13	Substrate and its metabolite	NA	NA
+19439489	T6:T7	Synonyms	NA	NA
+19439489	T8:T9	Synonyms	NA	NA
+19439489	T10:T11	Synonyms	NA	NA
+19439489	T12:T13	Synonyms	NA	NA
+20668249	T2:T3	Synonyms	NA	NA
+19960413	T2:T3	Synonyms	NA	NA
+16516181	T5:T6	Substrate and its metabolite	NA	NA
+16516181	T10:T12	Substrate and its metabolite	Oxidation	T9
+16516181	T10:T13	Substrate and its metabolite	Oxidation	T9
+19812352	T2:T3	Synonyms	NA	NA
+19812352	T5:T6	Synonyms	NA	NA
+19812352	T8:T9	Synonyms	NA	NA
+19874648	T11:T12	Substrate and its metabolite	NA	NA
+19874648	T11:T13	Substrate and its metabolite	NA	NA
+19874648	T17:T18	Substrate and its metabolite	NA	NA
+19874648	T8:T9	Substrate and its metabolite	NA	NA
+23065531	T2:T3	Synonyms	NA	NA
+12351144	T1:T2	Substrate and its metabolite	NA	NA
+12351144	T1:T3	Substrate and its metabolite	NA	NA
+12351144	T7:T9	Substrate and its metabolite	NA	NA
+12351144	T7:T10	Substrate and its metabolite	NA	NA
+12351144	T7:T11	Substrate and its metabolite	NA	NA
+12351144	T8:T9	Substrate and its metabolite	NA	NA
+12351144	T8:T10	Substrate and its metabolite	NA	NA
+12351144	T8:T11	Substrate and its metabolite	NA	NA
+12351144	T9:T10	Synonyms	NA	NA
+12351144	T9:T11	Synonyms	NA	NA
+12351144	T10:T11	Synonyms	NA	NA
+12351144	T12:T13	Substrate and its metabolite	NA	NA
+12351144	T12:T14	Substrate and its metabolite	NA	NA
+12351144	T15:T20	Substrate and its metabolite	NA	NA
+12351144	T16:T20	Substrate and its metabolite	NA	NA
+12351144	T18:T19	Synonyms	NA	NA
+12351144	T24:T25	Substrate and its metabolite	NA	NA
+12351144	T24:T26	Substrate and its metabolite	NA	NA
+12351144	T27:T28	Substrate and its metabolite	NA	NA
+12351144	T27:T29	Substrate and its metabolite	NA	NA
+12351144	T35:T36	Substrate and its metabolite	NA	NA
+12351144	T35:T37	Substrate and its metabolite	NA	NA
+18976871	T2:T3	Substrate and its metabolite	NA	NA
+18976871	T2:T4	Substrate and its metabolite	NA	NA
+21622942	T2:T3	Synonyms	NA	NA
+21622942	T4:T5	Synonyms	NA	NA
+23001793	T2:T3	Synonyms	NA	NA
+16488523	T9:T10	Synonyms	NA	NA
+16488523	T9:T11	Substrate and its metabolite	NA	NA
+16488523	T9:T12	Substrate and its metabolite	NA	NA
+16488523	T10:T11	Substrate and its metabolite	NA	NA
+16488523	T10:T12	Substrate and its metabolite	NA	NA
+16488523	T11:T13	Substrate and its metabolite	NA	NA
+16488523	T12:T14	Substrate and its metabolite	NA	NA
+15104117	T3:T4	Substrate and its metabolite	hydroxylation	T2
+15306208	T5:T6	Synonyms	NA	NA
+20227354	T2:T3	Synonyms	NA	NA
+20227354	T4:T5	Synonyms	NA	NA
+20227354	T8:T9	Synonyms	NA	NA
+20227354	T8:T10	Substrate and its metabolite	NA	NA
+20227354	T8:T11	Substrate and its metabolite	NA	NA
+20227354	T9:T10	Substrate and its metabolite	NA	NA
+20227354	T9:T11	Substrate and its metabolite	NA	NA
+20227354	T12:T13	Synonyms	NA	NA
+20227354	T12:T14	Substrate and its metabolite	NA	NA
+20227354	T13:T14	Substrate and its metabolite	NA	NA
+20227354	T15:T16	Synonyms	NA	NA
+20227354	T15:T17	Substrate and its metabolite	NA	NA
+20227354	T16:T17	Substrate and its metabolite	NA	NA
+20227354	T18:T19	Synonyms	NA	NA
+18720282	T2:T3	Synonyms	NA	NA
+17562804	T3:T4	Synonyms	NA	NA
+17562804	T3:T5	Substrate and its metabolite	NA	NA
+17562804	T3:T6	Substrate and its metabolite	NA	NA
+17562804	T3:T7	Substrate and its metabolite	NA	NA
+17562804	T3:T8	Substrate and its metabolite	NA	NA
+17562804	T4:T5	Substrate and its metabolite	NA	NA
+17562804	T4:T6	Substrate and its metabolite	NA	NA
+17562804	T4:T7	Substrate and its metabolite	NA	NA
+17562804	T4:T8	Substrate and its metabolite	NA	NA
+17562804	T5:T6	Synonyms	NA	NA
+17562804	T5:T9	Substrate and its metabolite	NA	NA
+17562804	T6:T9	Substrate and its metabolite	NA	NA
+17562804	T7:T8	Synonyms	NA	NA
+17562804	T7:T9	Substrate and its metabolite	NA	NA
+17562804	T8:T9	Substrate and its metabolite	NA	NA
+17562804	T12:T13	Substrate and its metabolite	NA	NA
+17562804	T12:T14	Substrate and its metabolite	NA	NA
+17562804	T13:T15	Substrate and its metabolite	NA	NA
+17562804	T14:T15	Substrate and its metabolite	NA	NA
+17562804	T16:T17	Substrate and its metabolite	NA	NA
+17562804	T25:T27	Substrate and its metabolite	NA	NA
+17562804	T26:T27	Substrate and its metabolite	NA	NA
+17562804	T29:T30	Substrate and its metabolite	NA	NA
+12920170	T8:T15	Substrate and its metabolite	NA	NA
+12920170	T8:T16	Substrate and its metabolite	NA	NA
+12920170	T8:T17	Substrate and its metabolite	NA	NA
+12920170	T8:T19	Substrate and its metabolite	NA	NA
+12920170	T20:T21	Substrate and its metabolite	NA	NA
+8714596	T4:T5	Synonyms	NA	NA
+8714596	T4:T6	Substrate and its metabolite	NA	NA
+8714596	T4:T7	Substrate and its metabolite	NA	NA
+8714596	T4:T8	Substrate and its metabolite	NA	NA
+8714596	T4:T9	Substrate and its metabolite	NA	NA
+8714596	T5:T6	Substrate and its metabolite	NA	NA
+8714596	T5:T7	Substrate and its metabolite	NA	NA
+8714596	T5:T8	Substrate and its metabolite	NA	NA
+8714596	T5:T9	Substrate and its metabolite	NA	NA
+8714596	T6:T7	Synonyms	NA	NA
+8714596	T8:T9	Synonyms	NA	NA
+15103438	T4:T5	Synonyms	NA	NA
+15103438	T4:T6	Substrate and its metabolite	NA	NA
+15103438	T5:T6	Substrate and its metabolite	NA	NA
+15103438	T6:T8	Substrate and its metabolite	NA	NA
+15103438	T25:T26	Substrate and its metabolite	NA	NA
+15887009	T5:T6	Substrate and its metabolite	NA	NA
+15887009	T7:T8	Substrate and its metabolite	NA	NA
+15887009	T7:T9	Substrate and its metabolite	NA	NA
+15887009	T8:T9	Synonyms	NA	NA
+22369095	T15:T16	Substrate and its metabolite	NA	NA
+22369095	T15:T17	Substrate and its metabolite	NA	NA
+15019042	T2:T3	Synonyms	NA	NA
+16010870	T5:T10	Substrate and its metabolite	phenyl/piperazinylhydroxylation	T6
+16010870	T5:T11	Substrate and its metabolite	phenyl/piperazinylhydroxylation	T6
+16010870	T5:T12	Substrate and its metabolite	N/O-dealkylation	T7
+16010870	T5:T13	Substrate and its metabolite	N/O-dealkylation	T7
+16010870	T5:T14	Substrate and its metabolite	N/O-dealkylation	T7
+16010870	T5:T15	Substrate and its metabolite	N/O-dealkylation	T7
+16010870	T5:T22	Substrate and its metabolite	N-dephenylation	T8
+16010870	T5:T22	Substrate and its metabolite	N-dephenylation	T8
+16010870	T5:T23	Substrate and its metabolite	dehydration	T9
+16010870	T5:T22	Substrate and its metabolite	dehydration	T9
+19426681	T2:T3	Synonyms	NA	NA
+19074972	T3:T4	Substrate and its metabolite	NA	NA
+15832300	T3:T4	Synonyms	NA	NA
+15832300	T3:T7	Substrate and its metabolite	NA	NA
+15832300	T3:T8	Substrate and its metabolite	NA	NA
+15832300	T4:T7	Substrate and its metabolite	NA	NA
+15832300	T4:T8	Substrate and its metabolite	NA	NA
+15832300	T5:T6	Synonyms	NA	NA
+15832300	T5:T9	Substrate and its metabolite	NA	NA
+15832300	T5:T10	Substrate and its metabolite	NA	NA
+15832300	T6:T9	Substrate and its metabolite	NA	NA
+15832300	T6:T10	Substrate and its metabolite	NA	NA
+15832300	T7:T8	Synonyms	NA	NA
+15832300	T9:T10	Synonyms	NA	NA
+15832300	T13:T14	Synonyms	NA	NA
+15832300	T25:T26	Substrate and its metabolite	NA	NA
+15832300	T28:T30	Substrate and its metabolite	NA	NA
+3765657	T2:T3	Synonyms	NA	NA
+3765657	T2:T4	Substrate and its metabolite	NA	NA
+3765657	T2:T5	Substrate and its metabolite	NA	NA
+3765657	T3:T4	Substrate and its metabolite	NA	NA
+3765657	T3:T5	Substrate and its metabolite	NA	NA
+3765657	T4:T5	Synonyms	NA	NA
+3765657	T14:T16	Substrate and its metabolite	reduction	T15
+7482685	T5:T6	Substrate and its metabolite	NA	NA
+7482685	T5:T7	Substrate and its metabolite	NA	NA
+7482685	T6:T7	Synonyms	NA	NA
+18773877	T2:T3	Synonyms	NA	NA
+18773877	T5:T6	Synonyms	NA	NA
+18773877	T11:T12	Substrate and its metabolite	NA	NA
+18773877	T20:T21	Substrate and its metabolite	NA	NA
+4038635	T2:T3	Synonyms	NA	NA
+4038635	T11:T12	Substrate and its metabolite	NA	NA
+17387045	T3:T4	Synonyms	NA	NA
+17387045	T3:T5	Synonyms	NA	NA
+17387045	T3:T6	Synonyms	NA	NA
+17387045	T4:T5	Synonyms	NA	NA
+17387045	T4:T6	Synonyms	NA	NA
+17387045	T5:T6	Synonyms	NA	NA
+19302911	T11:T12	Substrate and its metabolite	NA	NA
+19302911	T11:T14	Substrate and its metabolite	NA	NA
+21989950	T2:T4	Substrate and its metabolite	NA	NA
+21989950	T5:T6	Substrate and its metabolite	NA	NA
+21989950	T13:T14	Substrate and its metabolite	NA	NA
+2736507	T4:T5	Synonyms	NA	NA
+14744942	T1:T2	Substrate and its metabolite	NA	NA
+14744942	T1:T3	Substrate and its metabolite	NA	NA
+14744942	T2:T3	Substrate and its metabolite	NA	NA
+14744942	T6:T7	Substrate and its metabolite	NA	NA
+14744942	T10:T11	Substrate and its metabolite	NA	NA
+14744942	T10:T13	Substrate and its metabolite	NA	NA
+14744942	T10:T14	Substrate and its metabolite	NA	NA
+14744942	T13:T14	Synonyms	NA	NA
+14744942	T15:T16	Substrate and its metabolite	NA	NA
+14744942	T20:T22	Substrate and its metabolite	dehydrogenation	T17
+14744942	T20:T22	Substrate and its metabolite	isomerization	T18
+14744942	T24:T25	Substrate and its metabolite	NA	NA
+12756210	T1:T2	Substrate and its metabolite	NA	NA
+12756210	T3:T4	Substrate and its metabolite	NA	NA
+12756210	T6:T7	Substrate and its metabolite	NA	NA
+12756210	T29:T30	Substrate and its metabolite	NA	NA
+18056254	T1:T2	Substrate and its metabolite	NA	NA
+18056254	T4:T5	Substrate and its metabolite	NA	NA
+18056254	T6:T9	Substrate and its metabolite	oxidation	T8
+15516304	T2:T3	Substrate and its metabolite	NA	NA
+15516304	T5:T6	Substrate and its metabolite	NA	NA
+15516304	T9:T10	Substrate and its metabolite	NA	NA
+20439609	T1:T2	Synonyms	NA	NA
+20439609	T5:T8	Substrate and its metabolite	NA	NA
+20439609	T5:T9	Substrate and its metabolite	NA	NA
+20439609	T8:T9	Synonyms	NA	NA
+20439609	T15:T17	Substrate and its metabolite	NA	NA
+20439609	T15:T18	Substrate and its metabolite	NA	NA
+20439609	T16:T17	Substrate and its metabolite	NA	NA
+20439609	T16:T18	Substrate and its metabolite	NA	NA
+20439609	T17:T18	Synonyms	NA	NA
+20439609	T19:T20	Substrate and its metabolite	NA	NA
+20439609	T20:T21	Substrate and its metabolite	NA	NA
+20439609	T22:T23	Synonyms	NA	NA
+20439609	T22:T25	Substrate and its metabolite	NA	NA
+20439609	T23:T25	Substrate and its metabolite	NA	NA
+20439609	T24:T25	Substrate and its metabolite	NA	NA
+7586929	T8:T11	Substrate and its metabolite	NA	NA
+7586929	T8:T12	Substrate and its metabolite	NA	NA
+16882767	T1:T2	Synonyms	NA	NA
+16882767	T3:T4	Synonyms	NA	NA
+16882767	T16:T17	Substrate and its metabolite	NA	NA
+16882767	T16:T18	Substrate and its metabolite	NA	NA
+16882767	T16:T19	Substrate and its metabolite	NA	NA
+16882767	T16:T20	Substrate and its metabolite	NA	NA
+16882767	T17:T18	Synonyms	NA	NA
+16882767	T19:T20	Synonyms	NA	NA
+22765480	T2:T3	Synonyms	NA	NA
+18420784	T2:T3	Synonyms	NA	NA
+18420784	T2:T4	Synonyms	NA	NA
+18420784	T3:T4	Synonyms	NA	NA
+18420784	T5:T6	Synonyms	NA	NA
+22981147	T4:T6	Substrate and its metabolite	NA	NA
+22981147	T10:T12	Substrate and its metabolite	NA	NA
+22981147	T11:T12	Substrate and its metabolite	NA	NA
+22081503	T9:T11	Substrate and its metabolite	NA	NA
+22081503	T12:T13	Substrate and its metabolite	NA	NA
+22081503	T21:T22	Substrate and its metabolite	NA	NA
+16988203	T13:T14	Substrate and its metabolite	NA	NA
+8477556	T2:T3	Substrate and its metabolite	NA	NA
+8477556	T11:T12	Substrate and its metabolite	O-demethylation	T10
+17725877	T6:T7	Substrate and its metabolite	NA	NA
+17725877	T6:T8	Substrate and its metabolite	NA	NA
+17725877	T7:T8	Synonyms	NA	NA
+15336366	T2:T3	Synonyms	NA	NA
+15336366	T4:T5	Synonyms	NA	NA
+22036030	T1:T2	Synonyms	NA	NA
+22036030	T6:T7	Substrate and its metabolite	hydrolysis	T8
+22036030	T12:T13	Substrate and its metabolite	NA	NA
+22036030	T12:T14	Substrate and its metabolite	NA	NA
+22036030	T12:T15	Substrate and its metabolite	NA	NA
+22036030	T12:T16	Substrate and its metabolite	NA	NA
+22036030	T12:T17	Substrate and its metabolite	NA	NA
+22036030	T14:T15	Synonyms	NA	NA
+22036030	T16:T17	Synonyms	NA	NA
+22036030	T23:T24	Substrate and its metabolite	NA	NA
+22036030	T23:T25	Substrate and its metabolite	NA	NA
+22036030	T23:T26	Substrate and its metabolite	NA	NA
+22036030	T24:T25	Synonyms	NA	NA
+22036030	T2:T3	Synonyms	NA	NA
+19074524	T2:T3	Synonyms	NA	NA
+19074524	T4:T5	Substrate and its metabolite	NA	NA
+19074524	T4:T6	Substrate and its metabolite	NA	NA
+19074524	T21:T23	Substrate and its metabolite	hydrolysis	T22
+19074524	T23:T24	Substrate and its metabolite	NA	NA
+19074524	T25:T26	Substrate and its metabolite	NA	NA
+19074975	T2:T3	Synonyms	NA	NA
+22496391	T5:T6	Substrate and its metabolite	NA	NA
+3838755	T3:T6	Substrate and its metabolite	NA	NA
+3838755	T4:T6	Substrate and its metabolite	NA	NA
+20308471	T2:T3	Synonyms	NA	NA
+20308471	T2:T4	Synonyms	NA	NA
+20308471	T3:T4	Synonyms	NA	NA
+20308471	T8:T10	Substrate and its metabolite	NA	NA
+12183642	T1:T2	Synonyms	NA	NA
+12183642	T3:T4	Synonyms	NA	NA
+17090147	T5:T6	Synonyms	NA	NA
+17090147	T5:T7	Substrate and its metabolite	NA	NA
+17090147	T5:T8	Substrate and its metabolite	NA	NA
+17090147	T5:T9	Substrate and its metabolite	NA	NA
+17090147	T5:T10	Substrate and its metabolite	NA	NA
+17090147	T5:T11	Substrate and its metabolite	NA	NA
+17090147	T6:T7	Substrate and its metabolite	NA	NA
+17090147	T6:T8	Substrate and its metabolite	NA	NA
+17090147	T6:T9	Substrate and its metabolite	NA	NA
+17090147	T6:T10	Substrate and its metabolite	NA	NA
+17090147	T6:T11	Substrate and its metabolite	NA	NA
+17090147	T13:T14	Synonyms	NA	NA
+7734934	T2:T3	Substrate and its metabolite	NA	NA
+7734934	T2:T4	Substrate and its metabolite	NA	NA
+19464879	T13:T15	Substrate and its metabolite	hydroxylation	T14
+1957331	T4:T6	Substrate and its metabolite	NA	NA
+1957331	T4:T7	Substrate and its metabolite	NA	NA
+1957331	T9:T10	Substrate and its metabolite	NA	NA
+1957331	T9:T11	Substrate and its metabolite	NA	NA
+1957331	T12:T14	Substrate and its metabolite	NA	NA
+1957331	T12:T15	Substrate and its metabolite	NA	NA
+17108060	T4:T5	Synonyms	NA	NA
+17108060	T6:T7	Synonyms	NA	NA
+17108060	T8:T9	Synonyms	NA	NA
+17108060	T11:T12	Substrate and its metabolite	NA	NA
+17108060	T11:T13	Substrate and its metabolite	NA	NA
+17108060	T11:T14	Substrate and its metabolite	NA	NA
+17108060	T11:T15	Substrate and its metabolite	NA	NA
+17108060	T11:T16	Substrate and its metabolite	NA	NA
+17108060	T11:T17	Substrate and its metabolite	NA	NA
+17108060	T12:T13	Synonyms	NA	NA
+17108060	T14:T15	Synonyms	NA	NA
+17108060	T14:T16	Substrate and its metabolite	NA	NA
+17108060	T14:T17	Substrate and its metabolite	NA	NA
+17108060	T15:T16	Substrate and its metabolite	NA	NA
+17108060	T15:T17	Substrate and its metabolite	NA	NA
+17108060	T16:T17	Synonyms	NA	NA
+20823282	T8:T9	Substrate and its metabolite	NA	NA
+22054099	T4:T5	Substrate and its metabolite	oxidation	T7
+22237256	T2:T3	Synonyms	NA	NA
+15094307	T1:T2	Substrate and its metabolite	NA	NA
+15094307	T3:T4	Substrate and its metabolite	NA	NA
+15094307	T7:T8	Substrate and its metabolite	NA	NA
+23446989	T5:T8	Substrate and its metabolite	NA	NA
+23446989	T5:T11	Substrate and its metabolite	NA	NA
+23446989	T5:T12	Substrate and its metabolite	NA	NA
+23446989	T5:T13	Substrate and its metabolite	NA	NA
+23446989	T6:T11	Substrate and its metabolite	NA	NA
+23446989	T6:T12	Substrate and its metabolite	NA	NA
+23446989	T6:T13	Substrate and its metabolite	NA	NA
+21458546	T3:T4	Synonyms	NA	NA
+21458546	T8:T9	Synonyms	NA	NA
+18463198	T1:T2	Substrate and its metabolite	NA	NA
+18463198	T3:T4	Substrate and its metabolite	NA	NA
+18463198	T3:T5	Substrate and its metabolite	NA	NA
+18463198	T4:T5	Synonyms	NA	NA
+18463198	T4:T6	Substrate and its metabolite	NA	NA
+18463198	T4:T7	Substrate and its metabolite	NA	NA
+18463198	T5:T6	Substrate and its metabolite	NA	NA
+18463198	T5:T7	Substrate and its metabolite	NA	NA
+18463198	T6:T7	Synonyms	NA	NA
+18463198	T11:T13	Substrate and its metabolite	hydroxylation	T12
+23249383	T4:T6	Substrate and its metabolite	NA	NA
+8765473	T1:T2	Synonyms	NA	NA
+8765473	T4:T5	Synonyms	NA	NA
+20005211	T1:T2	Synonyms	NA	NA
+20005211	T5:T6	Synonyms	NA	NA
+20005211	T5:T7	Substrate and its metabolite	NA	NA
+20005211	T5:T8	Substrate and its metabolite	NA	NA
+20005211	T7:T9	Substrate and its metabolite	NA	NA
+20005211	T7:T10	Substrate and its metabolite	NA	NA
+21004	T2:T3	Substrate and its metabolite	NA	NA
+21004	T2:T4	Substrate and its metabolite	NA	NA
+21004	T2:T5	Substrate and its metabolite	NA	NA
+21004	T2:T6	Substrate and its metabolite	NA	NA
+21004	T2:T7	Substrate and its metabolite	NA	NA
+21004	T2:T8	Substrate and its metabolite	NA	NA
+21004	T2:T9	Substrate and its metabolite	NA	NA
+21004	T2:T10	Substrate and its metabolite	NA	NA
+21004	T2:T11	Substrate and its metabolite	NA	NA
+6894619	T5:T7	Substrate and its metabolite	N3-demethylation	T6
+21175440	T2:T3	Substrate and its metabolite	NA	NA
+21175440	T2:T4	Substrate and its metabolite	NA	NA
+21175440	T3:T4	Synonyms	NA	NA
+21175440	T8:T9	Substrate and its metabolite	NA	NA
+21690265	T3:T4	Synonyms	NA	NA
+20040581	T4:T5	Substrate and its metabolite	NA	NA
+20853460	T3:T4	Synonyms	NA	NA
+20853460	T3:T5	Synonyms	NA	NA
+20853460	T3:T6	Substrate and its metabolite	NA	NA
+20853460	T4:T5	Synonyms	NA	NA
+20853460	T4:T6	Substrate and its metabolite	NA	NA
+20853460	T5:T7	Substrate and its metabolite	NA	NA
+20853460	T11:T12	Substrate and its metabolite	NA	NA
+17230596	T2:T3	Synonyms	NA	NA
+17230596	T5:T6	Substrate and its metabolite	NA	NA
+17230596	T7:T8	Substrate and its metabolite	NA	NA
+12709315	T11:T12	Substrate and its metabolite	NA	NA
+1907291	T2:T3	Synonyms	NA	NA
+1907291	T2:T4	Substrate and its metabolite	NA	NA
+1907291	T3:T4	Substrate and its metabolite	NA	NA
+4364176	T1:T2	Substrate and its metabolite	NA	NA
+4364176	T1:T3	Substrate and its metabolite	NA	NA
+4364176	T5:T6	Substrate and its metabolite	NA	NA
+18768490	T3:T4	Synonyms	NA	NA
+18768490	T8:T9	Substrate and its metabolite	NA	NA
+18768490	T8:T10	Substrate and its metabolite	NA	NA
+18768490	T19:T20	Substrate and its metabolite	NA	NA
+18768490	T19:T21	Substrate and its metabolite	NA	NA
+8207937	T3:T4	Synonyms	NA	NA
+8207937	T14:T15	Substrate and its metabolite	NA	NA
+12850404	T5:T6	Substrate and its metabolite	NA	NA
+12850404	T4:T5	Synonyms	NA	NA
+12668072	T4:T7	Substrate and its metabolite	NA	NA
+12668072	T4:T8	Substrate and its metabolite	NA	NA
+12668072	T4:T9	Substrate and its metabolite	NA	NA
+12668072	T4:T10	Substrate and its metabolite	NA	NA
+12668072	T5:T7	Substrate and its metabolite	NA	NA
+12668072	T5:T8	Substrate and its metabolite	NA	NA
+12668072	T5:T9	Substrate and its metabolite	NA	NA
+12668072	T5:T10	Substrate and its metabolite	NA	NA
+12668072	T7:T9	Substrate and its metabolite	NA	NA
+12668072	T7:T10	Substrate and its metabolite	NA	NA
+12668072	T9:T10	Synonyms	NA	NA
+17634961	T2:T3	Substrate and its metabolite	NA	NA
+18827074	T1:T2	Substrate and its metabolite	NA	NA
+18827074	T4:T5	Substrate and its metabolite	NA	NA
+18827074	T8:T10	Substrate and its metabolite	NA	NA
+16620544	T2:T3	Substrate and its metabolite	NA	NA
+16620544	T8:T9	Substrate and its metabolite	NA	NA
+20103582	T2:T3	Synonyms	NA	NA
+20103582	T5:T6	Synonyms	NA	NA
+23290298	T2:T3	Substrate and its metabolite	NA	NA
+23290298	T2:T4	Substrate and its metabolite	NA	NA
+20197485	T1:T2	Substrate and its metabolite	NA	NA
+20197485	T3:T4	Substrate and its metabolite	NA	NA
+22554311	T11:T12	Substrate and its metabolite	NA	NA
+22554311	T11:T13	Substrate and its metabolite	NA	NA
+22554311	T12:T13	Synonyms	NA	NA
+16133532	T13:T14	Substrate and its metabolite	NA	NA
+16133532	T16:T17	Substrate and its metabolite	NA	NA
+7395524	T1:T3	Substrate and its metabolite	NA	NA
+7395524	T1:T6	Substrate and its metabolite	NA	NA
+21651314	T3:T7	Substrate and its metabolite	NA	NA
+21651314	T3:T8	Substrate and its metabolite	NA	NA
+21651314	T9:T10	Synonyms	NA	NA
+15081870	T2:T3	Substrate and its metabolite	NA	NA
+15081870	T2:T4	Substrate and its metabolite	NA	NA
+15081870	T3:T4	Synonyms	NA	NA
+15081870	T5:T6	Synonyms	NA	NA
+15081870	T7:T8	Synonyms	NA	NA
+15081870	T21:T22	Substrate and its metabolite	NA	NA
+21914964	T3:T4	Substrate and its metabolite	NA	NA
+18827075	T6:T7	Substrate and its metabolite	NA	NA
+18827075	T6:T8	Substrate and its metabolite	NA	NA
+19797605	T17:T21	Substrate and its metabolite	NA	NA
+19797605	T18:T19	Substrate and its metabolite	NA	NA
+19797605	T19:T21	Substrate and its metabolite	NA	NA
+19074528	T1:T2	Synonyms	NA	NA
+19074528	T1:T3	Synonyms	NA	NA
+19074528	T2:T3	Synonyms	NA	NA
+19074528	T4:T5	Synonyms	NA	NA
+19074528	T4:T6	Synonyms	NA	NA
+19074528	T4:T7	Synonyms	NA	NA
+19074528	T5:T6	Synonyms	NA	NA
+19074528	T5:T7	Synonyms	NA	NA
+19074528	T6:T7	Synonyms	NA	NA
+22496396	T2:T3	Synonyms	NA	NA
+22496396	T5:T11	Substrate and its metabolite	NA	NA
+22496396	T5:T12	Substrate and its metabolite	NA	NA
+22496396	T11:T12	Synonyms	NA	NA
+15560889	T9:T11	Substrate and its metabolite	oxidation	T10
+15560889	T12:T14	Substrate and its metabolite	oxidation	T13
+15560889	T15:T16	Substrate and its metabolite	NA	NA
+12527341	T14:T15	Substrate and its metabolite	sulfation	T13
+12527341	T14:T16	Substrate and its metabolite	sulfation	T13
+12527341	T24:T25	Substrate and its metabolite	sulfation	T23
+12527341	T24:T26	Substrate and its metabolite	sulfation	T23
+15712230	T2:T3	Substrate and its metabolite	NA	NA
+15712230	T2:T4	Substrate and its metabolite	NA	NA
+14570771	T2:T3	Synonyms	NA	NA
+14570771	T14:T20	Substrate and its metabolite	glucuronidation	T15
+12519692	T4:T5	Substrate and its metabolite	lactonization	T6
+12519692	T7:T10	Substrate and its metabolite	NA	NA
+11133003	T17:T18	Substrate and its metabolite	NA	NA
+11133003	T17:T19	Substrate and its metabolite	NA	NA
+11133003	T22:T24	Substrate and its metabolite	NA	NA
+11133003	T25:T26	Substrate and its metabolite	NA	NA
+19576871	T4:T5	Substrate and its metabolite	NA	NA
+19576871	T8:T9	Synonyms	NA	NA
+19576871	T17:T18	Substrate and its metabolite	3,4-epoxidation	T19
+20382753	T3:T4	Synonyms	NA	NA
+20382753	T5:T8	Substrate and its metabolite	NA	NA
+18559562	T1:T2	Substrate and its metabolite	NA	NA
+18559562	T1:T3	Substrate and its metabolite	NA	NA
+18559562	T4:T5	Substrate and its metabolite	NA	NA
+18559562	T4:T6	Substrate and its metabolite	NA	NA
+18559562	T4:T7	Substrate and its metabolite	NA	NA
+18559562	T4:T8	Substrate and its metabolite	NA	NA
+18559562	T5:T6	Synonyms	NA	NA
+18559562	T7:T8	Synonyms	NA	NA
+18559562	T14:T15	Substrate and its metabolite	NA	NA
+18559562	T14:T16	Substrate and its metabolite	NA	NA
+16190932	T3:T4	Synonyms	NA	NA
+16190932	T3:T5	Substrate and its metabolite	NA	NA
+16190932	T3:T6	Substrate and its metabolite	NA	NA
+16190932	T4:T5	Substrate and its metabolite	NA	NA
+16190932	T4:T6	Substrate and its metabolite	NA	NA
+16190932	T5:T6	Synonyms	NA	NA
+16190932	T10:T11	Substrate and its metabolite	NA	NA
+16190932	T10:T12	Substrate and its metabolite	NA	NA
+22406105	T2:T3	Synonyms	NA	NA
+22406105	T6:T7	Substrate and its metabolite	NA	NA
+15135087	T4:T5	Synonyms	NA	NA
+15135087	T7:T8	Synonyms	NA	NA
+15135087	T13:T14	Substrate and its metabolite	oxidation	T15
+1874880	T2:T3	Substrate and its metabolite	NA	NA
+21087116	T4:T5	Substrate and its metabolite	NA	NA
+21087116	T4:T6	Substrate and its metabolite	NA	NA
+21087116	T4:T7	Substrate and its metabolite	NA	NA
+15257612	T11:T12	Substrate and its metabolite	NA	NA
+15257612	T11:T13	Substrate and its metabolite	NA	NA
+15257612	T11:T14	Substrate and its metabolite	NA	NA
+15257612	T16:T17	Substrate and its metabolite	NA	NA
+18288793	T2:T3	Substrate and its metabolite	NA	NA
+18288793	T5:T8	Substrate and its metabolite	NA	NA
+12207631	T4:T5	Substrate and its metabolite	NA	NA
+12207631	T4:T6	Substrate and its metabolite	NA	NA
+12207631	T5:T6	Synonyms	NA	NA
+12207631	T5:T7	Substrate and its metabolite	NA	NA
+12207631	T5:T8	Substrate and its metabolite	NA	NA
+12207631	T6:T7	Substrate and its metabolite	NA	NA
+12207631	T6:T8	Substrate and its metabolite	NA	NA
+12207631	T7:T8	Synonyms	NA	NA
+17485255	T1:T2	Substrate and its metabolite	NA	NA
+23132334	T2:T3	Synonyms	NA	NA
+23132334	T2:T4	Synonyms	NA	NA
+23132334	T3:T4	Synonyms	NA	NA
+23530019	T13:T14	Substrate and its metabolite	NA	NA
+23530019	T18:T19	Substrate and its metabolite	NA	NA
+15885659	T3:T4	Synonyms	NA	NA
+15885659	T3:T5	Synonyms	NA	NA
+15885659	T4:T5	Synonyms	NA	NA
+15885659	T15:T17	Substrate and its metabolite	NA	NA
+15885659	T15:T19	Substrate and its metabolite	NA	NA
+15885659	T15:T20	Substrate and its metabolite	NA	NA
+21671437	T2:T3	Synonyms	NA	NA
+21671437	T6:T7	Synonyms	NA	NA
+21671437	T11:T12	Substrate and its metabolite	NA	NA
+21671437	T11:T13	Substrate and its metabolite	NA	NA
+21671437	T11:T14	Substrate and its metabolite	NA	NA
+21671437	T11:T15	Substrate and its metabolite	NA	NA
+21671437	T11:T16	Substrate and its metabolite	NA	NA
+21671437	T11:T17	Substrate and its metabolite	NA	NA
+21254313	T2:T12	Substrate and its metabolite	NA	NA
+12438516	T6:T7	Synonyms	NA	NA
+12438516	T17:T18	Substrate and its metabolite	NA	NA
+12438516	T17:T19	Substrate and its metabolite	NA	NA
+12438516	T19:T20	Substrate and its metabolite	NA	NA
+12438516	T25:T26	Substrate and its metabolite	NA	NA
+17151190	T3:T4	Synonyms	NA	NA
+17151190	T3:T5	Synonyms	NA	NA
+17151190	T3:T6	Synonyms	NA	NA
+17151190	T3:T8	Substrate and its metabolite	glucuronidation	T12
+17151190	T3:T9	Substrate and its metabolite	glucuronidation	T12
+17151190	T3:T11	Substrate and its metabolite	glucuronidation	T12
+17151190	T4:T5	Synonyms	NA	NA
+17151190	T4:T6	Synonyms	NA	NA
+17151190	T4:T8	Substrate and its metabolite	glucuronidation	T12
+17151190	T4:T9	Substrate and its metabolite	glucuronidation	T12
+17151190	T4:T11	Substrate and its metabolite	glucuronidation	T12
+17151190	T5:T6	Synonyms	NA	NA
+17151190	T5:T8	Substrate and its metabolite	glucuronidation	T12
+17151190	T5:T9	Substrate and its metabolite	glucuronidation	T12
+17151190	T5:T11	Substrate and its metabolite	glucuronidation	T12
+17151190	T6:T8	Substrate and its metabolite	glucuronidation	T12
+17151190	T6:T9	Substrate and its metabolite	glucuronidation	T12
+17151190	T6:T11	Substrate and its metabolite	glucuronidation	T12
+17151190	T15:T16	Substrate and its metabolite	Glucuronidation	T14
+17151190	T15:T17	Substrate and its metabolite	Glucuronidation	T14
+17151190	T15:T18	Substrate and its metabolite	Glucuronidation	T14
+16940083	T2:T3	Substrate and its metabolite	NA	NA
+16940083	T2:T4	Substrate and its metabolite	NA	NA
+16940083	T3:T4	Synonyms	NA	NA
+16940083	T6:T7	Substrate and its metabolite	NA	NA
+16940083	T8:T9	Substrate and its metabolite	NA	NA
+16940083	T11:T12	Substrate and its metabolite	NA	NA
+16940083	T16:T17	Substrate and its metabolite	NA	NA
+23338754	T4:T5	Substrate and its metabolite	NA	NA
+23338754	T4:T6	Substrate and its metabolite	NA	NA
+23338754	T4:T7	Substrate and its metabolite	NA	NA
+16809797	T1:T2	Synonyms	NA	NA
+16809797	T3:T4	Synonyms	NA	NA
+16809797	T5:T6	Substrate and its metabolite	NA	NA
+2291876	T1:T2	Synonyms	NA	NA
+2291876	T3:T4	Synonyms	NA	NA
+2291876	T3:T6	Substrate and its metabolite	NA	NA
+2291876	T4:T6	Substrate and its metabolite	NA	NA
+24103433	T1:T2	Synonyms	NA	NA
+24103433	T3:T4	Synonyms	NA	NA
+24103433	T5:T7	Substrate and its metabolite	NA	NA
+24103433	T5:T8	Substrate and its metabolite	NA	NA
+8785383	T4:T5	Substrate and its metabolite	NA	NA
+8785383	T4:T6	Substrate and its metabolite	NA	NA
+8785383	T5:T6	Synonyms	NA	NA
+12101631	T12:T13	Substrate and its metabolite	NA	NA
+12101631	T12:T14	Substrate and its metabolite	NA	NA
+12101631	T13:T14	Synonyms	NA	NA
+12101631	T25:T27	Substrate and its metabolite	NA	NA
+11950781	T1:T2	Substrate and its metabolite	NA	NA
+11950781	T5:T6	Substrate and its metabolite	NA	NA
+11950781	T6:T7	Substrate and its metabolite	NA	NA
+11950781	T11:T12	Substrate and its metabolite	NA	NA
+11950781	T17:T18	Substrate and its metabolite	NA	NA
+11950781	T20:T21	Substrate and its metabolite	NA	NA
+19118083	T14:T16	Substrate and its metabolite	NA	NA
+20371737	T2:T3	Substrate and its metabolite	NA	NA
+20371737	T2:T4	Substrate and its metabolite	NA	NA
+20371737	T3:T4	Synonyms	NA	NA
+20371737	T6:T8	Substrate and its metabolite	NA	NA
+20371737	T6:T10	Substrate and its metabolite	NA	NA
+20371737	T6:T12	Substrate and its metabolite	NA	NA
+20371737	T15:T17	Substrate and its metabolite	NA	NA
+20371737	T15:T18	Substrate and its metabolite	NA	NA
+20371737	T15:T19	Substrate and its metabolite	NA	NA
+8857076	T13:T14	Substrate and its metabolite	sulphation	T12
+8857076	T21:T22	Substrate and its metabolite	NA	NA
+8857076	T21:T23	Substrate and its metabolite	NA	NA
+17689219	T1:T2	Synonyms	NA	NA
+17689219	T3:T4	Synonyms	NA	NA
+17689219	T5:T6	Substrate and its metabolite	NA	NA
+6636824	T1:T6	Substrate and its metabolite	NA	NA
+6636824	T1:T7	Substrate and its metabolite	NA	NA
+6636824	T2:T6	Substrate and its metabolite	NA	NA
+6636824	T2:T7	Substrate and its metabolite	NA	NA
+12920164	T2:T3	Substrate and its metabolite	NA	NA
+12920164	T2:T4	Substrate and its metabolite	NA	NA
+23624235	T1:T2	Synonyms	NA	NA
+23624235	T3:T4	Synonyms	NA	NA
+23624235	T3:T5	Substrate and its metabolite	NA	NA
+23624235	T3:T6	Substrate and its metabolite	NA	NA
+23624235	T4:T5	Substrate and its metabolite	NA	NA
+23624235	T4:T6	Substrate and its metabolite	NA	NA
+23624235	T8:T9	Substrate and its metabolite	NA	NA
+12820810	T10:T11	Substrate and its metabolite	Phosphorylation	T9
+12820810	T10:T12	Substrate and its metabolite	Phosphorylation	T9
+12820810	T11:T12	Synonyms	NA	NA
+12820810	T15:T16	Substrate and its metabolite	phosphorylation	T14
+12820810	T15:T17	Substrate and its metabolite	phosphorylation	T14
+12820810	T16:T17	Synonyms	NA	NA
+19808136	T2:T3	Substrate and its metabolite	NA	NA
+19808136	T10:T11	Substrate and its metabolite	NA	NA
+239208	T2:T3	Synonyms	NA	NA
+21735164	T4:T5	Substrate and its metabolite	NA	NA
+21735164	T4:T6	Substrate and its metabolite	NA	NA
+21735164	T4:T7	Substrate and its metabolite	NA	NA
+21735164	T5:T8	Substrate and its metabolite	NA	NA
+21735164	T6:T8	Substrate and its metabolite	NA	NA
+21735164	T7:T8	Substrate and its metabolite	NA	NA
+16221753	T2:T3	Synonyms	NA	NA
+2219959	T3:T4	Synonyms	NA	NA
+2219959	T5:T6	Synonyms	NA	NA
+2219959	T14:T17	Substrate and its metabolite	NA	NA
+2219959	T14:T19	Substrate and its metabolite	NA	NA
+2219959	T14:T20	Substrate and its metabolite	NA	NA
+15811173	T2:T3	Synonyms	NA	NA
+15811173	T14:T15	Substrate and its metabolite	NA	NA
+15155554	T6:T7	Synonyms	NA	NA
+16997912	T2:T3	Synonyms	NA	NA
+16997912	T4:T5	Synonyms	NA	NA
+16997912	T4:T7	Substrate and its metabolite	O-demethylation	T9
+16997912	T4:T8	Substrate and its metabolite	O-demethylation	T9
+16997912	T4:T7	Substrate and its metabolite	N-dehydroxylation	T10
+16997912	T4:T8	Substrate and its metabolite	N-dehydroxylation	T10
+16997912	T5:T6	Substrate and its metabolite	O-demethylation	T9
+16997912	T5:T8	Substrate and its metabolite	O-demethylation	T9
+16997912	T5:T6	Substrate and its metabolite	N-dehydroxylation	T10
+16997912	T5:T8	Substrate and its metabolite	N-dehydroxylation	T10
+16997912	T18:T19	Synonyms	NA	NA
+16997912	T5:T6	Synonyms	NA	NA
+16304151	T5:T6	Synonyms	NA	NA
+16304151	T8:T9	Synonyms	NA	NA
+16304151	T13:T14	Synonyms	NA	NA
+1519299	T2:T3	Synonyms	NA	NA
+1519299	T4:T5	Synonyms	NA	NA
+1519299	T6:T7	Synonyms	NA	NA
+1519299	T8:T9	Synonyms	NA	NA
+1519299	T10:T11	Synonyms	NA	NA
+1519299	T28:T29	Substrate and its metabolite	NA	NA
+1519299	T28:T30	Substrate and its metabolite	NA	NA
+1519299	T29:T30	Synonyms	NA	NA
+17489363	T2:T3	Synonyms	NA	NA
+17489363	T4:T6	Substrate and its metabolite	NA	NA
+17489363	T4:T7	Substrate and its metabolite	NA	NA
+17489363	T9:T10	Substrate and its metabolite	NA	NA
+17489363	T12:T13	Substrate and its metabolite	NA	NA
+17489363	T13:T14	Substrate and its metabolite	NA	NA
+7663706	T2:T3	Substrate and its metabolite	NA	NA
+7663706	T2:T4	Substrate and its metabolite	NA	NA
+22393120	T3:T4	Synonyms	NA	NA
+22393120	T9:T10	Synonyms	NA	NA
+22393120	T13:T15	Substrate and its metabolite	NA	NA
+19420130	T3:T4	Substrate and its metabolite	NA	NA
+19420130	T6:T7	Substrate and its metabolite	NA	NA
+19420130	T6:T8	Substrate and its metabolite	NA	NA
+23378626	T3:T4	Synonyms	NA	NA
+1600616	T3:T4	Synonyms	NA	NA
+1600616	T3:T5	Substrate and its metabolite	NA	NA
+1600616	T3:T6	Substrate and its metabolite	NA	NA
+1600616	T4:T5	Substrate and its metabolite	NA	NA
+1600616	T4:T6	Substrate and its metabolite	NA	NA
+1600616	T5:T6	Synonyms	NA	NA
+1600616	T8:T9	Substrate and its metabolite	NA	NA
+1600616	T8:T10	Substrate and its metabolite	NA	NA
+1600616	T8:T11	Substrate and its metabolite	NA	NA
+1600616	T10:T11	Synonyms	NA	NA
+1600616	T12:T13	Substrate and its metabolite	NA	NA
+1600616	T14:T15	Synonyms	NA	NA
+3929481	T2:T3	Synonyms	NA	NA
+3929481	T2:T6	Substrate and its metabolite	NA	NA
+3929481	T2:T13	Substrate and its metabolite	C-N cleavage	T12
+3929481	T3:T6	Substrate and its metabolite	NA	NA
+3929481	T3:T13	Substrate and its metabolite	C-N cleavage	T12
+3929481	T4:T7	Substrate and its metabolite	NA	NA
+15720137	T4:T8	Substrate and its metabolite	NA	NA
+22246389	T3:T4	Substrate and its metabolite	NA	NA
+22246389	T3:T5	Substrate and its metabolite	NA	NA
+22246389	T3:T6	Substrate and its metabolite	NA	NA
+22246389	T3:T7	Substrate and its metabolite	NA	NA
+22246389	T3:T8	Substrate and its metabolite	NA	NA
+22246389	T3:T9	Substrate and its metabolite	NA	NA
+22246389	T3:T10	Substrate and its metabolite	NA	NA
+22246389	T3:T14	Substrate and its metabolite	NA	NA
+22246389	T3:T17	Substrate and its metabolite	NA	NA
+22246389	T3:T18	Substrate and its metabolite	NA	NA
+4087830	T2:T3	Substrate and its metabolite	NA	NA
+4087830	T2:T4	Substrate and its metabolite	NA	NA
+15517526	T1:T2	Synonyms	NA	NA
+15517526	T1:T3	Substrate and its metabolite	NA	NA
+15517526	T2:T3	Substrate and its metabolite	NA	NA
+15517526	T4:T5	Synonyms	NA	NA
+15517526	T6:T7	Substrate and its metabolite	NA	NA
+21209239	T3:T4	Synonyms	NA	NA
+21209239	T5:T6	Synonyms	NA	NA
+21209239	T12:T13	Substrate and its metabolite	NA	NA
+21209239	T12:T14	Substrate and its metabolite	NA	NA
+21209239	T13:T14	Synonyms	NA	NA
+21209239	T15:T16	Substrate and its metabolite	NA	NA
+17998295	T2:T3	Synonyms	NA	NA
+17998295	T7:T10	Substrate and its metabolite	NA	NA
+17998295	T7:T11	Substrate and its metabolite	NA	NA
+17998295	T8:T9	Synonyms	NA	NA
+17998295	T3:T5	Substrate and its metabolite	NA	NA
+22733806	T6:T8	Substrate and its metabolite	NA	NA
+22733806	T9:T12	Substrate and its metabolite	NA	NA
+22733806	T11:T12	Substrate and its metabolite	NA	NA
+22733806	T12:T13	Substrate and its metabolite	NA	NA
+22733806	T15:T16	Substrate and its metabolite	NA	NA
+22733806	T17:T18	Substrate and its metabolite	NA	NA
+22733806	T18:T19	Substrate and its metabolite	NA	NA
+22733806	T21:T23	Substrate and its metabolite	reduction	T22
+22733806	T24:T25	Substrate and its metabolite	NA	NA
+22733806	T26:T27	Substrate and its metabolite	NA	NA
+22733806	T28:T29	Substrate and its metabolite	NA	NA
+21916490	T2:T3	Synonyms	NA	NA
+21916490	T15:T16	Synonyms	NA	NA
+21916490	T15:T21	Substrate and its metabolite	NA	NA
+21916490	T16:T21	Substrate and its metabolite	NA	NA
+21916490	T17:T18	Synonyms	NA	NA
+21916490	T17:T21	Substrate and its metabolite	NA	NA
+21916490	T19:T21	Substrate and its metabolite	NA	NA
+21916490	T19:T20	Synonyms	NA	NA
+21916490	T19:T21	Substrate and its metabolite	NA	NA
+21916490	T20:T21	Substrate and its metabolite	NA	NA
+8486332	T11:T12	Substrate and its metabolite	NA	NA
+20821331	T6:T7	Substrate and its metabolite	NA	NA
+20821331	T7:T8	Synonyms	NA	NA
+14709624	T2:T3	Synonyms	NA	NA
+14709624	T5:T6	Synonyms	NA	NA
+14709624	T16:T17	Synonyms	NA	NA
+16379042	T1:T2	Synonyms	NA	NA
+16379042	T1:T3	Synonyms	NA	NA
+16379042	T2:T3	Synonyms	NA	NA
+12820211	T3:T4	Substrate and its metabolite	NA	NA
+12820211	T3:T5	Substrate and its metabolite	NA	NA
+12820211	T4:T5	Synonyms	NA	NA
+20642349	T4:T5	Synonyms	NA	NA
+20642349	T7:T8	Substrate and its metabolite	NA	NA
+20642349	T7:T9	Substrate and its metabolite	NA	NA
+20642349	T8:T9	Synonyms	NA	NA
+22688609	T1:T2	Substrate and its metabolite	NA	NA
+22688609	T3:T4	Substrate and its metabolite	NA	NA
+22688609	T8:T9	Substrate and its metabolite	NA	NA
+22688609	T8:T10	Substrate and its metabolite	NA	NA
+22688609	T18:T19	Substrate and its metabolite	NA	NA
+15708677	T3:T4	Synonyms	NA	NA
+18840518	T2:T4	Substrate and its metabolite	3,4-epoxidation	T3
+18840518	T2:T5	Substrate and its metabolite	3,4-epoxidation	T3
+18840518	T2:T7	Substrate and its metabolite	hydroxylation	T6
+18840518	T4:T5	Synonyms	NA	NA
+18840518	T8:T9	Substrate and its metabolite	NA	NA
+19417618	T13:T14	Substrate and its metabolite	NA	NA
+19417618	T13:T15	Substrate and its metabolite	NA	NA
+19417618	T13:T16	Substrate and its metabolite	NA	NA
+16500065	T1:T2	Substrate and its metabolite	NA	NA
+16500065	T3:T4	Synonyms	NA	NA
+16500065	T3:T5	Substrate and its metabolite	NA	NA
+16500065	T3:T6	Substrate and its metabolite	NA	NA
+16500065	T5:T6	Synonyms	NA	NA
+16500065	T8:T9	Substrate and its metabolite	NA	NA
+17941060	T4:T5	Substrate and its metabolite	NA	NA
+17941060	T4:T6	Substrate and its metabolite	NA	NA
+17941060	T4:T7	Substrate and its metabolite	NA	NA
+18268081	T6:T7	Substrate and its metabolite	NA	NA
+18268081	T10:T11	Substrate and its metabolite	NA	NA
+16896065	T4:T5	Substrate and its metabolite	NA	NA
+16896065	T4:T6	Substrate and its metabolite	NA	NA
+16896065	T7:T8	Substrate and its metabolite	NA	NA
+16896065	T12:T13	Substrate and its metabolite	NA	NA
+16896065	T12:T14	Substrate and its metabolite	NA	NA
+16896065	T15:T16	Substrate and its metabolite	NA	NA
+16896065	T15:T17	Substrate and its metabolite	NA	NA
+16896065	T18:T19	Substrate and its metabolite	NA	NA
+16896065	T20:T21	Substrate and its metabolite	NA	NA
+16896065	T22:T23	Substrate and its metabolite	NA	NA
+16896065	T25:T28	Substrate and its metabolite	N-dealkylation	T24
+16896065	T26:T28	Substrate and its metabolite	N-dealkylation	T24
+16896065	T27:T28	Substrate and its metabolite	N-dealkylation	T24
+16896065	T29:T30	Substrate and its metabolite	NA	NA
+16896065	T29:T31	Substrate and its metabolite	NA	NA
+16896065	T32:T34	Substrate and its metabolite	hydroxylation	T33
+16896065	T35:T36	Substrate and its metabolite	NA	NA
+12408915	T2:T3	Synonyms	NA	NA
+12408915	T2:T4	Substrate and its metabolite	NA	NA
+12408915	T2:T5	Substrate and its metabolite	NA	NA
+12408915	T2:T6	Substrate and its metabolite	NA	NA
+12408915	T2:T7	Substrate and its metabolite	NA	NA
+12408915	T2:T8	Substrate and its metabolite	NA	NA
+12408915	T2:T9	Substrate and its metabolite	NA	NA
+12408915	T3:T4	Substrate and its metabolite	NA	NA
+12408915	T3:T5	Substrate and its metabolite	NA	NA
+12408915	T3:T6	Substrate and its metabolite	NA	NA
+12408915	T3:T7	Substrate and its metabolite	NA	NA
+12408915	T3:T8	Substrate and its metabolite	NA	NA
+12408915	T3:T9	Substrate and its metabolite	NA	NA
+12408915	T4:T5	Synonyms	NA	NA
+12408915	T6:T7	Synonyms	NA	NA
+12408915	T8:T9	Synonyms	NA	NA
+730397	T4:T5	Substrate and its metabolite	NA	NA
+14695832	T3:T6	Substrate and its metabolite	NA	NA
+14695832	T3:T7	Substrate and its metabolite	NA	NA
+17536764	T2:T3	Synonyms	NA	NA
+17536764	T6:T7	Substrate and its metabolite	NA	NA
+17536764	T6:T8	Substrate and its metabolite	NA	NA
+17536764	T6:T9	Substrate and its metabolite	NA	NA
+17536764	T6:T10	Substrate and its metabolite	NA	NA
+17536764	T6:T11	Substrate and its metabolite	NA	NA
+17536764	T6:T12	Substrate and its metabolite	NA	NA
+17536764	T7:T8	Synonyms	NA	NA
+17536764	T9:T10	Synonyms	NA	NA
+17536764	T11:T12	Synonyms	NA	NA
+17536764	T16:T17	Substrate and its metabolite	NA	NA
+17536764	T16:T18	Substrate and its metabolite	NA	NA
+17536764	T16:T19	Substrate and its metabolite	NA	NA
+17536764	T16:T20	Substrate and its metabolite	NA	NA
+17536764	T16:T21	Substrate and its metabolite	NA	NA
+17536764	T17:T18	Synonyms	NA	NA
+17536764	T30:T31	Synonyms	NA	NA
+17536764	T36:T40	Substrate and its metabolite	NA	NA
+17536764	T37:T40	Substrate and its metabolite	NA	NA
+17536764	T38:T40	Substrate and its metabolite	NA	NA
+17536764	T39:T40	Substrate and its metabolite	NA	NA
+17536764	T40:T41	Substrate and its metabolite	NA	NA
+15470687	T1:T2	Substrate and its metabolite	NA	NA
+15470687	T3:T4	Substrate and its metabolite	NA	NA
+17646282	T1:T2	Substrate and its metabolite	NA	NA
+17646282	T1:T3	Synonyms	NA	NA
+17646282	T2:T3	Substrate and its metabolite	NA	NA
+19070586	T3:T4	Substrate and its metabolite	NA	NA
+19066859	T4:T5	Substrate and its metabolite	NA	NA
+20176691	T5:T6	Substrate and its metabolite	NA	NA
+20176691	T5:T7	Substrate and its metabolite	NA	NA
+19883238	T2:T3	Synonyms	NA	NA
+19883238	T9:T11	Substrate and its metabolite	NA	NA
+19883238	T13:T14	Substrate and its metabolite	NA	NA
+23704698	T3:T4	Substrate and its metabolite	NA	NA
+23704698	T10:T13	Substrate and its metabolite	NA	NA
+23704698	T10:T14	Substrate and its metabolite	NA	NA
+23704698	T10:T16	Substrate and its metabolite	NA	NA
+23704698	T17:T18	Synonyms	NA	NA
+19198839	T1:T2	Substrate and its metabolite	NA	NA
+19198839	T3:T4	Substrate and its metabolite	NA	NA
+16455059	T4:T5	Synonyms	NA	NA
+16455059	T6:T7	Substrate and its metabolite	NA	NA
+16455059	T6:T8	Substrate and its metabolite	NA	NA
+16455059	T7:T8	Synonyms	NA	NA
+16455059	T9:T10	Substrate and its metabolite	NA	NA
+16455059	T9:T11	Substrate and its metabolite	NA	NA
+16455059	T10:T11	Synonyms	NA	NA
+16455059	T14:T15	Substrate and its metabolite	NA	NA
+16455059	T16:T17	Synonyms	NA	NA
+16455059	T16:T18	Substrate and its metabolite	NA	NA
+16455059	T17:T18	Substrate and its metabolite	NA	NA
+22582265	T1:T2	Synonyms	NA	NA
+22582265	T3:T4	Synonyms	NA	NA
+21990013	T2:T3	Synonyms	NA	NA
+21990013	T4:T5	Substrate and its metabolite	NA	NA
+21990013	T4:T6	Substrate and its metabolite	NA	NA
+21990013	T4:T7	Substrate and its metabolite	NA	NA
+21990013	T4:T8	Substrate and its metabolite	NA	NA
+21990013	T4:T9	Substrate and its metabolite	NA	NA
+21990013	T4:T10	Substrate and its metabolite	NA	NA
+21990013	T5:T6	Synonyms	NA	NA
+21990013	T7:T8	Synonyms	NA	NA
+21990013	T9:T10	Synonyms	NA	NA
+17289327	T3:T4	Synonyms	NA	NA
+17289327	T3:T5	Substrate and its metabolite	NA	NA
+17289327	T3:T6	Substrate and its metabolite	NA	NA
+17289327	T4:T5	Substrate and its metabolite	NA	NA
+17289327	T4:T6	Substrate and its metabolite	NA	NA
+17289327	T5:T6	Synonyms	NA	NA
+9029745	T4:T5	Substrate and its metabolite	NA	NA
+9029745	T4:T6	Substrate and its metabolite	NA	NA
+9029745	T5:T6	Synonyms	NA	NA
+17343829	T14:T15	Substrate and its metabolite	glucuronidation	T13
+12458675	T3:T4	Synonyms	NA	NA
+12458675	T3:T5	Substrate and its metabolite	NA	NA
+12458675	T3:T6	Substrate and its metabolite	NA	NA
+12458675	T4:T5	Substrate and its metabolite	NA	NA
+12458675	T4:T6	Substrate and its metabolite	NA	NA
+12458675	T5:T6	Synonyms	NA	NA
+12458675	T17:T18	Substrate and its metabolite	NA	NA
+2874572	T1:T2	Substrate and its metabolite	NA	NA
+2874572	T3:T4	Synonyms	NA	NA
+2874572	T3:T5	Substrate and its metabolite	NA	NA
+2874572	T3:T6	Substrate and its metabolite	NA	NA
+2874572	T4:T5	Substrate and its metabolite	NA	NA
+2874572	T4:T6	Substrate and its metabolite	NA	NA
+2874572	T5:T6	Synonyms	NA	NA
+18048073	T2:T3	Substrate and its metabolite	NA	NA
+18048073	T2:T4	Substrate and its metabolite	NA	NA
+18048073	T2:T5	Substrate and its metabolite	NA	NA
+18048073	T2:T6	Substrate and its metabolite	NA	NA
+18048073	T2:T7	Substrate and its metabolite	NA	NA
+18048073	T2:T8	Substrate and its metabolite	NA	NA
+18048073	T2:T9	Substrate and its metabolite	NA	NA
+18048073	T2:T10	Substrate and its metabolite	NA	NA
+18048073	T3:T4	Synonyms	NA	NA
+18048073	T5:T6	Synonyms	NA	NA
+18048073	T7:T8	Synonyms	NA	NA
+18048073	T9:T10	Synonyms	NA	NA
+15561837	T2:T3	Synonyms	NA	NA
+15561837	T13:T14	Substrate and its metabolite	deamination	T12
+7354440	T9:T10	Substrate and its metabolite	NA	NA
+7354440	T11:T13	Substrate and its metabolite	NA	NA
+11393588	T1:T2	Substrate and its metabolite	NA	NA
+11393588	T3:T4	Substrate and its metabolite	NA	NA
+18793575	T6:T8	Substrate and its metabolite	NA	NA
+477714	T2:T3	Synonyms	NA	NA
+477714	T2:T4	Substrate and its metabolite	NA	NA
+477714	T2:T5	Substrate and its metabolite	NA	NA
+477714	T3:T4	Substrate and its metabolite	NA	NA
+477714	T3:T5	Substrate and its metabolite	NA	NA
+477714	T4:T5	Synonyms	NA	NA
+12492607	T9:T10	Substrate and its metabolite	NA	NA
+12492607	T9:T11	Substrate and its metabolite	NA	NA
+22037879	T6:T8	Substrate and its metabolite	NA	NA
+22037879	T6:T9	Substrate and its metabolite	NA	NA
+3780820	T1:T2	Substrate and its metabolite	NA	NA
+19775091	T5:T6	Substrate and its metabolite	NA	NA
+35204	T17:T20	Substrate and its metabolite	NA	NA
+17576809	T4:T5	Synonyms	NA	NA
+17576809	T6:T7	Synonyms	NA	NA
+12260	T2:T3	Substrate and its metabolite	NA	NA
+12260	T2:T4	Substrate and its metabolite	NA	NA
+12260	T3:T5	Substrate and its metabolite	NA	NA
+12260	T4:T5	Substrate and its metabolite	NA	NA
+16001212	T3:T4	Synonyms	NA	NA
+16001212	T3:T5	Substrate and its metabolite	NA	NA
+16001212	T3:T6	Substrate and its metabolite	NA	NA
+16001212	T4:T5	Substrate and its metabolite	NA	NA
+16001212	T4:T6	Substrate and its metabolite	NA	NA
+16001212	T5:T6	Synonyms	NA	NA
+16001212	T10:T11	Substrate and its metabolite	NA	NA
+16001212	T16:T17	Substrate and its metabolite	NA	NA
+21641977	T1:T2	Substrate and its metabolite	NA	NA
+21641977	T4:T5	Substrate and its metabolite	NA	NA
+21641977	T9:T10	Substrate and its metabolite	NA	NA
+12419014	T2:T3	Synonyms	NA	NA
+12419014	T2:T4	Synonyms	NA	NA
+12419014	T3:T4	Synonyms	NA	NA
+12419014	T5:T6	Substrate and its metabolite	NA	NA
+12419014	T5:T7	Substrate and its metabolite	NA	NA
+12419014	T5:T8	Substrate and its metabolite	NA	NA
+12419014	T5:T9	Substrate and its metabolite	NA	NA
+12419014	T8:T9	Synonyms	NA	NA
+16953321	T2:T3	Substrate and its metabolite	NA	NA
+16953321	T2:T4	Substrate and its metabolite	NA	NA
+16953321	T5:T6	Substrate and its metabolite	NA	NA
+16953321	T10:T12	Substrate and its metabolite	NA	NA
+16953321	T11:T12	Substrate and its metabolite	NA	NA
+16953321	T14:T15	Substrate and its metabolite	NA	NA
+17523057	T1:T2	Substrate and its metabolite	NA	NA
+17523057	T8:T19	Substrate and its metabolite	NA	NA
+17523057	T8:T20	Substrate and its metabolite	NA	NA
+17523057	T19:T20	Synonyms	NA	NA
+18588316	T4:T6	Substrate and its metabolite	isomerization	T5
+18588316	T4:T8	Substrate and its metabolite	decarboxylation	T7
+18588316	T9:T10	Substrate and its metabolite	NA	NA
+18588316	T10:T11	Substrate and its metabolite	NA	NA
+17446266	T3:T4	Synonyms	NA	NA
+12888209	T2:T3	Substrate and its metabolite	NA	NA
+23954659	T2:T3	Synonyms	NA	NA
+23954659	T2:T4	Substrate and its metabolite	NA	NA
+23954659	T3:T4	Substrate and its metabolite	NA	NA
+23954659	T7:T8	Substrate and its metabolite	NA	NA
+18411402	T7:T9	Substrate and its metabolite	NA	NA
+18411402	T7:T10	Substrate and its metabolite	NA	NA
+18411402	T9:T10	Synonyms	NA	NA
+18411402	T12:T13	Synonyms	NA	NA
+18411402	T15:T18	Substrate and its metabolite	NA	NA
+18411402	T16:T18	Substrate and its metabolite	NA	NA
+18411402	T17:T18	Substrate and its metabolite	NA	NA
+20053818	T8:T9	Substrate and its metabolite	NA	NA
+20053818	T12:T13	Synonyms	NA	NA
+20053818	T16:T22	Substrate and its metabolite	NA	NA
+20053818	T16:T23	Substrate and its metabolite	NA	NA
+20053818	T24:T27	Substrate and its metabolite	oxidation	T25
+23361230	T4:T5	Synonyms	NA	NA
+23361230	T4:T6	Synonyms	NA	NA
+23361230	T5:T6	Synonyms	NA	NA
+15386482	T12:T14	Substrate and its metabolite	hydroxylation	T13
+15386482	T12:T15	Substrate and its metabolite	hydroxylation	T13
+15386482	T22:T23	Substrate and its metabolite	NA	NA
+15386482	T22:T24	Substrate and its metabolite	NA	NA
+22359337	T4:T5	Synonyms	NA	NA
+22359337	T6:T7	Synonyms	NA	NA
+14643514	T3:T4	Synonyms	NA	NA
+14643514	T7:T8	Substrate and its metabolite	NA	NA
+14643514	T7:T9	Substrate and its metabolite	NA	NA
+14643514	T12:T15	Substrate and its metabolite	NA	NA
+14643514	T13:T15	Substrate and its metabolite	NA	NA
+14643514	T14:T15	Substrate and its metabolite	NA	NA
+16366672	T15:T16	Substrate and its metabolite	NA	NA
+16366672	T15:T17	Substrate and its metabolite	NA	NA
+18694910	T5:T6	Substrate and its metabolite	NA	NA
+18694910	T5:T7	Substrate and its metabolite	NA	NA
+18694910	T8:T10	Substrate and its metabolite	NA	NA
+11823757	T5:T6	Synonyms	NA	NA
+11823757	T5:T7	Synonyms	NA	NA
+11823757	T6:T7	Synonyms	NA	NA
+16522362	T1:T2	Substrate and its metabolite	NA	NA
+16522362	T3:T4	Synonyms	NA	NA
+16522362	T3:T5	Substrate and its metabolite	NA	NA
+16522362	T3:T6	Substrate and its metabolite	NA	NA
+16522362	T4:T5	Substrate and its metabolite	NA	NA
+16522362	T4:T6	Substrate and its metabolite	NA	NA
+16522362	T5:T6	Synonyms	NA	NA
+18854379	T3:T4	Synonyms	NA	NA
+18854379	T3:T7	Substrate and its metabolite	NA	NA
+18854379	T3:T8	Substrate and its metabolite	NA	NA
+18854379	T4:T7	Substrate and its metabolite	NA	NA
+18854379	T4:T8	Substrate and its metabolite	NA	NA
+18854379	T5:T6	Synonyms	NA	NA
+18854379	T5:T9	Substrate and its metabolite	NA	NA
+18854379	T5:T10	Substrate and its metabolite	NA	NA
+18854379	T6:T9	Substrate and its metabolite	NA	NA
+18854379	T6:T10	Substrate and its metabolite	NA	NA
+18854379	T6:T7	Substrate and its metabolite	NA	NA
+15242824	T6:T8	Substrate and its metabolite	NA	NA
+15242824	T7:T8	Synonyms	NA	NA
+15242824	T9:T12	Substrate and its metabolite	NA	NA
+15242824	T13:T14	Substrate and its metabolite	NA	NA
+15242824	T15:T16	Substrate and its metabolite	NA	NA
+15242824	T17:T18	Substrate and its metabolite	NA	NA
+23973791	T2:T3	Synonyms	NA	NA
+23973791	T5:T8	Substrate and its metabolite	NA	NA
+19415181	T2:T3	Synonyms	NA	NA
+19415181	T8:T9	Substrate and its metabolite	NA	NA
+19032724	T1:T2	Substrate and its metabolite	NA	NA
+19032724	T3:T4	Substrate and its metabolite	NA	NA
+18838508	T1:T2	Synonyms	NA	NA
+18838508	T1:T3	Substrate and its metabolite	NA	NA
+18838508	T1:T4	Substrate and its metabolite	NA	NA
+18838508	T2:T3	Substrate and its metabolite	NA	NA
+18838508	T2:T4	Substrate and its metabolite	NA	NA
+18838508	T3:T4	Synonyms	NA	NA
+18838508	T5:T6	Synonyms	NA	NA
+18838508	T5:T8	Substrate and its metabolite	NA	NA
+18838508	T5:T9	Substrate and its metabolite	NA	NA
+18838508	T6:T8	Substrate and its metabolite	NA	NA
+18838508	T6:T9	Substrate and its metabolite	NA	NA
+18838508	T8:T9	Synonyms	NA	NA
+18838508	T10:T11	Substrate and its metabolite	NA	NA
+18838508	T12:T13	Substrate and its metabolite	NA	NA
+21457144	T5:T6	Substrate and its metabolite	NA	NA
+21457144	T6:T7	Substrate and its metabolite	NA	NA
+21457144	T9:T11	Substrate and its metabolite	NA	NA
+21457144	T11:T13	Substrate and its metabolite	NA	NA
+21457144	T17:T18	Substrate and its metabolite	NA	NA
+21457144	T20:T22	Substrate and its metabolite	NA	NA
+21457144	T22:T23	Substrate and its metabolite	NA	NA
+21457144	T25:T26	Substrate and its metabolite	NA	NA
+21457144	T25:T27	Substrate and its metabolite	NA	NA
+21457144	T26:T27	Substrate and its metabolite	NA	NA
+21457144	T30:T31	Substrate and its metabolite	NA	NA
+21457144	T30:T32	Substrate and its metabolite	NA	NA
+21457144	T30:T33	Substrate and its metabolite	NA	NA
+15113612	T9:T10	Substrate and its metabolite	NA	NA
+20801890	T1:T2	Substrate and its metabolite	NA	NA
+20801890	T4:T5	Synonyms	NA	NA
+20801890	T6:T7	Substrate and its metabolite	NA	NA
+20801890	T6:T8	Substrate and its metabolite	NA	NA
+20801890	T7:T24	Substrate and its metabolite	NA	NA
+20801890	T8:T24	Substrate and its metabolite	NA	NA
+20801890	T10:T24	Substrate and its metabolite	NA	NA
+20801890	T26:T29	Substrate and its metabolite	NA	NA
+20801890	T30:T31	Substrate and its metabolite	NA	NA
+20801890	T32:T34	Substrate and its metabolite	NA	NA
+20801890	T32:T36	Substrate and its metabolite	NA	NA
+17433262	T17:T18	Substrate and its metabolite	NA	NA
+23584048	T2:T3	Substrate and its metabolite	NA	NA
+23584048	T2:T4	Substrate and its metabolite	NA	NA
+23584048	T3:T4	Synonyms	NA	NA
+23584048	T5:T6	Substrate and its metabolite	NA	NA
+23584048	T7:T8	Substrate and its metabolite	NA	NA
+23584048	T9:T10	Substrate and its metabolite	NA	NA
+23584048	T9:T11	Substrate and its metabolite	NA	NA
+23584048	T10:T11	Synonyms	NA	NA
+23584048	T10:T13	Synonyms	NA	NA
+23584048	T10:T16	Synonyms	NA	NA
+23584048	T10:T17	Synonyms	NA	NA
+23584048	T11:T13	Synonyms	NA	NA
+23584048	T11:T16	Synonyms	NA	NA
+23584048	T11:T17	Synonyms	NA	NA
+23584048	T13:T16	Synonyms	NA	NA
+23584048	T13:T17	Synonyms	NA	NA
+23584048	T15:T16	Substrate and its metabolite	NA	NA
+23584048	T15:T17	Substrate and its metabolite	NA	NA
+23584048	T16:T17	Synonyms	NA	NA
+23584048	T29:T30	Substrate and its metabolite	NA	NA
+23584048	T31:T32	Substrate and its metabolite	NA	NA
+23584048	T33:T34	Substrate and its metabolite	NA	NA
+23584048	T34:T35	Substrate and its metabolite	NA	NA
+22975224	T10:T11	Substrate and its metabolite	NA	NA
+22975224	T10:T12	Substrate and its metabolite	NA	NA
+22975224	T11:T12	Synonyms	NA	NA
+16891247	T3:T4	Synonyms	NA	NA
+16891247	T6:T7	Synonyms	NA	NA
+16891247	T8:T9	Synonyms	NA	NA
+21383096	T2:T5	Substrate and its metabolite	NA	NA
+21383096	T2:T6	Substrate and its metabolite	NA	NA
+21383096	T5:T6	Synonyms	NA	NA
+21383096	T7:T8	Substrate and its metabolite	NA	NA
+21383096	T15:T20	Substrate and its metabolite	NA	NA
+21383096	T15:T21	Substrate and its metabolite	NA	NA
+21383096	T20:T21	Synonyms	NA	NA
+21383096	T20:T22	Substrate and its metabolite	NA	NA
+21383096	T21:T22	Substrate and its metabolite	NA	NA
+21383096	T27:T28	Substrate and its metabolite	NA	NA
+21383096	T27:T33	Substrate and its metabolite	NA	NA
+21383096	T31:T33	Substrate and its metabolite	hydrolysis	T32
+23030741	T5:T6	Substrate and its metabolite	NA	NA
+23030741	T5:T7	Substrate and its metabolite	NA	NA
+23030741	T5:T10	Substrate and its metabolite	NA	NA
+23030741	T5:T11	Substrate and its metabolite	NA	NA
+23030741	T5:T15	Substrate and its metabolite	NA	NA
+23030741	T5:T16	Substrate and its metabolite	NA	NA
+15966464	T9:T11	Substrate and its metabolite	NA	NA
+20423954	T2:T3	Synonyms	NA	NA
+18777946	T3:T4	Substrate and its metabolite	NA	NA
+19744901	T1:T2	Substrate and its metabolite	NA	NA
+19744901	T3:T4	Substrate and its metabolite	NA	NA
+19744901	T3:T5	Substrate and its metabolite	NA	NA
+19744901	T4:T5	Synonyms	NA	NA
+19142178	T3:T4	Substrate and its metabolite	NA	NA
+19142178	T13:T14	Substrate and its metabolite	NA	NA
+20012293	T3:T4	Substrate and its metabolite	nitroreduction	T5
+20012293	T8:T9	Substrate and its metabolite	NA	NA
+20012293	T12:T13	Substrate and its metabolite	NA	NA
+21084760	T5:T6	Synonyms	NA	NA
+21084760	T7:T17	Substrate and its metabolite	NA	NA
+21084760	T7:T18	Substrate and its metabolite	NA	NA
+21084760	T9:T10	Synonyms	NA	NA
+21084760	T13:T14	Synonyms	NA	NA
+21084760	T15:T16	Synonyms	NA	NA
+21084760	T17:T18	Synonyms	NA	NA
+20870468	T1:T2	Substrate and its metabolite	NA	NA
+20870468	T3:T4	Substrate and its metabolite	NA	NA
+20870468	T8:T9	Substrate and its metabolite	NA	NA
+22419259	T3:T4	Synonyms	NA	NA
+22419259	T3:T5	Synonyms	NA	NA
+22419259	T4:T5	Synonyms	NA	NA
+22419259	T8:T9	Synonyms	NA	NA
+22419259	T8:T10	Substrate and its metabolite	NA	NA
+22419259	T9:T10	Substrate and its metabolite	NA	NA
+22419259	T13:T15	Substrate and its metabolite	NA	NA
+22419259	T14:T15	Substrate and its metabolite	NA	NA
+19428930	T7:T8	Substrate and its metabolite	NA	NA
+19428930	T7:T9	Substrate and its metabolite	NA	NA
+19428930	T7:T10	Substrate and its metabolite	NA	NA
+19428930	T7:T11	Substrate and its metabolite	NA	NA
+19428930	T13:T15	Substrate and its metabolite	NA	NA
+19428930	T13:T16	Substrate and its metabolite	NA	NA
+19428930	T18:T19	Substrate and its metabolite	NA	NA
+19428930	T18:T20	Substrate and its metabolite	NA	NA
+17477947	T1:T2	Substrate and its metabolite	NA	NA
+17477947	T4:T5	Synonyms	NA	NA
+17477947	T11:T12	Substrate and its metabolite	NA	NA
+17477947	T15:T16	Synonyms	NA	NA
+17477947	T24:T25	Synonyms	NA	NA
+17477947	T28:T29	Synonyms	NA	NA
+23111980	T2:T3	Synonyms	NA	NA
+23111980	T2:T4	Substrate and its metabolite	NA	NA
+23111980	T2:T5	Substrate and its metabolite	NA	NA
+23111980	T3:T4	Substrate and its metabolite	NA	NA
+23111980	T3:T5	Substrate and its metabolite	NA	NA
+23111980	T4:T5	Synonyms	NA	NA
+23111980	T8:T9	Substrate and its metabolite	NA	NA
+23111980	T8:T10	Substrate and its metabolite	NA	NA
+23111980	T9:T10	Substrate and its metabolite	NA	NA
+21177985	T2:T3	Synonyms	NA	NA
+21177985	T2:T4	Substrate and its metabolite	NA	NA
+21177985	T2:T5	Substrate and its metabolite	NA	NA
+21177985	T3:T4	Substrate and its metabolite	NA	NA
+21177985	T3:T5	Substrate and its metabolite	NA	NA
+21177985	T4:T5	Synonyms	NA	NA
+21177985	T8:T10	Substrate and its metabolite	NA	NA
+21177985	T9:T10	Substrate and its metabolite	NA	NA
+21045201	T1:T2	Synonyms	NA	NA
+21045201	T3:T4	Synonyms	NA	NA
+21045201	T3:T5	Synonyms	NA	NA
+21045201	T3:T6	Synonyms	NA	NA
+21045201	T4:T5	Synonyms	NA	NA
+21045201	T4:T6	Synonyms	NA	NA
+21045201	T5:T6	Synonyms	NA	NA
+22864876	T1:T2	Synonyms	NA	NA
+22864876	T3:T4	Synonyms	NA	NA
+22864876	T3:T6	Substrate and its metabolite	NA	NA
+22864876	T4:T6	Substrate and its metabolite	NA	NA
+22864876	T12:T15	Substrate and its metabolite	cleavage	T13
+22864876	T15:T18	Substrate and its metabolite	oxidation	T16
+20332199	T3:T4	Synonyms	NA	NA
+20332199	T3:T5	Synonyms	NA	NA
+20332199	T4:T5	Synonyms	NA	NA
+16415119	T3:T4	Substrate and its metabolite	NA	NA
+16415119	T3:T5	Substrate and its metabolite	NA	NA
+16415119	T3:T7	Substrate and its metabolite	deesterification	T6
+16415119	T3:T8	Substrate and its metabolite	deesterification	T6
+16415119	T4:T5	Synonyms	NA	NA
+16415119	T7:T8	Synonyms	NA	NA
+16415119	T7:T9	Substrate and its metabolite	NA	NA
+16415119	T8:T9	Substrate and its metabolite	NA	NA
+16415119	T10:T12	Substrate and its metabolite	NA	NA
+21346002	T2:T3	Synonyms	NA	NA
+19841149	T6:T7	Synonyms	NA	NA
+19841149	T8:T9	Synonyms	NA	NA
+19841149	T6:T10	Synonyms	NA	NA
+19841149	T7:T10	Synonyms	NA	NA
+19841149	T8:T10	Synonyms	NA	NA
+19841149	T9:T10	Synonyms	NA	NA
+19841149	T11:T12	Synonyms	NA	NA
+19841149	T13:T14	Synonyms	NA	NA
+19841149	T21:T22	Substrate and its metabolite	NA	NA
+19841149	T21:T23	Substrate and its metabolite	NA	NA
+19841149	T22:T23	Synonyms	NA	NA
+19841149	T27:T28	Substrate and its metabolite	NA	NA
+19841149	T27:T29	Substrate and its metabolite	NA	NA
+19841149	T28:T29	Synonyms	NA	NA
+15618697	T5:T6	Synonyms	NA	NA
+15618697	T5:T9	Substrate and its metabolite	NA	NA
+15618697	T5:T10	Substrate and its metabolite	NA	NA
+15618697	T6:T9	Substrate and its metabolite	NA	NA
+15618697	T6:T10	Substrate and its metabolite	NA	NA
+15618697	T7:T8	Synonyms	NA	NA
+15618697	T14:T15	Substrate and its metabolite	NA	NA
+22572482	T4:T5	Synonyms	NA	NA
+21336936	T1:T2	Substrate and its metabolite	NA	NA
+21336936	T3:T4	Substrate and its metabolite	NA	NA
+21336936	T3:T5	Substrate and its metabolite	NA	NA
+21336936	T3:T6	Substrate and its metabolite	NA	NA
+21336936	T3:T7	Substrate and its metabolite	NA	NA
+21336936	T3:T8	Substrate and its metabolite	NA	NA
+21336936	T3:T9	Substrate and its metabolite	NA	NA
+21336936	T4:T5	Synonyms	NA	NA
+21336936	T6:T7	Synonyms	NA	NA
+21336936	T8:T9	Synonyms	NA	NA
+21336936	T13:T16	Substrate and its metabolite	NA	NA
+21336936	T14:T16	Substrate and its metabolite	NA	NA
+21336936	T15:T16	Substrate and its metabolite	NA	NA
+19275157	T2:T3	Synonyms	NA	NA
+19275157	T6:T7	Substrate and its metabolite	NA	NA
+19275157	T6:T8	Substrate and its metabolite	NA	NA
+19275157	T6:T9	Substrate and its metabolite	NA	NA
+19275157	T6:T10	Substrate and its metabolite	cleavage	T12
+19275157	T6:T11	Substrate and its metabolite	cleavage	T12
+14742141	T3:T4	Substrate and its metabolite	NA	NA
+14742141	T6:T7	Substrate and its metabolite	oxidation	T5
+14742141	T6:T8	Substrate and its metabolite	oxidation	T5
+14742141	T9:T10	Substrate and its metabolite	NA	NA
+14742141	T9:T11	Substrate and its metabolite	NA	NA
+14742141	T12:T14	Substrate and its metabolite	NA	NA
+14742141	T15:T16	Substrate and its metabolite	NA	NA
+14742141	T15:T17	Substrate and its metabolite	NA	NA
+14742141	T15:T18	Substrate and its metabolite	NA	NA
+14742141	T15:T19	Substrate and its metabolite	NA	NA
+14742141	T15:T20	Substrate and its metabolite	NA	NA
+16951237	T1:T2	Substrate and its metabolite	NA	NA
+16951237	T3:T4	Substrate and its metabolite	NA	NA
+16951237	T3:T5	Substrate and its metabolite	NA	NA
+16951237	T8:T10	Substrate and its metabolite	NA	NA
+17709372	T3:T4	Synonyms	NA	NA
+17709372	T12:T13	Synonyms	NA	NA
+17483343	T4:T5	Synonyms	NA	NA
+17483343	T11:T12	Substrate and its metabolite	NA	NA
+17483343	T12:T13	Substrate and its metabolite	NA	NA
+17483343	T14:T15	Substrate and its metabolite	NA	NA
+16510541	T1:T2	Synonyms	NA	NA
+16510541	T18:T19	Substrate and its metabolite	NA	NA
+16510541	T18:T21	Substrate and its metabolite	NA	NA
+21924249	T3:T4	Synonyms	NA	NA
+21924249	T3:T5	Substrate and its metabolite	NA	NA
+21924249	T3:T6	Substrate and its metabolite	NA	NA
+21924249	T3:T7	Substrate and its metabolite	NA	NA
+21924249	T3:T8	Substrate and its metabolite	NA	NA
+21924249	T4:T5	Substrate and its metabolite	NA	NA
+21924249	T4:T6	Substrate and its metabolite	NA	NA
+21924249	T4:T7	Substrate and its metabolite	NA	NA
+21924249	T4:T8	Substrate and its metabolite	NA	NA
+21924249	T5:T6	Synonyms	NA	NA
+21924249	T7:T8	Synonyms	NA	NA
+21924249	T11:T13	Substrate and its metabolite	NA	NA
+21924249	T11:T14	Substrate and its metabolite	NA	NA
+21924249	T12:T15	Substrate and its metabolite	NA	NA
+21924249	T12:T16	Substrate and its metabolite	NA	NA
+21924249	T13:T14	Synonyms	NA	NA
+21924249	T15:T16	Synonyms	NA	NA
+21924249	T17:T19	Substrate and its metabolite	NA	NA
+21924249	T17:T20	Substrate and its metabolite	NA	NA
+21924249	T18:T21	Substrate and its metabolite	NA	NA
+21924249	T18:T22	Substrate and its metabolite	NA	NA
+21924249	T19:T20	Synonyms	NA	NA
+21924249	T21:T22	Synonyms	NA	NA
+15733541	T2:T3	Synonyms	NA	NA
+15733541	T2:T4	Synonyms	NA	NA
+15733541	T5:T6	Substrate and its metabolite	NA	NA
+15733541	T7:T8	Substrate and its metabolite	NA	NA
+15733541	T13:T14	Synonyms	NA	NA
+12469331	T2:T3	Synonyms	NA	NA
+12469331	T4:T5	Synonyms	NA	NA
+12469331	T6:T7	Substrate and its metabolite	NA	NA
+12469331	T6:T8	Substrate and its metabolite	NA	NA
+12469331	T7:T8	Synonyms	NA	NA
+12469331	T17:T18	Substrate and its metabolite	NA	NA
+12975333	T2:T4	Substrate and its metabolite	NA	NA
+12975333	T8:T12	Substrate and its metabolite	cleavage	T10
+12975333	T16:T17	Substrate and its metabolite	NA	NA
+12975333	T31:T33	Substrate and its metabolite	NA	NA
+19725579	T4:T5	Synonyms	NA	NA
+19725579	T7:T9	Substrate and its metabolite	NA	NA
+15833027	T6:T22	Substrate and its metabolite	NA	NA
+15962227	T2:T4	Substrate and its metabolite	NA	NA
+22752007	T22:T25	Substrate and its metabolite	NA	NA
+22752007	T25:T31	Substrate and its metabolite	NA	NA
+23439661	T2:T3	Synonyms	NA	NA
+14503661	T3:T4	Synonyms	NA	NA
+14503661	T3:T5	Substrate and its metabolite	NA	NA
+14503661	T3:T6	Substrate and its metabolite	NA	NA
+14503661	T4:T5	Substrate and its metabolite	NA	NA
+14503661	T4:T6	Substrate and its metabolite	NA	NA
+14503661	T5:T6	Synonyms	NA	NA
+14503661	T16:T17	Synonyms	NA	NA
+15523046	T6:T9	Substrate and its metabolite	NA	NA
+15523046	T6:T14	Substrate and its metabolite	hydroxylation	T10
+15523046	T6:T14	Substrate and its metabolite	conjugation	T12
+15523046	T6:T17	Substrate and its metabolite	NA	NA
+15523046	T6:T18	Substrate and its metabolite	N-dearylation	T19
+15523046	T28:T31	Substrate and its metabolite	NA	NA
+22031623	T4:T5	Substrate and its metabolite	NA	NA
+22245954	T3:T4	Substrate and its metabolite	NA	NA
+22245954	T3:T5	Substrate and its metabolite	NA	NA
+22245954	T3:T6	Substrate and its metabolite	NA	NA
+22245954	T3:T7	Substrate and its metabolite	NA	NA
+22245954	T3:T8	Substrate and its metabolite	NA	NA
+22245954	T4:T5	Synonyms	NA	NA
+22245954	T7:T8	Synonyms	NA	NA
+22245954	T25:T27	Substrate and its metabolite	NA	NA
+18197557	T1:T2	Substrate and its metabolite	NA	NA
+18197557	T3:T4	Substrate and its metabolite	NA	NA
+18197557	T8:T9	Substrate and its metabolite	NA	NA
+18197557	T11:T12	Substrate and its metabolite	NA	NA
+18197557	T11:T13	Substrate and its metabolite	NA	NA
+18197557	T11:T14	Substrate and its metabolite	NA	NA
+18197557	T11:T15	Substrate and its metabolite	NA	NA
+15895233	T1:T2	Synonyms	NA	NA
+15895233	T1:T3	Synonyms	NA	NA
+15895233	T2:T3	Synonyms	NA	NA
+15895233	T5:T9	Substrate and its metabolite	NA	NA
+12018995	T1:T2	Synonyms	NA	NA
+12018995	T3:T4	Synonyms	NA	NA
+12018995	T11:T13	Substrate and its metabolite	NA	NA
+12018995	T12:T13	Substrate and its metabolite	NA	NA
+12018995	T13:T14	Substrate and its metabolite	NA	NA
+12018995	T13:T15	Substrate and its metabolite	NA	NA
+12018995	T20:T21	Substrate and its metabolite	NA	NA
+12018995	T20:T22	Substrate and its metabolite	NA	NA
+12018995	T28:T29	Substrate and its metabolite	NA	NA
+18549292	T4:T5	Substrate and its metabolite	NA	NA
+18549292	T4:T6	Substrate and its metabolite	NA	NA
+18549292	T4:T7	Substrate and its metabolite	NA	NA
+18549292	T4:T8	Substrate and its metabolite	NA	NA
+18549292	T5:T6	Synonyms	NA	NA
+18549292	T7:T8	Synonyms	NA	NA
+18549292	T11:T12	Substrate and its metabolite	NA	NA
+18549292	T11:T13	Substrate and its metabolite	NA	NA
+18549292	T15:T16	Substrate and its metabolite	NA	NA
+16381667	T5:T6	Synonyms	NA	NA
+21444712	T3:T4	Substrate and its metabolite	NA	NA
+21444712	T6:T7	Substrate and its metabolite	NA	NA
+12386137	T2:T3	Synonyms	NA	NA
+12386137	T2:T4	Synonyms	NA	NA
+12386137	T3:T4	Synonyms	NA	NA
+12386137	T5:T6	Substrate and its metabolite	NA	NA
+12386137	T7:T8	Substrate and its metabolite	NA	NA
+12409737	T4:T5	Synonyms	NA	NA
+12409737	T6:T7	Synonyms	NA	NA
+12409737	T8:T9	Synonyms	NA	NA
+12409737	T10:T12	Substrate and its metabolite	NA	NA
+12409737	T13:T14	Substrate and its metabolite	NA	NA
+12409737	T15:T17	Substrate and its metabolite	NA	NA
+20564607	T1:T2	Substrate and its metabolite	NA	NA
+20564607	T3:T4	Synonyms	NA	NA
+20564607	T3:T5	Substrate and its metabolite	NA	NA
+20564607	T3:T6	Substrate and its metabolite	NA	NA
+20564607	T4:T5	Substrate and its metabolite	NA	NA
+20564607	T4:T6	Substrate and its metabolite	NA	NA
+20564607	T5:T6	Synonyms	NA	NA
+14765546	T1:T2	Substrate and its metabolite	NA	NA
+14765546	T3:T4	Substrate and its metabolite	NA	NA
+11133658	T3:T4	Substrate and its metabolite	NA	NA
+11133658	T3:T5	Substrate and its metabolite	NA	NA
+11133658	T6:T7	Synonyms	NA	NA
+11133658	T6:T11	Substrate and its metabolite	NA	NA
+11133658	T6:T12	Substrate and its metabolite	NA	NA
+11133658	T7:T11	Substrate and its metabolite	NA	NA
+11133658	T7:T12	Substrate and its metabolite	NA	NA
+11133658	T8:T9	Synonyms	NA	NA
+11133658	T8:T11	Substrate and its metabolite	NA	NA
+11133658	T8:T12	Substrate and its metabolite	NA	NA
+11133658	T9:T11	Substrate and its metabolite	NA	NA
+11133658	T9:T12	Substrate and its metabolite	NA	NA
+11133658	T11:T12	Synonyms	NA	NA
+11133658	T24:T26	Substrate and its metabolite	NA	NA
+11133658	T24:T27	Substrate and its metabolite	NA	NA
+11133658	T24:T28	Substrate and its metabolite	NA	NA
+11133658	T25:T26	Substrate and its metabolite	NA	NA
+11133658	T25:T27	Substrate and its metabolite	NA	NA
+11133658	T25:T28	Substrate and its metabolite	NA	NA
+11133658	T26:T27	Synonyms	NA	NA
+11133658	T29:T31	Substrate and its metabolite	NA	NA
+11133658	T30:T31	Substrate and its metabolite	NA	NA
+20671097	T9:T10	Substrate and its metabolite	NA	NA
+22429874	T2:T3	Synonyms	NA	NA
+22429874	T5:T7	Substrate and its metabolite	NA	NA
+22429874	T13:T14	Substrate and its metabolite	NA	NA
+22429874	T15:T16	Substrate and its metabolite	NA	NA
+22429874	T15:T18	Substrate and its metabolite	NA	NA
+11335786	T1:T2	Substrate and its metabolite	NA	NA
+11335786	T6:T7	Substrate and its metabolite	cyclization	T9
+11335786	T6:T8	Substrate and its metabolite	cyclization	T9
+11335786	T7:T8	Synonyms	NA	NA
+16028005	T2:T3	Synonyms	NA	NA
+16028005	T6:T7	Substrate and its metabolite	NA	NA
+16028005	T6:T8	Substrate and its metabolite	NA	NA
+16028005	T6:T9	Substrate and its metabolite	NA	NA
+16028005	T7:T8	Synonyms	NA	NA
+16028005	T10:T11	Substrate and its metabolite	NA	NA
+16019948	T1:T2	Synonyms	NA	NA
+16019948	T3:T4	Synonyms	NA	NA
+16019948	T3:T5	Substrate and its metabolite	NA	NA
+16019948	T3:T6	Substrate and its metabolite	NA	NA
+16019948	T4:T5	Substrate and its metabolite	NA	NA
+16019948	T4:T6	Substrate and its metabolite	NA	NA
+16019948	T5:T6	Synonyms	NA	NA
+16019948	T17:T18	Substrate and its metabolite	NA	NA
+11583481	T10:T11	Substrate and its metabolite	NA	NA
+20110038	T4:T5	Substrate and its metabolite	NA	NA
+20110038	T20:T21	Substrate and its metabolite	NA	NA
+20923245	T1:T2	Synonyms	NA	NA
+20923245	T8:T9	Synonyms	NA	NA
+20923245	T14:T15	Substrate and its metabolite	NA	NA
+17980680	T1:T2	Substrate and its metabolite	NA	NA
+17980680	T3:T4	Synonyms	NA	NA
+17980680	T3:T5	Synonyms	NA	NA
+17980680	T4:T5	Synonyms	NA	NA
+17980680	T8:T9	Synonyms	NA	NA
+17980680	T8:T10	Substrate and its metabolite	NA	NA
+17980680	T9:T10	Substrate and its metabolite	NA	NA
+15229170	T3:T4	Synonyms	NA	NA
+15229170	T5:T6	Synonyms	NA	NA
+15229170	T7:T8	Synonyms	NA	NA
+15336377	T4:T5	Substrate and its metabolite	NA	NA
+15336377	T4:T6	Substrate and its metabolite	NA	NA
+15336377	T4:T7	Substrate and its metabolite	NA	NA
+15336377	T4:T8	Substrate and its metabolite	NA	NA
+15336377	T5:T6	Synonyms	NA	NA
+15336377	T7:T8	Synonyms	NA	NA
+21657966	T3:T4	Synonyms	NA	NA
+21657966	T3:T5	Synonyms	NA	NA
+21657966	T4:T5	Synonyms	NA	NA
+21657966	T7:T8	Substrate and its metabolite	NA	NA
+21657966	T11:T12	Substrate and its metabolite	NA	NA
+21657966	T11:T14	Substrate and its metabolite	NA	NA
+21657966	T16:T17	Substrate and its metabolite	NA	NA
+21657966	T18:T19	Substrate and its metabolite	NA	NA
+17661339	T2:T3	Synonyms	NA	NA
+17661339	T4:T15	Substrate and its metabolite	C-demethylation	T13
+17661339	T4:T16	Substrate and its metabolite	C-demethylation	T13
+19688720	T4:T5	Synonyms	NA	NA
+19688720	T4:T6	Substrate and its metabolite	NA	NA
+19688720	T4:T7	Substrate and its metabolite	NA	NA
+19688720	T5:T6	Substrate and its metabolite	NA	NA
+19688720	T5:T7	Substrate and its metabolite	NA	NA
+19688720	T6:T7	Synonyms	NA	NA
+19916998	T3:T4	Synonyms	NA	NA
+19916998	T10:T11	Substrate and its metabolite	NA	NA
+19916998	T10:T12	Substrate and its metabolite	NA	NA
+19916998	T10:T13	Substrate and its metabolite	NA	NA
+19916998	T11:T12	Synonyms	NA	NA
+17050648	T3:T4	Synonyms	NA	NA
+17050648	T3:T6	Substrate and its metabolite	NA	NA
+17050648	T4:T6	Substrate and its metabolite	NA	NA
+17050648	T9:T11	Substrate and its metabolite	NA	NA
+17050648	T10:T11	Substrate and its metabolite	NA	NA
+17050648	T12:T13	Substrate and its metabolite	NA	NA
+20478851	T2:T3	Synonyms	NA	NA
+20478851	T2:T4	Synonyms	NA	NA
+20478851	T3:T4	Synonyms	NA	NA
+20478851	T21:T22	Synonyms	NA	NA
+16280263	T2:T3	Synonyms	NA	NA
+16280263	T2:T4	Substrate and its metabolite	NA	NA
+16280263	T2:T5	Substrate and its metabolite	NA	NA
+16280263	T2:T6	Substrate and its metabolite	NA	NA
+16280263	T2:T7	Substrate and its metabolite	NA	NA
+16280263	T3:T4	Substrate and its metabolite	NA	NA
+16280263	T3:T5	Substrate and its metabolite	NA	NA
+16280263	T3:T6	Substrate and its metabolite	NA	NA
+16280263	T3:T7	Substrate and its metabolite	NA	NA
+16280263	T4:T5	Synonyms	NA	NA
+16280263	T6:T7	Synonyms	NA	NA
+18033636	T1:T2	Synonyms	NA	NA
+18033636	T3:T4	Synonyms	NA	NA
+17080401	T3:T4	Synonyms	NA	NA
+16501008	T1:T2	Substrate and its metabolite	NA	NA
+16501008	T6:T7	Substrate and its metabolite	NA	NA
+15258113	T1:T2	Synonyms	NA	NA
+15258113	T5:T6	Synonyms	NA	NA
+15258113	T8:T9	Synonyms	NA	NA
+15258113	T14:T15	Substrate and its metabolite	NA	NA
+17094953	T2:T3	Synonyms	NA	NA
+17094953	T8:T9	Synonyms	NA	NA
+17094953	T20:T22	Substrate and its metabolite	NA	NA
+17094953	T21:T22	Substrate and its metabolite	NA	NA
+12731658	T2:T3	Synonyms	NA	NA
+12731658	T4:T5	Synonyms	NA	NA
+12731658	T7:T8	Substrate and its metabolite	NA	NA
+12731658	T7:T9	Substrate and its metabolite	NA	NA
+12731658	T8:T9	Synonyms	NA	NA
+16531475	T1:T2	Synonyms	NA	NA
+16531475	T3:T4	Synonyms	NA	NA
+16531475	T3:T4	Synonyms	NA	NA
+18690683	T2:T3	Synonyms	NA	NA
+18690683	T2:T4	Substrate and its metabolite	NA	NA
+18690683	T2:T5	Substrate and its metabolite	NA	NA
+18690683	T2:T6	Substrate and its metabolite	NA	NA
+18690683	T2:T7	Substrate and its metabolite	NA	NA
+18690683	T3:T4	Substrate and its metabolite	NA	NA
+18690683	T3:T5	Substrate and its metabolite	NA	NA
+18690683	T3:T6	Substrate and its metabolite	NA	NA
+18690683	T3:T7	Substrate and its metabolite	NA	NA
+18690683	T4:T5	Synonyms	NA	NA
+18690683	T6:T7	Synonyms	NA	NA
+18690683	T8:T9	Synonyms	NA	NA
+16502355	T2:T3	Synonyms	NA	NA
+16502355	T9:T10	Substrate and its metabolite	NA	NA
+16502355	T10:T11	Substrate and its metabolite	NA	NA
+16019947	T4:T5	Synonyms	NA	NA
+16019947	T8:T9	Substrate and its metabolite	NA	NA
+16019947	T8:T10	Substrate and its metabolite	NA	NA
+16019947	T9:T10	Synonyms	NA	NA
+16019947	T16:T17	Substrate and its metabolite	O-Demethylation	T14
+16019947	T16:T17	Substrate and its metabolite	N-dehydroxylation	T15
+16019947	T28:T29	Substrate and its metabolite	NA	NA
+15980102	T1:T2	Synonyms	NA	NA
+15980102	T3:T4	Substrate and its metabolite	NA	NA
+15980102	T3:T5	Substrate and its metabolite	NA	NA
+15980102	T4:T5	Synonyms	NA	NA
+15980102	T9:T10	Substrate and its metabolite	NA	NA
+22324379	T1:T2	Synonyms	NA	NA
+22324379	T3:T4	Synonyms	NA	NA
+21521795	T4:T5	Synonyms	NA	NA
+21521795	T8:T9	Substrate and its metabolite	desulfuration	T7
+21521795	T8:T10	Substrate and its metabolite	desulfuration	T7
+21521795	T9:T10	Synonyms	NA	NA
+21521795	T12:T13	Substrate and its metabolite	dearylation	T11
+16581944	T2:T3	Synonyms	NA	NA
+16581944	T7:T9	Substrate and its metabolite	NA	NA
+16581944	T10:T11	Substrate and its metabolite	NA	NA
+16581944	T10:T12	Substrate and its metabolite	NA	NA
+16581944	T15:T16	Substrate and its metabolite	NA	NA
+16581944	T15:T21	Substrate and its metabolite	NA	NA
+16581944	T25:T26	Substrate and its metabolite	NA	NA
+15005879	T2:T3	Synonyms	NA	NA
+15005879	T2:T4	Synonyms	NA	NA
+15005879	T3:T4	Synonyms	NA	NA
+15005879	T5:T6	Substrate and its metabolite	NA	NA
+15005879	T7:T9	Substrate and its metabolite	NA	NA
+14985146	T1:T2	Synonyms	NA	NA
+14985146	T3:T4	Synonyms	NA	NA
+14985146	T5:T6	Substrate and its metabolite	O-demethylation	T9
+14985146	T5:T7	Substrate and its metabolite	O-demethylation	T9
+14985146	T6:T7	Synonyms	NA	NA
+14985146	T12:T13	Substrate and its metabolite	NA	NA
+12742115	T2:T5	Substrate and its metabolite	NA	NA
+14744951	T3:T15	Substrate and its metabolite	oxidation	T13
+14744951	T3:T15	Substrate and its metabolite	desaturation	T15
+14744951	T19:T21	Substrate and its metabolite	cleavage	T20
+18804610	T3:T4	Synonyms	NA	NA
+18804610	T3:T5	Substrate and its metabolite	NA	NA
+18804610	T3:T6	Substrate and its metabolite	NA	NA
+18804610	T4:T5	Substrate and its metabolite	NA	NA
+18804610	T4:T6	Substrate and its metabolite	NA	NA
+18804610	T5:T6	Synonyms	NA	NA
+19709934	T2:T5	Substrate and its metabolite	NA	NA
+19709934	T5:T8	Substrate and its metabolite	nitroreduction	T6
+19709934	T5:T10	Substrate and its metabolite	nitroreduction	T6
+19709934	T11:T13	Substrate and its metabolite	NA	NA
+19709934	T11:T15	Substrate and its metabolite	oxidative debromoethylation	T14
+21703945	T1:T2	Substrate and its metabolite	NA	NA
+21703945	T3:T4	Substrate and its metabolite	NA	NA
+17315539	T1:T2	Synonyms	NA	NA
+17315539	T1:T3	Substrate and its metabolite	NA	NA
+17315539	T2:T3	Substrate and its metabolite	NA	NA
+17315539	T7:T13	Substrate and its metabolite	N/O-demethylation	T8
+17315539	T7:T14	Substrate and its metabolite	N/O-demethylation	T8
+17315539	T7:T15	Substrate and its metabolite	N/O-demethylation	T8
+17315539	T7:T16	Substrate and its metabolite	phenylhydroxylation	T9
+17315539	T7:T17	Substrate and its metabolite	phenylhydroxylation	T9
+17315539	T7:T18	Substrate and its metabolite	phenylhydroxylation	T9
+17315539	T7:T19	Substrate and its metabolite	pyrido-oxidation	T10
+17315539	T7:T20	Substrate and its metabolite	pyrido-oxidation	T10
+20187082	T2:T3	Synonyms	NA	NA
+20187082	T6:T8	Substrate and its metabolite	NA	NA
+20187082	T6:T9	Substrate and its metabolite	NA	NA
+17592613	T2:T3	Substrate and its metabolite	NA	NA
+17592613	T2:T4	Substrate and its metabolite	NA	NA
+20149761	T2:T3	Synonyms	NA	NA
+20149761	T5:T6	Substrate and its metabolite	NA	NA
+20149761	T5:T7	Substrate and its metabolite	NA	NA
+20149761	T6:T7	Synonyms	NA	NA
+18548464	T1:T2	Substrate and its metabolite	NA	NA
+18548464	T4:T5	Substrate and its metabolite	NA	NA
+18548464	T4:T6	Substrate and its metabolite	NA	NA
+18548464	T5:T6	Synonyms	NA	NA
+18548464	T7:T8	Substrate and its metabolite	NA	NA
+18548464	T7:T10	Substrate and its metabolite	NA	NA
+18548464	T12:T13	Substrate and its metabolite	NA	NA
+18548464	T17:T18	Substrate and its metabolite	NA	NA
+18548464	T19:T20	Substrate and its metabolite	NA	NA
+18548464	T22:T23	Substrate and its metabolite	hydrolysis	T21
+18548464	T23:T24	Substrate and its metabolite	hydrolysis	T21
+17913896	T4:T5	Substrate and its metabolite	NA	NA
+20739639	T10:T18	Substrate and its metabolite	NA	NA
+17001612	T1:T2	Substrate and its metabolite	NA	NA
+17001612	T3:T6	Substrate and its metabolite	NA	NA
+17001612	T6:T10	Substrate and its metabolite	NA	NA
+17001612	T11:T12	Substrate and its metabolite	NA	NA
+17001612	T18:T19	Substrate and its metabolite	NA	NA
+21963275	T2:T3	Synonyms	NA	NA
+15089099	T2:T3	Substrate and its metabolite	NA	NA
+15089099	T7:T8	Substrate and its metabolite	NA	NA
+15089099	T7:T10	Substrate and its metabolite	NA	NA
+15089099	T19:T20	Synonyms	NA	NA
+15089099	T32:T35	Substrate and its metabolite	NA	NA
+15089099	T32:T37	Substrate and its metabolite	NA	NA
+11397393	T2:T3	Synonyms	NA	NA
+11397393	T2:T5	Substrate and its metabolite	NA	NA
+11397393	T3:T5	Substrate and its metabolite	NA	NA
+11397393	T6:T9	Substrate and its metabolite	NA	NA
+11397393	T6:T10	Substrate and its metabolite	NA	NA
+15187407	T3:T6	Substrate and its metabolite	NA	NA
+15187407	T3:T7	Substrate and its metabolite	NA	NA
+15187407	T3:T8	Substrate and its metabolite	NA	NA
+15187407	T3:T9	Substrate and its metabolite	NA	NA
